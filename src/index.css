@@ -1,0 +1,120 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Design tokens. Light + dark via the .dark class on <html>. */
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, "Noto Sans SC", sans-serif;
+  --font-han: "Noto Sans SC", "PingFang SC", "Hiragino Sans GB",
+    "Microsoft YaHei", sans-serif;
+
+  --radius: 0.85rem;
+}
+
+:root {
+  --background: #f6f7fb;
+  --foreground: #0b0f17;
+  --card: #ffffff;
+  --card-foreground: #0b0f17;
+  --muted: #eef1f6;
+  --muted-foreground: #5b6472;
+  --border: #e2e6ee;
+  --input: #e2e6ee;
+  --primary: #e0205a;
+  --primary-foreground: #ffffff;
+  --accent: #ef4d77;
+  --ring: #e0205a;
+
+  /* Pinyin tone colors (Pleco/Hanping convention; readable on light bg). */
+  --tone1: #d11a2a; /* flat  - red */
+  --tone2: #1f9d4d; /* rising - green */
+  --tone3: #1f6feb; /* dipping - blue */
+  --tone4: #8a3ffc; /* falling - purple */
+  --tone5: #8b94a3; /* neutral - gray */
+}
+
+.dark {
+  --background: #0b0f17;
+  --foreground: #e8ecf3;
+  --card: #131927;
+  --card-foreground: #e8ecf3;
+  --muted: #1b2230;
+  --muted-foreground: #97a1b2;
+  --border: #232b3b;
+  --input: #232b3b;
+  --primary: #ff4d79;
+  --primary-foreground: #1a0810;
+  --accent: #ff6f93;
+  --ring: #ff4d79;
+
+  --tone1: #ff6b6b;
+  --tone2: #4ade80;
+  --tone3: #60a5fa;
+  --tone4: #c084fc;
+  --tone5: #9aa4b4;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-accent: var(--accent);
+  --color-ring: var(--ring);
+  --color-tone1: var(--tone1);
+  --color-tone2: var(--tone2);
+  --color-tone3: var(--tone3);
+  --color-tone4: var(--tone4);
+  --color-tone5: var(--tone5);
+  --radius-lg: var(--radius);
+  --radius-md: calc(var(--radius) - 0.25rem);
+  --radius-sm: calc(var(--radius) - 0.4rem);
+}
+
+* {
+  border-color: var(--border);
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Tone color utility classes used by pinyin rendering. */
+.tone1 { color: var(--tone1); }
+.tone2 { color: var(--tone2); }
+.tone3 { color: var(--tone3); }
+.tone4 { color: var(--tone4); }
+.tone5,
+.tone0,
+.tone { color: var(--tone5); }
+
+.font-han { font-family: var(--font-han); }
+
+/* Custom scrollbar for a more polished feel. */
+@media (pointer: fine) {
+  ::-webkit-scrollbar { width: 10px; height: 10px; }
+  ::-webkit-scrollbar-thumb {
+    background: var(--border);
+    border-radius: 999px;
+    border: 2px solid var(--background);
+  }
+  ::-webkit-scrollbar-thumb:hover { background: var(--muted-foreground); }
+}

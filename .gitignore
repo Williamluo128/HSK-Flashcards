@@ -1,0 +1,13 @@
+# Dependencies & build output
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Local development runtime (legacy PHP/MySQL stack, bundled PHP, browser artifacts)
+.localdb/
+.playwright-cli/
+output/
+
+# Editor / OS
+.DS_Store
+*.log

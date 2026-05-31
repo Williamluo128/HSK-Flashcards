@@ -1,0 +1,16110 @@
+[
+{
+"id": 0,
+"hanzi": "你",
+"chars": [
+"你"
+],
+"pinyin": "nǐ",
+"pinyinSyllables": [
+"nǐ"
+],
+"pinyinNum": [
+"ni3"
+],
+"tones": [
+3
+],
+"english": "you (singular)",
+"pos": "pronoun",
+"hsk": 1,
+"chapter": 1
+},
+{
+"id": 1,
+"hanzi": "好",
+"chars": [
+"好"
+],
+"pinyin": "hǎo",
+"pinyinSyllables": [
+"hǎo"
+],
+"pinyinNum": [
+"hao3"
+],
+"tones": [
+3
+],
+"english": "good, fine",
+"pos": "adjective",
+"hsk": 1,
+"chapter": 1
+},
+{
+"id": 2,
+"hanzi": "您",
+"chars": [
+"您"
+],
+"pinyin": "nín",
+"pinyinSyllables": [
+"nín"
+],
+"pinyinNum": [
+"nin2"
+],
+"tones": [
+2
+],
+"english": "you (polite)",
+"pos": "pronoun",
+"hsk": 1,
+"chapter": 1
+},
+{
+"id": 3,
+"hanzi": "你们",
+"chars": [
+"你",
+"们"
+],
+"pinyin": "nǐ men",
+"pinyinSyllables": [
+"nǐ",
+"men"
+],
+"pinyinNum": [
+"ni3",
+"men5"
+],
+"tones": [
+3,
+5
+],
+"english": "you (plural)",
+"pos": "pronoun",
+"hsk": 1,
+"chapter": 1
+},
+{
+"id": 4,
+"hanzi": "对不起",
+"chars": [
+"对",
+"不",
+"起"
+],
+"pinyin": "duì bù qǐ",
+"pinyinSyllables": [
+"duì",
+"bù",
+"qǐ"
+],
+"pinyinNum": [
+"dui4",
+"bu4",
+"qi3"
+],
+"tones": [
+4,
+4,
+3
+],
+"english": "to be sorry",
+"pos": "verb",
+"hsk": 1,
+"chapter": 1
+},
+{
+"id": 5,
+"hanzi": "没关系",
+"chars": [
+"没",
+"关",
+"系"
+],
+"pinyin": "méi guān xì",
+"pinyinSyllables": [
+"méi",
+"guān",
+"xì"
+],
+"pinyinNum": [
+"mei2",
+"guan1",
+"xi4"
+],
+"tones": [
+2,
+1,
+4
+],
+"english": "that's OK, it doesn't matter",
+"pos": "",
+"hsk": 1,
+"chapter": 1
+},
+{
+"id": 6,
+"hanzi": "谢谢",
+"chars": [
+"谢",
+"谢"
+],
+"pinyin": "xiè xiè",
+"pinyinSyllables": [
+"xiè",
+"xiè"
+],
+"pinyinNum": [
+"xie4",
+"xie4"
+],
+"tones": [
+4,
+4
+],
+"english": "to thank",
+"pos": "verb",
+"hsk": 1,
+"chapter": 2
+},
+{
+"id": 7,
+"hanzi": "不",
+"chars": [
+"不"
+],
+"pinyin": "bù",
+"pinyinSyllables": [
+"bù"
+],
+"pinyinNum": [
+"bu4"
+],
+"tones": [
+4
+],
+"english": "no, not",
+"pos": "",
+"hsk": 1,
+"chapter": 2
+},
+{
+"id": 8,
+"hanzi": "不客气",
+"chars": [
+"不",
+"客",
+"气"
+],
+"pinyin": "bú kè qì",
+"pinyinSyllables": [
+"bú",
+"kè",
+"qì"
+],
+"pinyinNum": [
+"bu2",
+"ke4",
+"qi4"
+],
+"tones": [
+2,
+4,
+4
+],
+"english": "you're welcome, don't mention it",
+"pos": "",
+"hsk": 1,
+"chapter": 2
+},
+{
+"id": 9,
+"hanzi": "再见",
+"chars": [
+"再",
+"见"
+],
+"pinyin": "zài jiàn",
+"pinyinSyllables": [
+"zài",
+"jiàn"
+],
+"pinyinNum": [
+"zai4",
+"jian4"
+],
+"tones": [
+4,
+4
+],
+"english": "to see you around",
+"pos": "verb",
+"hsk": 1,
+"chapter": 2
+},
+{
+"id": 10,
+"hanzi": "叫",
+"chars": [
+"叫"
+],
+"pinyin": "jiào",
+"pinyinSyllables": [
+"jiào"
+],
+"pinyinNum": [
+"jiao4"
+],
+"tones": [
+4
+],
+"english": "to call, to be called",
+"pos": "verb",
+"hsk": 1,
+"chapter": 3
+},
+{
+"id": 11,
+"hanzi": "什么",
+"chars": [
+"什",
+"么"
+],
+"pinyin": "shén me",
+"pinyinSyllables": [
+"shén",
+"me"
+],
+"pinyinNum": [
+"shen2",
+"me5"
+],
+"tones": [
+2,
+5
+],
+"english": "what",
+"pos": "pronoun",
+"hsk": 1,
+"chapter": 3
+},
+{
+"id": 12,
+"hanzi": "名字",
+"chars": [
+"名",
+"字"
+],
+"pinyin": "míng zì",
+"pinyinSyllables": [
+"míng",
+"zì"
+],
+"pinyinNum": [
+"ming2",
+"zi4"
+],
+"tones": [
+2,
+4
+],
+"english": "name",
+"pos": "noun",
+"hsk": 1,
+"chapter": 3
+},
+{
+"id": 13,
+"hanzi": "我",
+"chars": [
+"我"
+],
+"pinyin": "wǒ",
+"pinyinSyllables": [
+"wǒ"
+],
+"pinyinNum": [
+"wo3"
+],
+"tones": [
+3
+],
+"english": "I, me",
+"pos": "pronoun",
+"hsk": 1,
+"chapter": 3
+},
+{
+"id": 14,
+"hanzi": "李月",
+"chars": [
+"李",
+"月"
+],
+"pinyin": "lǐ yuè",
+"pinyinSyllables": [
+"lǐ",
+"yuè"
+],
+"pinyinNum": [
+"li3",
+"yue4"
+],
+"tones": [
+3,
+4
+],
+"english": "",
+"pos": "proper noun",
+"hsk": 1,
+"chapter": 3
+},
+{
+"id": 15,
+"hanzi": "是",
+"chars": [
+"是"
+],
+"pinyin": "shì",
+"pinyinSyllables": [
+"shì"
+],
+"pinyinNum": [
+"shi4"
+],
+"tones": [
+4
+],
+"english": "to be",
+"pos": "verb",
+"hsk": 1,
+"chapter": 3
+},
+{
+"id": 16,
+"hanzi": "老师",
+"chars": [
+"老",
+"师"
+],
+"pinyin": "lǎo shī",
+"pinyinSyllables": [
+"lǎo",
+"shī"
+],
+"pinyinNum": [
+"lao3",
+"shi1"
+],
+"tones": [
+3,
+1
+],
+"english": "teacher",
+"pos": "noun",
+"hsk": 1,
+"chapter": 3
+},
+{
+"id": 17,
+"hanzi": "吗",
+"chars": [
+"吗"
+],
+"pinyin": "ma",
+"pinyinSyllables": [
+"ma"
+],
+"pinyinNum": [
+"ma5"
+],
+"tones": [
+5
+],
+"english": "used at the end of a question",
+"pos": "particle",
+"hsk": 1,
+"chapter": 3
+},
+{
+"id": 18,
+"hanzi": "学生",
+"chars": [
+"学",
+"生"
+],
+"pinyin": "xué shēng",
+"pinyinSyllables": [
+"xué",
+"shēng"
+],
+"pinyinNum": [
+"xue2",
+"sheng1"
+],
+"tones": [
+2,
+1
+],
+"english": "student",
+"pos": "noun",
+"hsk": 1,
+"chapter": 3
+},
+{
+"id": 19,
+"hanzi": "人",
+"chars": [
+"人"
+],
+"pinyin": "rén",
+"pinyinSyllables": [
+"rén"
+],
+"pinyinNum": [
+"ren2"
+],
+"tones": [
+2
+],
+"english": "human, person",
+"pos": "noun",
+"hsk": 1,
+"chapter": 3
+},
+{
+"id": 20,
+"hanzi": "她",
+"chars": [
+"她"
+],
+"pinyin": "tā",
+"pinyinSyllables": [
+"tā"
+],
+"pinyinNum": [
+"ta1"
+],
+"tones": [
+1
+],
+"english": "she, her",
+"pos": "pronoun",
+"hsk": 1,
+"chapter": 4
+},
+{
+"id": 21,
+"hanzi": "谁",
+"chars": [
+"谁"
+],
+"pinyin": "shuí",
+"pinyinSyllables": [
+"shuí"
+],
+"pinyinNum": [
+"shui2"
+],
+"tones": [
+2
+],
+"english": "who, whom",
+"pos": "pronoun",
+"hsk": 1,
+"chapter": 4
+},
+{
+"id": 22,
+"hanzi": "的",
+"chars": [
+"的"
+],
+"pinyin": "de",
+"pinyinSyllables": [
+"de"
+],
+"pinyinNum": [
+"de5"
+],
+"tones": [
+5
+],
+"english": "used after an attribute",
+"pos": "particle",
+"hsk": 1,
+"chapter": 4
+},
+{
+"id": 23,
+"hanzi": "汉语",
+"chars": [
+"汉",
+"语"
+],
+"pinyin": "hàn yǔ",
+"pinyinSyllables": [
+"hàn",
+"yǔ"
+],
+"pinyinNum": [
+"han4",
+"yu3"
+],
+"tones": [
+4,
+3
+],
+"english": "Chinese (language)",
+"pos": "noun",
+"hsk": 1,
+"chapter": 4
+},
+{
+"id": 24,
+"hanzi": "哪",
+"chars": [
+"哪"
+],
+"pinyin": "nǎ",
+"pinyinSyllables": [
+"nǎ"
+],
+"pinyinNum": [
+"na3"
+],
+"tones": [
+3
+],
+"english": "which",
+"pos": "pronoun",
+"hsk": 1,
+"chapter": 4
+},
+{
+"id": 25,
+"hanzi": "国",
+"chars": [
+"国"
+],
+"pinyin": "guó",
+"pinyinSyllables": [
+"guó"
+],
+"pinyinNum": [
+"guo2"
+],
+"tones": [
+2
+],
+"english": "country, nation",
+"pos": "noun",
+"hsk": 1,
+"chapter": 4
+},
+{
+"id": 26,
+"hanzi": "呢",
+"chars": [
+"呢"
+],
+"pinyin": "ne",
+"pinyinSyllables": [
+"ne"
+],
+"pinyinNum": [
+"ne5"
+],
+"tones": [
+5
+],
+"english": "used at the end of question",
+"pos": "particle",
+"hsk": 1,
+"chapter": 4
+},
+{
+"id": 27,
+"hanzi": "他",
+"chars": [
+"他"
+],
+"pinyin": "tā",
+"pinyinSyllables": [
+"tā"
+],
+"pinyinNum": [
+"ta1"
+],
+"tones": [
+1
+],
+"english": "he, him",
+"pos": "pronoun",
+"hsk": 1,
+"chapter": 4
+},
+{
+"id": 28,
+"hanzi": "同学",
+"chars": [
+"同",
+"学"
+],
+"pinyin": "tóng xué",
+"pinyinSyllables": [
+"tóng",
+"xué"
+],
+"pinyinNum": [
+"tong2",
+"xue2"
+],
+"tones": [
+2,
+2
+],
+"english": "classmate",
+"pos": "noun",
+"hsk": 1,
+"chapter": 4
+},
+{
+"id": 29,
+"hanzi": "朋友",
+"chars": [
+"朋",
+"友"
+],
+"pinyin": "péng yǒu",
+"pinyinSyllables": [
+"péng",
+"yǒu"
+],
+"pinyinNum": [
+"peng2",
+"you3"
+],
+"tones": [
+2,
+3
+],
+"english": "friend",
+"pos": "noun",
+"hsk": 1,
+"chapter": 4
+},
+{
+"id": 30,
+"hanzi": "中国",
+"chars": [
+"中",
+"国"
+],
+"pinyin": "zhōng guó",
+"pinyinSyllables": [
+"zhōng",
+"guó"
+],
+"pinyinNum": [
+"zhong1",
+"guo2"
+],
+"tones": [
+1,
+2
+],
+"english": "China",
+"pos": "proper noun",
+"hsk": 1,
+"chapter": 4
+},
+{
+"id": 31,
+"hanzi": "美国",
+"chars": [
+"美",
+"国"
+],
+"pinyin": "měi guó",
+"pinyinSyllables": [
+"měi",
+"guó"
+],
+"pinyinNum": [
+"mei3",
+"guo2"
+],
+"tones": [
+3,
+2
+],
+"english": "America",
+"pos": "proper noun",
+"hsk": 1,
+"chapter": 4
+},
+{
+"id": 32,
+"hanzi": "家",
+"chars": [
+"家"
+],
+"pinyin": "jiā",
+"pinyinSyllables": [
+"jiā"
+],
+"pinyinNum": [
+"jia1"
+],
+"tones": [
+1
+],
+"english": "family",
+"pos": "noun",
+"hsk": 1,
+"chapter": 5
+},
+{
+"id": 33,
+"hanzi": "有",
+"chars": [
+"有"
+],
+"pinyin": "yǒu",
+"pinyinSyllables": [
+"yǒu"
+],
+"pinyinNum": [
+"you3"
+],
+"tones": [
+3
+],
+"english": "to have, there be",
+"pos": "verb",
+"hsk": 1,
+"chapter": 5
+},
+{
+"id": 34,
+"hanzi": "口",
+"chars": [
+"口"
+],
+"pinyin": "kǒu",
+"pinyinSyllables": [
+"kǒu"
+],
+"pinyinNum": [
+"kou3"
+],
+"tones": [
+3
+],
+"english": "a meas. word for members of families, etc.",
+"pos": "measure word",
+"hsk": 1,
+"chapter": 5
+},
+{
+"id": 35,
+"hanzi": "女儿",
+"chars": [
+"女",
+"儿"
+],
+"pinyin": "nǚ ér",
+"pinyinSyllables": [
+"nǚ",
+"ér"
+],
+"pinyinNum": [
+"nv3",
+"er2"
+],
+"tones": [
+3,
+2
+],
+"english": "daughter",
+"pos": "noun",
+"hsk": 1,
+"chapter": 5
+},
+{
+"id": 36,
+"hanzi": "几",
+"chars": [
+"几"
+],
+"pinyin": "jǐ",
+"pinyinSyllables": [
+"jǐ"
+],
+"pinyinNum": [
+"ji3"
+],
+"tones": [
+3
+],
+"english": "how many",
+"pos": "pronoun",
+"hsk": 1,
+"chapter": 5
+},
+{
+"id": 37,
+"hanzi": "岁",
+"chars": [
+"岁"
+],
+"pinyin": "suì",
+"pinyinSyllables": [
+"suì"
+],
+"pinyinNum": [
+"sui4"
+],
+"tones": [
+4
+],
+"english": "year (of age)",
+"pos": "measure word",
+"hsk": 1,
+"chapter": 5
+},
+{
+"id": 38,
+"hanzi": "了",
+"chars": [
+"了"
+],
+"pinyin": "le",
+"pinyinSyllables": [
+"le"
+],
+"pinyinNum": [
+"le5"
+],
+"tones": [
+5
+],
+"english": "used at the end of or in the middle of a sentence to indicate a change or a new circumstance",
+"pos": "particle",
+"hsk": 1,
+"chapter": 5
+},
+{
+"id": 39,
+"hanzi": "今年",
+"chars": [
+"今",
+"年"
+],
+"pinyin": "jīn nián",
+"pinyinSyllables": [
+"jīn",
+"nián"
+],
+"pinyinNum": [
+"jin1",
+"nian2"
+],
+"tones": [
+1,
+2
+],
+"english": "this year",
+"pos": "noun",
+"hsk": 1,
+"chapter": 5
+},
+{
+"id": 40,
+"hanzi": "多",
+"chars": [
+"多"
+],
+"pinyin": "duō",
+"pinyinSyllables": [
+"duō"
+],
+"pinyinNum": [
+"duo1"
+],
+"tones": [
+1
+],
+"english": "indicating degree or extent",
+"pos": "adverb",
+"hsk": 1,
+"chapter": 5
+},
+{
+"id": 41,
+"hanzi": "大",
+"chars": [
+"大"
+],
+"pinyin": "dà",
+"pinyinSyllables": [
+"dà"
+],
+"pinyinNum": [
+"da4"
+],
+"tones": [
+4
+],
+"english": "(of age) old",
+"pos": "adjective",
+"hsk": 1,
+"chapter": 5
+},
+{
+"id": 42,
+"hanzi": "会",
+"chars": [
+"会"
+],
+"pinyin": "huì",
+"pinyinSyllables": [
+"huì"
+],
+"pinyinNum": [
+"hui4"
+],
+"tones": [
+4
+],
+"english": "can, to be able to",
+"pos": "modal verb",
+"hsk": 1,
+"chapter": 6
+},
+{
+"id": 43,
+"hanzi": "说",
+"chars": [
+"说"
+],
+"pinyin": "shuō",
+"pinyinSyllables": [
+"shuō"
+],
+"pinyinNum": [
+"shuo1"
+],
+"tones": [
+1
+],
+"english": "to speak, to say",
+"pos": "verb",
+"hsk": 1,
+"chapter": 6
+},
+{
+"id": 44,
+"hanzi": "妈妈",
+"chars": [
+"妈",
+"妈"
+],
+"pinyin": "mā mā",
+"pinyinSyllables": [
+"mā",
+"mā"
+],
+"pinyinNum": [
+"ma1",
+"ma1"
+],
+"tones": [
+1,
+1
+],
+"english": "mother",
+"pos": "noun",
+"hsk": 1,
+"chapter": 6
+},
+{
+"id": 45,
+"hanzi": "菜",
+"chars": [
+"菜"
+],
+"pinyin": "cài",
+"pinyinSyllables": [
+"cài"
+],
+"pinyinNum": [
+"cai4"
+],
+"tones": [
+4
+],
+"english": "dish, cuisine",
+"pos": "noun",
+"hsk": 1,
+"chapter": 6
+},
+{
+"id": 46,
+"hanzi": "很",
+"chars": [
+"很"
+],
+"pinyin": "hěn",
+"pinyinSyllables": [
+"hěn"
+],
+"pinyinNum": [
+"hen3"
+],
+"tones": [
+3
+],
+"english": "very, quite",
+"pos": "adverb",
+"hsk": 1,
+"chapter": 6
+},
+{
+"id": 47,
+"hanzi": "好吃",
+"chars": [
+"好",
+"吃"
+],
+"pinyin": "hǎo chī",
+"pinyinSyllables": [
+"hǎo",
+"chī"
+],
+"pinyinNum": [
+"hao3",
+"chi1"
+],
+"tones": [
+3,
+1
+],
+"english": "delicious, tasty",
+"pos": "adjective",
+"hsk": 1,
+"chapter": 6
+},
+{
+"id": 48,
+"hanzi": "做",
+"chars": [
+"做"
+],
+"pinyin": "zuò",
+"pinyinSyllables": [
+"zuò"
+],
+"pinyinNum": [
+"zuo4"
+],
+"tones": [
+4
+],
+"english": "to make, to produce",
+"pos": "verb",
+"hsk": 1,
+"chapter": 6
+},
+{
+"id": 49,
+"hanzi": "写",
+"chars": [
+"写"
+],
+"pinyin": "xiě",
+"pinyinSyllables": [
+"xiě"
+],
+"pinyinNum": [
+"xie3"
+],
+"tones": [
+3
+],
+"english": "to write",
+"pos": "verb",
+"hsk": 1,
+"chapter": 6
+},
+{
+"id": 50,
+"hanzi": "汉字",
+"chars": [
+"汉",
+"字"
+],
+"pinyin": "hàn zì",
+"pinyinSyllables": [
+"hàn",
+"zì"
+],
+"pinyinNum": [
+"han4",
+"zi4"
+],
+"tones": [
+4,
+4
+],
+"english": "Chinese character",
+"pos": "noun",
+"hsk": 1,
+"chapter": 6
+},
+{
+"id": 51,
+"hanzi": "字",
+"chars": [
+"字"
+],
+"pinyin": "zì",
+"pinyinSyllables": [
+"zì"
+],
+"pinyinNum": [
+"zi4"
+],
+"tones": [
+4
+],
+"english": "character, word",
+"pos": "noun",
+"hsk": 1,
+"chapter": 6
+},
+{
+"id": 52,
+"hanzi": "怎么",
+"chars": [
+"怎",
+"么"
+],
+"pinyin": "zěn me",
+"pinyinSyllables": [
+"zěn",
+"me"
+],
+"pinyinNum": [
+"zen3",
+"me5"
+],
+"tones": [
+3,
+5
+],
+"english": "how (indicating nature, condition or manner etc.)",
+"pos": "pronoun",
+"hsk": 1,
+"chapter": 6
+},
+{
+"id": 53,
+"hanzi": "读",
+"chars": [
+"读"
+],
+"pinyin": "dú",
+"pinyinSyllables": [
+"dú"
+],
+"pinyinNum": [
+"du2"
+],
+"tones": [
+2
+],
+"english": "to read",
+"pos": "verb",
+"hsk": 1,
+"chapter": 6
+},
+{
+"id": 54,
+"hanzi": "请",
+"chars": [
+"请"
+],
+"pinyin": "qǐng",
+"pinyinSyllables": [
+"qǐng"
+],
+"pinyinNum": [
+"qing3"
+],
+"tones": [
+3
+],
+"english": "(polite) please",
+"pos": "verb",
+"hsk": 1,
+"chapter": 7
+},
+{
+"id": 55,
+"hanzi": "问",
+"chars": [
+"问"
+],
+"pinyin": "wèn",
+"pinyinSyllables": [
+"wèn"
+],
+"pinyinNum": [
+"wen4"
+],
+"tones": [
+4
+],
+"english": "to ask, to inquire",
+"pos": "verb",
+"hsk": 1,
+"chapter": 7
+},
+{
+"id": 56,
+"hanzi": "今天",
+"chars": [
+"今",
+"天"
+],
+"pinyin": "jīn tiān",
+"pinyinSyllables": [
+"jīn",
+"tiān"
+],
+"pinyinNum": [
+"jin1",
+"tian1"
+],
+"tones": [
+1,
+1
+],
+"english": "today",
+"pos": "noun",
+"hsk": 1,
+"chapter": 7
+},
+{
+"id": 57,
+"hanzi": "号",
+"chars": [
+"号"
+],
+"pinyin": "hào",
+"pinyinSyllables": [
+"hào"
+],
+"pinyinNum": [
+"hao4"
+],
+"tones": [
+4
+],
+"english": "(for date of month) number",
+"pos": "noun",
+"hsk": 1,
+"chapter": 7
+},
+{
+"id": 58,
+"hanzi": "月",
+"chars": [
+"月"
+],
+"pinyin": "yuè",
+"pinyinSyllables": [
+"yuè"
+],
+"pinyinNum": [
+"yue4"
+],
+"tones": [
+4
+],
+"english": "month",
+"pos": "noun",
+"hsk": 1,
+"chapter": 7
+},
+{
+"id": 59,
+"hanzi": "星期",
+"chars": [
+"星",
+"期"
+],
+"pinyin": "xīng qī",
+"pinyinSyllables": [
+"xīng",
+"qī"
+],
+"pinyinNum": [
+"xing1",
+"qi1"
+],
+"tones": [
+1,
+1
+],
+"english": "week",
+"pos": "noun",
+"hsk": 1,
+"chapter": 7
+},
+{
+"id": 60,
+"hanzi": "昨天",
+"chars": [
+"昨",
+"天"
+],
+"pinyin": "zuó tiān",
+"pinyinSyllables": [
+"zuó",
+"tiān"
+],
+"pinyinNum": [
+"zuo2",
+"tian1"
+],
+"tones": [
+2,
+1
+],
+"english": "yesterday",
+"pos": "noun",
+"hsk": 1,
+"chapter": 7
+},
+{
+"id": 61,
+"hanzi": "明天",
+"chars": [
+"明",
+"天"
+],
+"pinyin": "míng tiān",
+"pinyinSyllables": [
+"míng",
+"tiān"
+],
+"pinyinNum": [
+"ming2",
+"tian1"
+],
+"tones": [
+2,
+1
+],
+"english": "tomorrow",
+"pos": "noun",
+"hsk": 1,
+"chapter": 7
+},
+{
+"id": 62,
+"hanzi": "去",
+"chars": [
+"去"
+],
+"pinyin": "qù",
+"pinyinSyllables": [
+"qù"
+],
+"pinyinNum": [
+"qu4"
+],
+"tones": [
+4
+],
+"english": "to go",
+"pos": "verb",
+"hsk": 1,
+"chapter": 7
+},
+{
+"id": 63,
+"hanzi": "学校",
+"chars": [
+"学",
+"校"
+],
+"pinyin": "xué xiào",
+"pinyinSyllables": [
+"xué",
+"xiào"
+],
+"pinyinNum": [
+"xue2",
+"xiao4"
+],
+"tones": [
+2,
+4
+],
+"english": "school",
+"pos": "noun",
+"hsk": 1,
+"chapter": 7
+},
+{
+"id": 64,
+"hanzi": "看",
+"chars": [
+"看"
+],
+"pinyin": "kàn",
+"pinyinSyllables": [
+"kàn"
+],
+"pinyinNum": [
+"kan4"
+],
+"tones": [
+4
+],
+"english": "to look at, to watch, to read",
+"pos": "verb",
+"hsk": 1,
+"chapter": 7
+},
+{
+"id": 65,
+"hanzi": "书",
+"chars": [
+"书"
+],
+"pinyin": "shū",
+"pinyinSyllables": [
+"shū"
+],
+"pinyinNum": [
+"shu1"
+],
+"tones": [
+1
+],
+"english": "book",
+"pos": "noun",
+"hsk": 1,
+"chapter": 7
+},
+{
+"id": 66,
+"hanzi": "想",
+"chars": [
+"想"
+],
+"pinyin": "xiǎng",
+"pinyinSyllables": [
+"xiǎng"
+],
+"pinyinNum": [
+"xiang3"
+],
+"tones": [
+3
+],
+"english": "to want, would like",
+"pos": "modal verb",
+"hsk": 1,
+"chapter": 8
+},
+{
+"id": 67,
+"hanzi": "喝",
+"chars": [
+"喝"
+],
+"pinyin": "hē",
+"pinyinSyllables": [
+"hē"
+],
+"pinyinNum": [
+"he1"
+],
+"tones": [
+1
+],
+"english": "to drink",
+"pos": "verb",
+"hsk": 1,
+"chapter": 8
+},
+{
+"id": 68,
+"hanzi": "茶",
+"chars": [
+"茶"
+],
+"pinyin": "chá",
+"pinyinSyllables": [
+"chá"
+],
+"pinyinNum": [
+"cha2"
+],
+"tones": [
+2
+],
+"english": "tea",
+"pos": "noun",
+"hsk": 1,
+"chapter": 8
+},
+{
+"id": 69,
+"hanzi": "吃",
+"chars": [
+"吃"
+],
+"pinyin": "chī",
+"pinyinSyllables": [
+"chī"
+],
+"pinyinNum": [
+"chi1"
+],
+"tones": [
+1
+],
+"english": "to eat",
+"pos": "verb",
+"hsk": 1,
+"chapter": 8
+},
+{
+"id": 70,
+"hanzi": "米饭",
+"chars": [
+"米",
+"饭"
+],
+"pinyin": "mǐ fàn",
+"pinyinSyllables": [
+"mǐ",
+"fàn"
+],
+"pinyinNum": [
+"mi3",
+"fan4"
+],
+"tones": [
+3,
+4
+],
+"english": "cooked rice",
+"pos": "noun",
+"hsk": 1,
+"chapter": 8
+},
+{
+"id": 71,
+"hanzi": "下午",
+"chars": [
+"下",
+"午"
+],
+"pinyin": "xià wǔ",
+"pinyinSyllables": [
+"xià",
+"wǔ"
+],
+"pinyinNum": [
+"xia4",
+"wu3"
+],
+"tones": [
+4,
+3
+],
+"english": "afternoon",
+"pos": "noun",
+"hsk": 1,
+"chapter": 8
+},
+{
+"id": 72,
+"hanzi": "商店",
+"chars": [
+"商",
+"店"
+],
+"pinyin": "shāng diàn",
+"pinyinSyllables": [
+"shāng",
+"diàn"
+],
+"pinyinNum": [
+"shang1",
+"dian4"
+],
+"tones": [
+1,
+4
+],
+"english": "shop, store",
+"pos": "noun",
+"hsk": 1,
+"chapter": 8
+},
+{
+"id": 73,
+"hanzi": "买",
+"chars": [
+"买"
+],
+"pinyin": "mǎi",
+"pinyinSyllables": [
+"mǎi"
+],
+"pinyinNum": [
+"mai3"
+],
+"tones": [
+3
+],
+"english": "to buy, to purchase",
+"pos": "verb",
+"hsk": 1,
+"chapter": 8
+},
+{
+"id": 74,
+"hanzi": "个",
+"chars": [
+"个"
+],
+"pinyin": "gè",
+"pinyinSyllables": [
+"gè"
+],
+"pinyinNum": [
+"ge4"
+],
+"tones": [
+4
+],
+"english": "a general measure word",
+"pos": "measure word",
+"hsk": 1,
+"chapter": 8
+},
+{
+"id": 75,
+"hanzi": "杯子",
+"chars": [
+"杯",
+"子"
+],
+"pinyin": "bēi zi",
+"pinyinSyllables": [
+"bēi",
+"zi"
+],
+"pinyinNum": [
+"bei1",
+"zi5"
+],
+"tones": [
+1,
+5
+],
+"english": "cup, glass",
+"pos": "noun",
+"hsk": 1,
+"chapter": 8
+},
+{
+"id": 76,
+"hanzi": "这",
+"chars": [
+"这"
+],
+"pinyin": "zhè",
+"pinyinSyllables": [
+"zhè"
+],
+"pinyinNum": [
+"zhe4"
+],
+"tones": [
+4
+],
+"english": "this",
+"pos": "pronoun",
+"hsk": 1,
+"chapter": 8
+},
+{
+"id": 77,
+"hanzi": "多少",
+"chars": [
+"多",
+"少"
+],
+"pinyin": "duō shǎo",
+"pinyinSyllables": [
+"duō",
+"shǎo"
+],
+"pinyinNum": [
+"duo1",
+"shao3"
+],
+"tones": [
+1,
+3
+],
+"english": "how many, how much",
+"pos": "pronoun",
+"hsk": 1,
+"chapter": 8
+},
+{
+"id": 78,
+"hanzi": "钱",
+"chars": [
+"钱"
+],
+"pinyin": "qián",
+"pinyinSyllables": [
+"qián"
+],
+"pinyinNum": [
+"qian2"
+],
+"tones": [
+2
+],
+"english": "money",
+"pos": "noun",
+"hsk": 1,
+"chapter": 8
+},
+{
+"id": 79,
+"hanzi": "块",
+"chars": [
+"块"
+],
+"pinyin": "kuài",
+"pinyinSyllables": [
+"kuài"
+],
+"pinyinNum": [
+"kuai4"
+],
+"tones": [
+4
+],
+"english": "a unit of money, same as \"yuan\"",
+"pos": "measure word",
+"hsk": 1,
+"chapter": 8
+},
+{
+"id": 80,
+"hanzi": "那",
+"chars": [
+"那"
+],
+"pinyin": "nà",
+"pinyinSyllables": [
+"nà"
+],
+"pinyinNum": [
+"na4"
+],
+"tones": [
+4
+],
+"english": "that",
+"pos": "pronoun",
+"hsk": 1,
+"chapter": 8
+},
+{
+"id": 81,
+"hanzi": "小",
+"chars": [
+"小"
+],
+"pinyin": "xiǎo",
+"pinyinSyllables": [
+"xiǎo"
+],
+"pinyinNum": [
+"xiao3"
+],
+"tones": [
+3
+],
+"english": "small. little",
+"pos": "adjective",
+"hsk": 1,
+"chapter": 9
+},
+{
+"id": 82,
+"hanzi": "猫",
+"chars": [
+"猫"
+],
+"pinyin": "māo",
+"pinyinSyllables": [
+"māo"
+],
+"pinyinNum": [
+"mao1"
+],
+"tones": [
+1
+],
+"english": "cat",
+"pos": "noun",
+"hsk": 1,
+"chapter": 9
+},
+{
+"id": 83,
+"hanzi": "在",
+"chars": [
+"在"
+],
+"pinyin": "zài",
+"pinyinSyllables": [
+"zài"
+],
+"pinyinNum": [
+"zai4"
+],
+"tones": [
+4
+],
+"english": "to be in/on/at",
+"pos": "verb",
+"hsk": 1,
+"chapter": 9
+},
+{
+"id": 84,
+"hanzi": "那儿",
+"chars": [
+"那",
+"儿"
+],
+"pinyin": "nà ér",
+"pinyinSyllables": [
+"nà",
+"ér"
+],
+"pinyinNum": [
+"na4",
+"er2"
+],
+"tones": [
+4,
+2
+],
+"english": "there",
+"pos": "pronoun",
+"hsk": 1,
+"chapter": 9
+},
+{
+"id": 85,
+"hanzi": "狗",
+"chars": [
+"狗"
+],
+"pinyin": "gǒu",
+"pinyinSyllables": [
+"gǒu"
+],
+"pinyinNum": [
+"gou3"
+],
+"tones": [
+3
+],
+"english": "dog",
+"pos": "noun",
+"hsk": 1,
+"chapter": 9
+},
+{
+"id": 86,
+"hanzi": "椅子",
+"chars": [
+"椅",
+"子"
+],
+"pinyin": "yǐ zi",
+"pinyinSyllables": [
+"yǐ",
+"zi"
+],
+"pinyinNum": [
+"yi3",
+"zi5"
+],
+"tones": [
+3,
+5
+],
+"english": "chair",
+"pos": "noun",
+"hsk": 1,
+"chapter": 9
+},
+{
+"id": 87,
+"hanzi": "下面",
+"chars": [
+"下",
+"面"
+],
+"pinyin": "xià miàn",
+"pinyinSyllables": [
+"xià",
+"miàn"
+],
+"pinyinNum": [
+"xia4",
+"mian4"
+],
+"tones": [
+4,
+4
+],
+"english": "under, below",
+"pos": "noun",
+"hsk": 1,
+"chapter": 9
+},
+{
+"id": 88,
+"hanzi": "下",
+"chars": [
+"下"
+],
+"pinyin": "xià",
+"pinyinSyllables": [
+"xià"
+],
+"pinyinNum": [
+"xia4"
+],
+"tones": [
+4
+],
+"english": "under, below",
+"pos": "noun",
+"hsk": 1,
+"chapter": 9
+},
+{
+"id": 89,
+"hanzi": "在",
+"chars": [
+"在"
+],
+"pinyin": "zài",
+"pinyinSyllables": [
+"zài"
+],
+"pinyinNum": [
+"zai4"
+],
+"tones": [
+4
+],
+"english": "in/on/at",
+"pos": "preposition",
+"hsk": 1,
+"chapter": 9
+},
+{
+"id": 90,
+"hanzi": "哪儿",
+"chars": [
+"哪",
+"儿"
+],
+"pinyin": "nǎ ér",
+"pinyinSyllables": [
+"nǎ",
+"ér"
+],
+"pinyinNum": [
+"na3",
+"er2"
+],
+"tones": [
+3,
+2
+],
+"english": "where",
+"pos": "pronoun",
+"hsk": 1,
+"chapter": 9
+},
+{
+"id": 91,
+"hanzi": "工作",
+"chars": [
+"工",
+"作"
+],
+"pinyin": "gōng zuò",
+"pinyinSyllables": [
+"gōng",
+"zuò"
+],
+"pinyinNum": [
+"gong1",
+"zuo4"
+],
+"tones": [
+1,
+4
+],
+"english": "to work; job",
+"pos": "noun/verb",
+"hsk": 1,
+"chapter": 9
+},
+{
+"id": 92,
+"hanzi": "儿子",
+"chars": [
+"儿",
+"子"
+],
+"pinyin": "ér zi",
+"pinyinSyllables": [
+"ér",
+"zi"
+],
+"pinyinNum": [
+"er2",
+"zi5"
+],
+"tones": [
+2,
+5
+],
+"english": "son",
+"pos": "noun",
+"hsk": 1,
+"chapter": 9
+},
+{
+"id": 93,
+"hanzi": "医院",
+"chars": [
+"医",
+"院"
+],
+"pinyin": "yī yuàn",
+"pinyinSyllables": [
+"yī",
+"yuàn"
+],
+"pinyinNum": [
+"yi1",
+"yuan4"
+],
+"tones": [
+1,
+4
+],
+"english": "hospital",
+"pos": "noun",
+"hsk": 1,
+"chapter": 9
+},
+{
+"id": 94,
+"hanzi": "医生",
+"chars": [
+"医",
+"生"
+],
+"pinyin": "yī shēng",
+"pinyinSyllables": [
+"yī",
+"shēng"
+],
+"pinyinNum": [
+"yi1",
+"sheng1"
+],
+"tones": [
+1,
+1
+],
+"english": "doctor",
+"pos": "noun",
+"hsk": 1,
+"chapter": 9
+},
+{
+"id": 95,
+"hanzi": "爸爸",
+"chars": [
+"爸",
+"爸"
+],
+"pinyin": "bà bà",
+"pinyinSyllables": [
+"bà",
+"bà"
+],
+"pinyinNum": [
+"ba4",
+"ba4"
+],
+"tones": [
+4,
+4
+],
+"english": "father",
+"pos": "noun",
+"hsk": 1,
+"chapter": 9
+},
+{
+"id": 96,
+"hanzi": "桌子",
+"chars": [
+"桌",
+"子"
+],
+"pinyin": "zhuō zi",
+"pinyinSyllables": [
+"zhuō",
+"zi"
+],
+"pinyinNum": [
+"zhuo1",
+"zi5"
+],
+"tones": [
+1,
+5
+],
+"english": "desk, table",
+"pos": "noun",
+"hsk": 1,
+"chapter": 10
+},
+{
+"id": 97,
+"hanzi": "上",
+"chars": [
+"上"
+],
+"pinyin": "shàng",
+"pinyinSyllables": [
+"shàng"
+],
+"pinyinNum": [
+"shang4"
+],
+"tones": [
+4
+],
+"english": "up, above",
+"pos": "noun",
+"hsk": 1,
+"chapter": 10
+},
+{
+"id": 98,
+"hanzi": "电脑",
+"chars": [
+"电",
+"脑"
+],
+"pinyin": "diàn nǎo",
+"pinyinSyllables": [
+"diàn",
+"nǎo"
+],
+"pinyinNum": [
+"dian4",
+"nao3"
+],
+"tones": [
+4,
+3
+],
+"english": "computer",
+"pos": "noun",
+"hsk": 1,
+"chapter": 10
+},
+{
+"id": 99,
+"hanzi": "和",
+"chars": [
+"和"
+],
+"pinyin": "hé",
+"pinyinSyllables": [
+"hé"
+],
+"pinyinNum": [
+"he2"
+],
+"tones": [
+2
+],
+"english": "and",
+"pos": "conjunction",
+"hsk": 1,
+"chapter": 10
+},
+{
+"id": 100,
+"hanzi": "本",
+"chars": [
+"本"
+],
+"pinyin": "běn",
+"pinyinSyllables": [
+"běn"
+],
+"pinyinNum": [
+"ben3"
+],
+"tones": [
+3
+],
+"english": "measure word for books",
+"pos": "measure word",
+"hsk": 1,
+"chapter": 10
+},
+{
+"id": 101,
+"hanzi": "里",
+"chars": [
+"里"
+],
+"pinyin": "lǐ",
+"pinyinSyllables": [
+"lǐ"
+],
+"pinyinNum": [
+"li3"
+],
+"tones": [
+3
+],
+"english": "inner, inside, interior",
+"pos": "noun",
+"hsk": 1,
+"chapter": 10
+},
+{
+"id": 102,
+"hanzi": "前面",
+"chars": [
+"前",
+"面"
+],
+"pinyin": "qián miàn",
+"pinyinSyllables": [
+"qián",
+"miàn"
+],
+"pinyinNum": [
+"qian2",
+"mian4"
+],
+"tones": [
+2,
+4
+],
+"english": "front",
+"pos": "noun",
+"hsk": 1,
+"chapter": 10
+},
+{
+"id": 103,
+"hanzi": "后面",
+"chars": [
+"后",
+"面"
+],
+"pinyin": "hòu miàn",
+"pinyinSyllables": [
+"hòu",
+"miàn"
+],
+"pinyinNum": [
+"hou4",
+"mian4"
+],
+"tones": [
+4,
+4
+],
+"english": "back",
+"pos": "noun",
+"hsk": 1,
+"chapter": 10
+},
+{
+"id": 104,
+"hanzi": "王方",
+"chars": [
+"王",
+"方"
+],
+"pinyin": "wáng fāng",
+"pinyinSyllables": [
+"wáng",
+"fāng"
+],
+"pinyinNum": [
+"wang2",
+"fang1"
+],
+"tones": [
+2,
+1
+],
+"english": "",
+"pos": "proper noun",
+"hsk": 1,
+"chapter": 10
+},
+{
+"id": 105,
+"hanzi": "谢朋",
+"chars": [
+"谢",
+"朋"
+],
+"pinyin": "xiè péng",
+"pinyinSyllables": [
+"xiè",
+"péng"
+],
+"pinyinNum": [
+"xie4",
+"peng2"
+],
+"tones": [
+4,
+2
+],
+"english": "",
+"pos": "proper noun",
+"hsk": 1,
+"chapter": 10
+},
+{
+"id": 106,
+"hanzi": "这儿",
+"chars": [
+"这",
+"儿"
+],
+"pinyin": "zhè ér",
+"pinyinSyllables": [
+"zhè",
+"ér"
+],
+"pinyinNum": [
+"zhe4",
+"er2"
+],
+"tones": [
+4,
+2
+],
+"english": "here",
+"pos": "pronoun",
+"hsk": 1,
+"chapter": 10
+},
+{
+"id": 107,
+"hanzi": "没有",
+"chars": [
+"没",
+"有"
+],
+"pinyin": "méi yǒu",
+"pinyinSyllables": [
+"méi",
+"yǒu"
+],
+"pinyinNum": [
+"mei2",
+"you3"
+],
+"tones": [
+2,
+3
+],
+"english": "there is not",
+"pos": "adverb",
+"hsk": 1,
+"chapter": 10
+},
+{
+"id": 108,
+"hanzi": "没",
+"chars": [
+"没"
+],
+"pinyin": "méi",
+"pinyinSyllables": [
+"méi"
+],
+"pinyinNum": [
+"mei2"
+],
+"tones": [
+2
+],
+"english": "there is not",
+"pos": "adverb",
+"hsk": 1,
+"chapter": 10
+},
+{
+"id": 109,
+"hanzi": "能",
+"chars": [
+"能"
+],
+"pinyin": "néng",
+"pinyinSyllables": [
+"néng"
+],
+"pinyinNum": [
+"neng2"
+],
+"tones": [
+2
+],
+"english": "can, may",
+"pos": "modal verb",
+"hsk": 1,
+"chapter": 10
+},
+{
+"id": 110,
+"hanzi": "坐",
+"chars": [
+"坐"
+],
+"pinyin": "zuò",
+"pinyinSyllables": [
+"zuò"
+],
+"pinyinNum": [
+"zuo4"
+],
+"tones": [
+4
+],
+"english": "to sit, to be seated",
+"pos": "verb",
+"hsk": 1,
+"chapter": 10
+},
+{
+"id": 111,
+"hanzi": "现在",
+"chars": [
+"现",
+"在"
+],
+"pinyin": "xiàn zài",
+"pinyinSyllables": [
+"xiàn",
+"zài"
+],
+"pinyinNum": [
+"xian4",
+"zai4"
+],
+"tones": [
+4,
+4
+],
+"english": "now",
+"pos": "noun",
+"hsk": 1,
+"chapter": 11
+},
+{
+"id": 112,
+"hanzi": "点",
+"chars": [
+"点"
+],
+"pinyin": "diǎn",
+"pinyinSyllables": [
+"diǎn"
+],
+"pinyinNum": [
+"dian3"
+],
+"tones": [
+3
+],
+"english": "o'clock",
+"pos": "measure word",
+"hsk": 1,
+"chapter": 11
+},
+{
+"id": 113,
+"hanzi": "分",
+"chars": [
+"分"
+],
+"pinyin": "fēn",
+"pinyinSyllables": [
+"fēn"
+],
+"pinyinNum": [
+"fen1"
+],
+"tones": [
+1
+],
+"english": "minute",
+"pos": "measure word",
+"hsk": 1,
+"chapter": 11
+},
+{
+"id": 114,
+"hanzi": "中午",
+"chars": [
+"中",
+"午"
+],
+"pinyin": "zhōng wǔ",
+"pinyinSyllables": [
+"zhōng",
+"wǔ"
+],
+"pinyinNum": [
+"zhong1",
+"wu3"
+],
+"tones": [
+1,
+3
+],
+"english": "noon",
+"pos": "noun",
+"hsk": 1,
+"chapter": 11
+},
+{
+"id": 115,
+"hanzi": "吃饭",
+"chars": [
+"吃",
+"饭"
+],
+"pinyin": "chī fàn",
+"pinyinSyllables": [
+"chī",
+"fàn"
+],
+"pinyinNum": [
+"chi1",
+"fan4"
+],
+"tones": [
+1,
+4
+],
+"english": "to eat a meal",
+"pos": "verb",
+"hsk": 1,
+"chapter": 11
+},
+{
+"id": 116,
+"hanzi": "时侯",
+"chars": [
+"时",
+"侯"
+],
+"pinyin": "shí hóu",
+"pinyinSyllables": [
+"shí",
+"hóu"
+],
+"pinyinNum": [
+"shi2",
+"hou2"
+],
+"tones": [
+2,
+2
+],
+"english": "time, moment",
+"pos": "noun",
+"hsk": 1,
+"chapter": 11
+},
+{
+"id": 117,
+"hanzi": "回",
+"chars": [
+"回"
+],
+"pinyin": "huí",
+"pinyinSyllables": [
+"huí"
+],
+"pinyinNum": [
+"hui2"
+],
+"tones": [
+2
+],
+"english": "to come/go back, to return",
+"pos": "verb",
+"hsk": 1,
+"chapter": 11
+},
+{
+"id": 118,
+"hanzi": "我们",
+"chars": [
+"我",
+"们"
+],
+"pinyin": "wǒ men",
+"pinyinSyllables": [
+"wǒ",
+"men"
+],
+"pinyinNum": [
+"wo3",
+"men5"
+],
+"tones": [
+3,
+5
+],
+"english": "we, us",
+"pos": "pronoun",
+"hsk": 1,
+"chapter": 11
+},
+{
+"id": 119,
+"hanzi": "电影",
+"chars": [
+"电",
+"影"
+],
+"pinyin": "diàn yǐng",
+"pinyinSyllables": [
+"diàn",
+"yǐng"
+],
+"pinyinNum": [
+"dian4",
+"ying3"
+],
+"tones": [
+4,
+3
+],
+"english": "movie",
+"pos": "noun",
+"hsk": 1,
+"chapter": 11
+},
+{
+"id": 120,
+"hanzi": "住",
+"chars": [
+"住"
+],
+"pinyin": "zhù",
+"pinyinSyllables": [
+"zhù"
+],
+"pinyinNum": [
+"zhu4"
+],
+"tones": [
+4
+],
+"english": "to live, to stay",
+"pos": "verb",
+"hsk": 1,
+"chapter": 11
+},
+{
+"id": 121,
+"hanzi": "前",
+"chars": [
+"前"
+],
+"pinyin": "qián",
+"pinyinSyllables": [
+"qián"
+],
+"pinyinNum": [
+"qian2"
+],
+"tones": [
+2
+],
+"english": "before, earlier than",
+"pos": "noun",
+"hsk": 1,
+"chapter": 11
+},
+{
+"id": 122,
+"hanzi": "北京",
+"chars": [
+"北",
+"京"
+],
+"pinyin": "běi jīng",
+"pinyinSyllables": [
+"běi",
+"jīng"
+],
+"pinyinNum": [
+"bei3",
+"jing1"
+],
+"tones": [
+3,
+1
+],
+"english": "",
+"pos": "proper noun",
+"hsk": 1,
+"chapter": 11
+},
+{
+"id": 123,
+"hanzi": "天气",
+"chars": [
+"天",
+"气"
+],
+"pinyin": "tiān qì",
+"pinyinSyllables": [
+"tiān",
+"qì"
+],
+"pinyinNum": [
+"tian1",
+"qi4"
+],
+"tones": [
+1,
+4
+],
+"english": "weather",
+"pos": "noun",
+"hsk": 1,
+"chapter": 12
+},
+{
+"id": 124,
+"hanzi": "怎么样",
+"chars": [
+"怎",
+"么",
+"样"
+],
+"pinyin": "zěn me yàng",
+"pinyinSyllables": [
+"zěn",
+"me",
+"yàng"
+],
+"pinyinNum": [
+"zen3",
+"me5",
+"yang4"
+],
+"tones": [
+3,
+5,
+4
+],
+"english": "how indicating nature, condition or manner",
+"pos": "pronoun",
+"hsk": 1,
+"chapter": 12
+},
+{
+"id": 125,
+"hanzi": "太",
+"chars": [
+"太"
+],
+"pinyin": "tài",
+"pinyinSyllables": [
+"tài"
+],
+"pinyinNum": [
+"tai4"
+],
+"tones": [
+4
+],
+"english": "too, excessively",
+"pos": "adverb",
+"hsk": 1,
+"chapter": 12
+},
+{
+"id": 126,
+"hanzi": "太...了",
+"chars": [
+"太",
+"了"
+],
+"pinyin": "tài le",
+"pinyinSyllables": [
+"tài",
+"le"
+],
+"pinyinNum": [
+"tai4",
+"le5"
+],
+"tones": [
+4,
+5
+],
+"english": "too, extremely",
+"pos": "adverb",
+"hsk": 1,
+"chapter": 12
+},
+{
+"id": 127,
+"hanzi": "热",
+"chars": [
+"热"
+],
+"pinyin": "rè",
+"pinyinSyllables": [
+"rè"
+],
+"pinyinNum": [
+"re4"
+],
+"tones": [
+4
+],
+"english": "hot",
+"pos": "adjective",
+"hsk": 1,
+"chapter": 12
+},
+{
+"id": 128,
+"hanzi": "冷",
+"chars": [
+"冷"
+],
+"pinyin": "lěng",
+"pinyinSyllables": [
+"lěng"
+],
+"pinyinNum": [
+"leng3"
+],
+"tones": [
+3
+],
+"english": "cold",
+"pos": "adjective",
+"hsk": 1,
+"chapter": 12
+},
+{
+"id": 129,
+"hanzi": "下 雨",
+"chars": [
+"下",
+"雨"
+],
+"pinyin": "xià yǔ",
+"pinyinSyllables": [
+"xià",
+"yǔ"
+],
+"pinyinNum": [
+"xia4",
+"yu3"
+],
+"tones": [
+4,
+3
+],
+"english": "to rain",
+"pos": "verb",
+"hsk": 1,
+"chapter": 12
+},
+{
+"id": 130,
+"hanzi": "下",
+"chars": [
+"下"
+],
+"pinyin": "xià",
+"pinyinSyllables": [
+"xià"
+],
+"pinyinNum": [
+"xia4"
+],
+"tones": [
+4
+],
+"english": "to fall (of rain, snow etc.)",
+"pos": "verb",
+"hsk": 1,
+"chapter": 12
+},
+{
+"id": 131,
+"hanzi": "雨",
+"chars": [
+"雨"
+],
+"pinyin": "yǔ",
+"pinyinSyllables": [
+"yǔ"
+],
+"pinyinNum": [
+"yu3"
+],
+"tones": [
+3
+],
+"english": "rain",
+"pos": "noun",
+"hsk": 1,
+"chapter": 12
+},
+{
+"id": 132,
+"hanzi": "小姐",
+"chars": [
+"小",
+"姐"
+],
+"pinyin": "xiǎo jiě",
+"pinyinSyllables": [
+"xiǎo",
+"jiě"
+],
+"pinyinNum": [
+"xiao3",
+"jie3"
+],
+"tones": [
+3,
+3
+],
+"english": "miss, young lady",
+"pos": "noun",
+"hsk": 1,
+"chapter": 12
+},
+{
+"id": 133,
+"hanzi": "来",
+"chars": [
+"来"
+],
+"pinyin": "lái",
+"pinyinSyllables": [
+"lái"
+],
+"pinyinNum": [
+"lai2"
+],
+"tones": [
+2
+],
+"english": "to come",
+"pos": "verb",
+"hsk": 1,
+"chapter": 12
+},
+{
+"id": 134,
+"hanzi": "身体",
+"chars": [
+"身",
+"体"
+],
+"pinyin": "shēn tǐ",
+"pinyinSyllables": [
+"shēn",
+"tǐ"
+],
+"pinyinNum": [
+"shen1",
+"ti3"
+],
+"tones": [
+1,
+3
+],
+"english": "body",
+"pos": "noun",
+"hsk": 1,
+"chapter": 12
+},
+{
+"id": 135,
+"hanzi": "爱",
+"chars": [
+"爱"
+],
+"pinyin": "ài",
+"pinyinSyllables": [
+"ài"
+],
+"pinyinNum": [
+"ai4"
+],
+"tones": [
+4
+],
+"english": "to like, to love",
+"pos": "verb",
+"hsk": 1,
+"chapter": 12
+},
+{
+"id": 136,
+"hanzi": "些",
+"chars": [
+"些"
+],
+"pinyin": "xiē",
+"pinyinSyllables": [
+"xiē"
+],
+"pinyinNum": [
+"xie1"
+],
+"tones": [
+1
+],
+"english": "some, a few",
+"pos": "measure word",
+"hsk": 1,
+"chapter": 12
+},
+{
+"id": 137,
+"hanzi": "水果",
+"chars": [
+"水",
+"果"
+],
+"pinyin": "shuǐ guǒ",
+"pinyinSyllables": [
+"shuǐ",
+"guǒ"
+],
+"pinyinNum": [
+"shui3",
+"guo3"
+],
+"tones": [
+3,
+3
+],
+"english": "fruit",
+"pos": "noun",
+"hsk": 1,
+"chapter": 12
+},
+{
+"id": 138,
+"hanzi": "水",
+"chars": [
+"水"
+],
+"pinyin": "shuǐ",
+"pinyinSyllables": [
+"shuǐ"
+],
+"pinyinNum": [
+"shui3"
+],
+"tones": [
+3
+],
+"english": "water",
+"pos": "noun",
+"hsk": 1,
+"chapter": 12
+},
+{
+"id": 139,
+"hanzi": "喂",
+"chars": [
+"喂"
+],
+"pinyin": "wèi",
+"pinyinSyllables": [
+"wèi"
+],
+"pinyinNum": [
+"wei4"
+],
+"tones": [
+4
+],
+"english": "hello, hey",
+"pos": "interjection",
+"hsk": 1,
+"chapter": 13
+},
+{
+"id": 140,
+"hanzi": "也",
+"chars": [
+"也"
+],
+"pinyin": "yě",
+"pinyinSyllables": [
+"yě"
+],
+"pinyinNum": [
+"ye3"
+],
+"tones": [
+3
+],
+"english": "also, too",
+"pos": "adverb",
+"hsk": 1,
+"chapter": 13
+},
+{
+"id": 141,
+"hanzi": "学习",
+"chars": [
+"学",
+"习"
+],
+"pinyin": "xué xí",
+"pinyinSyllables": [
+"xué",
+"xí"
+],
+"pinyinNum": [
+"xue2",
+"xi2"
+],
+"tones": [
+2,
+2
+],
+"english": "to study, to learn",
+"pos": "verb",
+"hsk": 1,
+"chapter": 13
+},
+{
+"id": 142,
+"hanzi": "学",
+"chars": [
+"学"
+],
+"pinyin": "xué",
+"pinyinSyllables": [
+"xué"
+],
+"pinyinNum": [
+"xue2"
+],
+"tones": [
+2
+],
+"english": "to study, to learn",
+"pos": "verb",
+"hsk": 1,
+"chapter": 13
+},
+{
+"id": 143,
+"hanzi": "大卫",
+"chars": [
+"大",
+"卫"
+],
+"pinyin": "dà wèi",
+"pinyinSyllables": [
+"dà",
+"wèi"
+],
+"pinyinNum": [
+"da4",
+"wei4"
+],
+"tones": [
+4,
+4
+],
+"english": "",
+"pos": "proper noun",
+"hsk": 1,
+"chapter": 13
+},
+{
+"id": 144,
+"hanzi": "上午",
+"chars": [
+"上",
+"午"
+],
+"pinyin": "shàng wǔ",
+"pinyinSyllables": [
+"shàng",
+"wǔ"
+],
+"pinyinNum": [
+"shang4",
+"wu3"
+],
+"tones": [
+4,
+3
+],
+"english": "morning, before noon",
+"pos": "noun",
+"hsk": 1,
+"chapter": 13
+},
+{
+"id": 145,
+"hanzi": "睡觉",
+"chars": [
+"睡",
+"觉"
+],
+"pinyin": "shuì jiào",
+"pinyinSyllables": [
+"shuì",
+"jiào"
+],
+"pinyinNum": [
+"shui4",
+"jiao4"
+],
+"tones": [
+4,
+4
+],
+"english": "to sleep",
+"pos": "verb",
+"hsk": 1,
+"chapter": 13
+},
+{
+"id": 146,
+"hanzi": "电视",
+"chars": [
+"电",
+"视"
+],
+"pinyin": "diàn shì",
+"pinyinSyllables": [
+"diàn",
+"shì"
+],
+"pinyinNum": [
+"dian4",
+"shi4"
+],
+"tones": [
+4,
+4
+],
+"english": "television",
+"pos": "noun",
+"hsk": 1,
+"chapter": 13
+},
+{
+"id": 147,
+"hanzi": "喜欢",
+"chars": [
+"喜",
+"欢"
+],
+"pinyin": "xǐ huān",
+"pinyinSyllables": [
+"xǐ",
+"huān"
+],
+"pinyinNum": [
+"xi3",
+"huan1"
+],
+"tones": [
+3,
+1
+],
+"english": "to like, to be fond of",
+"pos": "verb",
+"hsk": 1,
+"chapter": 13
+},
+{
+"id": 148,
+"hanzi": "给",
+"chars": [
+"给"
+],
+"pinyin": "gěi",
+"pinyinSyllables": [
+"gěi"
+],
+"pinyinNum": [
+"gei3"
+],
+"tones": [
+3
+],
+"english": "to",
+"pos": "preposition",
+"hsk": 1,
+"chapter": 13
+},
+{
+"id": 149,
+"hanzi": "吧",
+"chars": [
+"吧"
+],
+"pinyin": "ba",
+"pinyinSyllables": [
+"ba"
+],
+"pinyinNum": [
+"ba5"
+],
+"tones": [
+5
+],
+"english": "a modal particle used at the end of a sentence to indicate consultation, a suggestion, request or command",
+"pos": "particle",
+"hsk": 1,
+"chapter": 13
+},
+{
+"id": 150,
+"hanzi": "东西",
+"chars": [
+"东",
+"西"
+],
+"pinyin": "dōng xī",
+"pinyinSyllables": [
+"dōng",
+"xī"
+],
+"pinyinNum": [
+"dong1",
+"xi1"
+],
+"tones": [
+1,
+1
+],
+"english": "thing, stuff",
+"pos": "noun",
+"hsk": 1,
+"chapter": 14
+},
+{
+"id": 151,
+"hanzi": "一点儿",
+"chars": [
+"一",
+"点",
+"儿"
+],
+"pinyin": "yì diǎn ér",
+"pinyinSyllables": [
+"yì",
+"diǎn",
+"ér"
+],
+"pinyinNum": [
+"yi4",
+"dian3",
+"er2"
+],
+"tones": [
+4,
+3,
+2
+],
+"english": "a few, a little",
+"pos": "measure word",
+"hsk": 1,
+"chapter": 14
+},
+{
+"id": 152,
+"hanzi": "苹果",
+"chars": [
+"苹",
+"果"
+],
+"pinyin": "píng guǒ",
+"pinyinSyllables": [
+"píng",
+"guǒ"
+],
+"pinyinNum": [
+"ping2",
+"guo3"
+],
+"tones": [
+2,
+3
+],
+"english": "apple",
+"pos": "noun",
+"hsk": 1,
+"chapter": 14
+},
+{
+"id": 153,
+"hanzi": "看见",
+"chars": [
+"看",
+"见"
+],
+"pinyin": "kàn jiàn",
+"pinyinSyllables": [
+"kàn",
+"jiàn"
+],
+"pinyinNum": [
+"kan4",
+"jian4"
+],
+"tones": [
+4,
+4
+],
+"english": "to see",
+"pos": "verb",
+"hsk": 1,
+"chapter": 14
+},
+{
+"id": 154,
+"hanzi": "先生",
+"chars": [
+"先",
+"生"
+],
+"pinyin": "xiān shēng",
+"pinyinSyllables": [
+"xiān",
+"shēng"
+],
+"pinyinNum": [
+"xian1",
+"sheng1"
+],
+"tones": [
+1,
+1
+],
+"english": "Mr., sir",
+"pos": "noun",
+"hsk": 1,
+"chapter": 14
+},
+{
+"id": 155,
+"hanzi": "开",
+"chars": [
+"开"
+],
+"pinyin": "kāi",
+"pinyinSyllables": [
+"kāi"
+],
+"pinyinNum": [
+"kai1"
+],
+"tones": [
+1
+],
+"english": "to drive",
+"pos": "verb",
+"hsk": 1,
+"chapter": 14
+},
+{
+"id": 156,
+"hanzi": "车",
+"chars": [
+"车"
+],
+"pinyin": "chē",
+"pinyinSyllables": [
+"chē"
+],
+"pinyinNum": [
+"che1"
+],
+"tones": [
+1
+],
+"english": "car, vehicle",
+"pos": "noun",
+"hsk": 1,
+"chapter": 14
+},
+{
+"id": 157,
+"hanzi": "回来",
+"chars": [
+"回",
+"来"
+],
+"pinyin": "huí lái",
+"pinyinSyllables": [
+"huí",
+"lái"
+],
+"pinyinNum": [
+"hui2",
+"lai2"
+],
+"tones": [
+2,
+2
+],
+"english": "to come back",
+"pos": "verb",
+"hsk": 1,
+"chapter": 14
+},
+{
+"id": 158,
+"hanzi": "分钟",
+"chars": [
+"分",
+"钟"
+],
+"pinyin": "fēn zhōng",
+"pinyinSyllables": [
+"fēn",
+"zhōng"
+],
+"pinyinNum": [
+"fen1",
+"zhong1"
+],
+"tones": [
+1,
+1
+],
+"english": "minute",
+"pos": "noun",
+"hsk": 1,
+"chapter": 14
+},
+{
+"id": 159,
+"hanzi": "后",
+"chars": [
+"后"
+],
+"pinyin": "hòu",
+"pinyinSyllables": [
+"hòu"
+],
+"pinyinNum": [
+"hou4"
+],
+"tones": [
+4
+],
+"english": "after, afterwards, later",
+"pos": "noun",
+"hsk": 1,
+"chapter": 14
+},
+{
+"id": 160,
+"hanzi": "衣服",
+"chars": [
+"衣",
+"服"
+],
+"pinyin": "yī fú",
+"pinyinSyllables": [
+"yī",
+"fú"
+],
+"pinyinNum": [
+"yi1",
+"fu2"
+],
+"tones": [
+1,
+2
+],
+"english": "clothes",
+"pos": "noun",
+"hsk": 1,
+"chapter": 14
+},
+{
+"id": 161,
+"hanzi": "漂亮",
+"chars": [
+"漂",
+"亮"
+],
+"pinyin": "piào liàng",
+"pinyinSyllables": [
+"piào",
+"liàng"
+],
+"pinyinNum": [
+"piao4",
+"liang4"
+],
+"tones": [
+4,
+4
+],
+"english": "beautiful, pretty",
+"pos": "adjective",
+"hsk": 1,
+"chapter": 14
+},
+{
+"id": 162,
+"hanzi": "啊",
+"chars": [
+"啊"
+],
+"pinyin": "a",
+"pinyinSyllables": [
+"a"
+],
+"pinyinNum": [
+"a5"
+],
+"tones": [
+5
+],
+"english": "a modal particle used at the end of a sentence as a sign of confirmation or defense",
+"pos": "particle",
+"hsk": 1,
+"chapter": 14
+},
+{
+"id": 163,
+"hanzi": "少",
+"chars": [
+"少"
+],
+"pinyin": "shǎo",
+"pinyinSyllables": [
+"shǎo"
+],
+"pinyinNum": [
+"shao3"
+],
+"tones": [
+3
+],
+"english": "little, few",
+"pos": "adjective",
+"hsk": 1,
+"chapter": 14
+},
+{
+"id": 164,
+"hanzi": "不少",
+"chars": [
+"不",
+"少"
+],
+"pinyin": "bù shǎo",
+"pinyinSyllables": [
+"bù",
+"shǎo"
+],
+"pinyinNum": [
+"bu4",
+"shao3"
+],
+"tones": [
+4,
+3
+],
+"english": "quite a few, many",
+"pos": "adjective",
+"hsk": 1,
+"chapter": 14
+},
+{
+"id": 165,
+"hanzi": "这些",
+"chars": [
+"这",
+"些"
+],
+"pinyin": "zhè xiē",
+"pinyinSyllables": [
+"zhè",
+"xiē"
+],
+"pinyinNum": [
+"zhe4",
+"xie1"
+],
+"tones": [
+4,
+1
+],
+"english": "these",
+"pos": "pronoun",
+"hsk": 1,
+"chapter": 14
+},
+{
+"id": 166,
+"hanzi": "都",
+"chars": [
+"都"
+],
+"pinyin": "dōu",
+"pinyinSyllables": [
+"dōu"
+],
+"pinyinNum": [
+"dou1"
+],
+"tones": [
+1
+],
+"english": "both, all",
+"pos": "adverb",
+"hsk": 1,
+"chapter": 14
+},
+{
+"id": 167,
+"hanzi": "认识",
+"chars": [
+"认",
+"识"
+],
+"pinyin": "rèn shí",
+"pinyinSyllables": [
+"rèn",
+"shí"
+],
+"pinyinNum": [
+"ren4",
+"shi2"
+],
+"tones": [
+4,
+2
+],
+"english": "to meet, to know",
+"pos": "verb",
+"hsk": 1,
+"chapter": 15
+},
+{
+"id": 168,
+"hanzi": "年",
+"chars": [
+"年"
+],
+"pinyin": "nián",
+"pinyinSyllables": [
+"nián"
+],
+"pinyinNum": [
+"nian2"
+],
+"tones": [
+2
+],
+"english": "year",
+"pos": "noun",
+"hsk": 1,
+"chapter": 15
+},
+{
+"id": 169,
+"hanzi": "大学",
+"chars": [
+"大",
+"学"
+],
+"pinyin": "dà xué",
+"pinyinSyllables": [
+"dà",
+"xué"
+],
+"pinyinNum": [
+"da4",
+"xue2"
+],
+"tones": [
+4,
+2
+],
+"english": "college, university",
+"pos": "noun",
+"hsk": 1,
+"chapter": 15
+},
+{
+"id": 170,
+"hanzi": "饭店",
+"chars": [
+"饭",
+"店"
+],
+"pinyin": "fàn diàn",
+"pinyinSyllables": [
+"fàn",
+"diàn"
+],
+"pinyinNum": [
+"fan4",
+"dian4"
+],
+"tones": [
+4,
+4
+],
+"english": "hotel, restaurant",
+"pos": "noun",
+"hsk": 1,
+"chapter": 15
+},
+{
+"id": 171,
+"hanzi": "出租车",
+"chars": [
+"出",
+"租",
+"车"
+],
+"pinyin": "chū zū chē",
+"pinyinSyllables": [
+"chū",
+"zū",
+"chē"
+],
+"pinyinNum": [
+"chu1",
+"zu1",
+"che1"
+],
+"tones": [
+1,
+1,
+1
+],
+"english": "taxi, cab",
+"pos": "noun",
+"hsk": 1,
+"chapter": 15
+},
+{
+"id": 172,
+"hanzi": "一起",
+"chars": [
+"一",
+"起"
+],
+"pinyin": "yì qǐ",
+"pinyinSyllables": [
+"yì",
+"qǐ"
+],
+"pinyinNum": [
+"yi4",
+"qi3"
+],
+"tones": [
+4,
+3
+],
+"english": "together",
+"pos": "adjective",
+"hsk": 1,
+"chapter": 15
+},
+{
+"id": 173,
+"hanzi": "高兴",
+"chars": [
+"高",
+"兴"
+],
+"pinyin": "gāo xìng",
+"pinyinSyllables": [
+"gāo",
+"xìng"
+],
+"pinyinNum": [
+"gao1",
+"xing4"
+],
+"tones": [
+1,
+4
+],
+"english": "glad, happy",
+"pos": "adjective",
+"hsk": 1,
+"chapter": 15
+},
+{
+"id": 174,
+"hanzi": "听",
+"chars": [
+"听"
+],
+"pinyin": "tīng",
+"pinyinSyllables": [
+"tīng"
+],
+"pinyinNum": [
+"ting1"
+],
+"tones": [
+1
+],
+"english": "to listen",
+"pos": "verb",
+"hsk": 1,
+"chapter": 15
+},
+{
+"id": 175,
+"hanzi": "飞机",
+"chars": [
+"飞",
+"机"
+],
+"pinyin": "fēi jī",
+"pinyinSyllables": [
+"fēi",
+"jī"
+],
+"pinyinNum": [
+"fei1",
+"ji1"
+],
+"tones": [
+1,
+1
+],
+"english": "airplane",
+"pos": "noun",
+"hsk": 1,
+"chapter": 15
+},
+{
+"id": 176,
+"hanzi": "旅游",
+"chars": [
+"旅",
+"游"
+],
+"pinyin": "lǚ yóu",
+"pinyinSyllables": [
+"lǚ",
+"yóu"
+],
+"pinyinNum": [
+"lv3",
+"you2"
+],
+"tones": [
+3,
+2
+],
+"english": "to travel, to take a trip",
+"pos": "verb",
+"hsk": 2,
+"chapter": 1
+},
+{
+"id": 177,
+"hanzi": "觉得",
+"chars": [
+"觉",
+"得"
+],
+"pinyin": "jué de",
+"pinyinSyllables": [
+"jué",
+"de"
+],
+"pinyinNum": [
+"jue2",
+"de5"
+],
+"tones": [
+2,
+5
+],
+"english": "to think, to feel",
+"pos": "verb",
+"hsk": 2,
+"chapter": 1
+},
+{
+"id": 178,
+"hanzi": "最",
+"chars": [
+"最"
+],
+"pinyin": "zuì",
+"pinyinSyllables": [
+"zuì"
+],
+"pinyinNum": [
+"zui4"
+],
+"tones": [
+4
+],
+"english": "most, to the greatest extent",
+"pos": "adverb",
+"hsk": 2,
+"chapter": 1
+},
+{
+"id": 179,
+"hanzi": "为什么",
+"chars": [
+"为",
+"什",
+"么"
+],
+"pinyin": "wèi shén me",
+"pinyinSyllables": [
+"wèi",
+"shén",
+"me"
+],
+"pinyinNum": [
+"wei4",
+"shen2",
+"me5"
+],
+"tones": [
+4,
+2,
+5
+],
+"english": "why",
+"pos": "",
+"hsk": 2,
+"chapter": 1
+},
+{
+"id": 180,
+"hanzi": "也",
+"chars": [
+"也"
+],
+"pinyin": "yě",
+"pinyinSyllables": [
+"yě"
+],
+"pinyinNum": [
+"ye3"
+],
+"tones": [
+3
+],
+"english": "also, too",
+"pos": "adverb",
+"hsk": 2,
+"chapter": 1
+},
+{
+"id": 181,
+"hanzi": "运动",
+"chars": [
+"运",
+"动"
+],
+"pinyin": "yùn dòng",
+"pinyinSyllables": [
+"yùn",
+"dòng"
+],
+"pinyinNum": [
+"yun4",
+"dong4"
+],
+"tones": [
+4,
+4
+],
+"english": "sport; to take physical exercise, to work out",
+"pos": "noun/verb",
+"hsk": 2,
+"chapter": 1
+},
+{
+"id": 182,
+"hanzi": "踢 足球",
+"chars": [
+"踢",
+"足",
+"球"
+],
+"pinyin": "tī zú qiú",
+"pinyinSyllables": [
+"tī",
+"zú",
+"qiú"
+],
+"pinyinNum": [
+"ti1",
+"zu2",
+"qiu2"
+],
+"tones": [
+1,
+2,
+2
+],
+"english": "to play football",
+"pos": "verb",
+"hsk": 2,
+"chapter": 1
+},
+{
+"id": 183,
+"hanzi": "一起",
+"chars": [
+"一",
+"起"
+],
+"pinyin": "yì qǐ",
+"pinyinSyllables": [
+"yì",
+"qǐ"
+],
+"pinyinNum": [
+"yi4",
+"qi3"
+],
+"tones": [
+4,
+3
+],
+"english": "together",
+"pos": "adverb",
+"hsk": 2,
+"chapter": 1
+},
+{
+"id": 184,
+"hanzi": "要",
+"chars": [
+"要"
+],
+"pinyin": "yào",
+"pinyinSyllables": [
+"yào"
+],
+"pinyinNum": [
+"yao4"
+],
+"tones": [
+4
+],
+"english": "to want to, would like to",
+"pos": "auxiliary",
+"hsk": 2,
+"chapter": 1
+},
+{
+"id": 185,
+"hanzi": "新",
+"chars": [
+"新"
+],
+"pinyin": "xīn",
+"pinyinSyllables": [
+"xīn"
+],
+"pinyinNum": [
+"xin1"
+],
+"tones": [
+1
+],
+"english": "new",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 1
+},
+{
+"id": 186,
+"hanzi": "它",
+"chars": [
+"它"
+],
+"pinyin": "tā",
+"pinyinSyllables": [
+"tā"
+],
+"pinyinNum": [
+"ta1"
+],
+"tones": [
+1
+],
+"english": "it",
+"pos": "pronoun",
+"hsk": 2,
+"chapter": 1
+},
+{
+"id": 187,
+"hanzi": "眼睛",
+"chars": [
+"眼",
+"睛"
+],
+"pinyin": "yǎn jīng",
+"pinyinSyllables": [
+"yǎn",
+"jīng"
+],
+"pinyinNum": [
+"yan3",
+"jing1"
+],
+"tones": [
+3,
+1
+],
+"english": "eye",
+"pos": "noun",
+"hsk": 2,
+"chapter": 1
+},
+{
+"id": 188,
+"hanzi": "花花",
+"chars": [
+"花",
+"花"
+],
+"pinyin": "huā huā",
+"pinyinSyllables": [
+"huā",
+"huā"
+],
+"pinyinNum": [
+"hua1",
+"hua1"
+],
+"tones": [
+1,
+1
+],
+"english": "",
+"pos": "proper noun",
+"hsk": 2,
+"chapter": 1
+},
+{
+"id": 189,
+"hanzi": "生病",
+"chars": [
+"生",
+"病"
+],
+"pinyin": "shēng bìng",
+"pinyinSyllables": [
+"shēng",
+"bìng"
+],
+"pinyinNum": [
+"sheng1",
+"bing4"
+],
+"tones": [
+1,
+4
+],
+"english": "to fall ill, to be sick",
+"pos": "verb",
+"hsk": 2,
+"chapter": 2
+},
+{
+"id": 190,
+"hanzi": "每",
+"chars": [
+"每"
+],
+"pinyin": "měi",
+"pinyinSyllables": [
+"měi"
+],
+"pinyinNum": [
+"mei3"
+],
+"tones": [
+3
+],
+"english": "every, each",
+"pos": "pronoun",
+"hsk": 2,
+"chapter": 2
+},
+{
+"id": 191,
+"hanzi": "早上",
+"chars": [
+"早",
+"上"
+],
+"pinyin": "zǎo shàng",
+"pinyinSyllables": [
+"zǎo",
+"shàng"
+],
+"pinyinNum": [
+"zao3",
+"shang4"
+],
+"tones": [
+3,
+4
+],
+"english": "morning",
+"pos": "noun",
+"hsk": 2,
+"chapter": 2
+},
+{
+"id": 192,
+"hanzi": "跑步",
+"chars": [
+"跑",
+"步"
+],
+"pinyin": "pǎo bù",
+"pinyinSyllables": [
+"pǎo",
+"bù"
+],
+"pinyinNum": [
+"pao3",
+"bu4"
+],
+"tones": [
+3,
+4
+],
+"english": "to run, to jog",
+"pos": "verb",
+"hsk": 2,
+"chapter": 2
+},
+{
+"id": 193,
+"hanzi": "起床",
+"chars": [
+"起",
+"床"
+],
+"pinyin": "qǐ chuáng",
+"pinyinSyllables": [
+"qǐ",
+"chuáng"
+],
+"pinyinNum": [
+"qi3",
+"chuang2"
+],
+"tones": [
+3,
+2
+],
+"english": "to get up, to get out of bed",
+"pos": "verb",
+"hsk": 2,
+"chapter": 2
+},
+{
+"id": 194,
+"hanzi": "药",
+"chars": [
+"药"
+],
+"pinyin": "yào",
+"pinyinSyllables": [
+"yào"
+],
+"pinyinNum": [
+"yao4"
+],
+"tones": [
+4
+],
+"english": "medicine, drug",
+"pos": "noun",
+"hsk": 2,
+"chapter": 2
+},
+{
+"id": 195,
+"hanzi": "身体",
+"chars": [
+"身",
+"体"
+],
+"pinyin": "shēn tǐ",
+"pinyinSyllables": [
+"shēn",
+"tǐ"
+],
+"pinyinNum": [
+"shen1",
+"ti3"
+],
+"tones": [
+1,
+3
+],
+"english": "body",
+"pos": "noun",
+"hsk": 2,
+"chapter": 2
+},
+{
+"id": 196,
+"hanzi": "出院",
+"chars": [
+"出",
+"院"
+],
+"pinyin": "chū yuàn",
+"pinyinSyllables": [
+"chū",
+"yuàn"
+],
+"pinyinNum": [
+"chu1",
+"yuan4"
+],
+"tones": [
+1,
+4
+],
+"english": "to leave hospital, to be discharged from hospital",
+"pos": "verb",
+"hsk": 2,
+"chapter": 2
+},
+{
+"id": 197,
+"hanzi": "出",
+"chars": [
+"出"
+],
+"pinyin": "chū",
+"pinyinSyllables": [
+"chū"
+],
+"pinyinNum": [
+"chu1"
+],
+"tones": [
+1
+],
+"english": "to come/go out",
+"pos": "verb",
+"hsk": 2,
+"chapter": 2
+},
+{
+"id": 198,
+"hanzi": "高",
+"chars": [
+"高"
+],
+"pinyin": "gāo",
+"pinyinSyllables": [
+"gāo"
+],
+"pinyinNum": [
+"gao1"
+],
+"tones": [
+1
+],
+"english": "tall, high",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 2
+},
+{
+"id": 199,
+"hanzi": "米",
+"chars": [
+"米"
+],
+"pinyin": "mǐ",
+"pinyinSyllables": [
+"mǐ"
+],
+"pinyinNum": [
+"mi3"
+],
+"tones": [
+3
+],
+"english": "meter",
+"pos": "measure word",
+"hsk": 2,
+"chapter": 2
+},
+{
+"id": 200,
+"hanzi": "知道",
+"chars": [
+"知",
+"道"
+],
+"pinyin": "zhī dào",
+"pinyinSyllables": [
+"zhī",
+"dào"
+],
+"pinyinNum": [
+"zhi1",
+"dao4"
+],
+"tones": [
+1,
+4
+],
+"english": "to know",
+"pos": "verb",
+"hsk": 2,
+"chapter": 2
+},
+{
+"id": 201,
+"hanzi": "休息",
+"chars": [
+"休",
+"息"
+],
+"pinyin": "xiū xī",
+"pinyinSyllables": [
+"xiū",
+"xī"
+],
+"pinyinNum": [
+"xiu1",
+"xi1"
+],
+"tones": [
+1,
+1
+],
+"english": "to have or to take a rest",
+"pos": "verb",
+"hsk": 2,
+"chapter": 2
+},
+{
+"id": 202,
+"hanzi": "忙",
+"chars": [
+"忙"
+],
+"pinyin": "máng",
+"pinyinSyllables": [
+"máng"
+],
+"pinyinNum": [
+"mang2"
+],
+"tones": [
+2
+],
+"english": "busy",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 2
+},
+{
+"id": 203,
+"hanzi": "时间",
+"chars": [
+"时",
+"间"
+],
+"pinyin": "shí jiān",
+"pinyinSyllables": [
+"shí",
+"jiān"
+],
+"pinyinNum": [
+"shi2",
+"jian1"
+],
+"tones": [
+2,
+1
+],
+"english": "time",
+"pos": "noun",
+"hsk": 2,
+"chapter": 2
+},
+{
+"id": 204,
+"hanzi": "手表",
+"chars": [
+"手",
+"表"
+],
+"pinyin": "shǒu biǎo",
+"pinyinSyllables": [
+"shǒu",
+"biǎo"
+],
+"pinyinNum": [
+"shou3",
+"biao3"
+],
+"tones": [
+3,
+3
+],
+"english": "watch",
+"pos": "noun",
+"hsk": 2,
+"chapter": 3
+},
+{
+"id": 205,
+"hanzi": "钱",
+"chars": [
+"钱"
+],
+"pinyin": "qián",
+"pinyinSyllables": [
+"qián"
+],
+"pinyinNum": [
+"qian2"
+],
+"tones": [
+2
+],
+"english": "thousand",
+"pos": "number",
+"hsk": 2,
+"chapter": 3
+},
+{
+"id": 206,
+"hanzi": "报纸",
+"chars": [
+"报",
+"纸"
+],
+"pinyin": "bào zhǐ",
+"pinyinSyllables": [
+"bào",
+"zhǐ"
+],
+"pinyinNum": [
+"bao4",
+"zhi3"
+],
+"tones": [
+4,
+3
+],
+"english": "newspaper",
+"pos": "noun",
+"hsk": 2,
+"chapter": 3
+},
+{
+"id": 207,
+"hanzi": "送",
+"chars": [
+"送"
+],
+"pinyin": "sòng",
+"pinyinSyllables": [
+"sòng"
+],
+"pinyinNum": [
+"song4"
+],
+"tones": [
+4
+],
+"english": "to send, to deliver",
+"pos": "verb",
+"hsk": 2,
+"chapter": 3
+},
+{
+"id": 208,
+"hanzi": "一下",
+"chars": [
+"一",
+"下"
+],
+"pinyin": "yī xià",
+"pinyinSyllables": [
+"yī",
+"xià"
+],
+"pinyinNum": [
+"yi1",
+"xia4"
+],
+"tones": [
+1,
+4
+],
+"english": "used after a verb, indicating an act or an attempt",
+"pos": "measure word",
+"hsk": 2,
+"chapter": 3
+},
+{
+"id": 209,
+"hanzi": "牛奶",
+"chars": [
+"牛",
+"奶"
+],
+"pinyin": "niú nǎi",
+"pinyinSyllables": [
+"niú",
+"nǎi"
+],
+"pinyinNum": [
+"niu2",
+"nai3"
+],
+"tones": [
+2,
+3
+],
+"english": "milk",
+"pos": "noun",
+"hsk": 2,
+"chapter": 3
+},
+{
+"id": 210,
+"hanzi": "房间",
+"chars": [
+"房",
+"间"
+],
+"pinyin": "fáng jiān",
+"pinyinSyllables": [
+"fáng",
+"jiān"
+],
+"pinyinNum": [
+"fang2",
+"jian1"
+],
+"tones": [
+2,
+1
+],
+"english": "room",
+"pos": "noun",
+"hsk": 2,
+"chapter": 3
+},
+{
+"id": 211,
+"hanzi": "丈夫",
+"chars": [
+"丈",
+"夫"
+],
+"pinyin": "zhàng fū",
+"pinyinSyllables": [
+"zhàng",
+"fū"
+],
+"pinyinNum": [
+"zhang4",
+"fu1"
+],
+"tones": [
+4,
+1
+],
+"english": "husband",
+"pos": "noun",
+"hsk": 2,
+"chapter": 3
+},
+{
+"id": 212,
+"hanzi": "旁边",
+"chars": [
+"旁",
+"边"
+],
+"pinyin": "páng biān",
+"pinyinSyllables": [
+"páng",
+"biān"
+],
+"pinyinNum": [
+"pang2",
+"bian1"
+],
+"tones": [
+2,
+1
+],
+"english": "beside",
+"pos": "noun",
+"hsk": 2,
+"chapter": 3
+},
+{
+"id": 213,
+"hanzi": "真",
+"chars": [
+"真"
+],
+"pinyin": "zhēn",
+"pinyinSyllables": [
+"zhēn"
+],
+"pinyinNum": [
+"zhen1"
+],
+"tones": [
+1
+],
+"english": "really, indeed",
+"pos": "adverb",
+"hsk": 2,
+"chapter": 3
+},
+{
+"id": 214,
+"hanzi": "粉色",
+"chars": [
+"粉",
+"色"
+],
+"pinyin": "fěn sè",
+"pinyinSyllables": [
+"fěn",
+"sè"
+],
+"pinyinNum": [
+"fen3",
+"se4"
+],
+"tones": [
+3,
+4
+],
+"english": "pink",
+"pos": "noun",
+"hsk": 2,
+"chapter": 3
+},
+{
+"id": 215,
+"hanzi": "粉",
+"chars": [
+"粉"
+],
+"pinyin": "fěn",
+"pinyinSyllables": [
+"fěn"
+],
+"pinyinNum": [
+"fen3"
+],
+"tones": [
+3
+],
+"english": "pink",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 3
+},
+{
+"id": 216,
+"hanzi": "颜色",
+"chars": [
+"颜",
+"色"
+],
+"pinyin": "yán sè",
+"pinyinSyllables": [
+"yán",
+"sè"
+],
+"pinyinNum": [
+"yan2",
+"se4"
+],
+"tones": [
+2,
+4
+],
+"english": "color",
+"pos": "noun",
+"hsk": 2,
+"chapter": 3
+},
+{
+"id": 217,
+"hanzi": "左边",
+"chars": [
+"左",
+"边"
+],
+"pinyin": "zuǒ biān",
+"pinyinSyllables": [
+"zuǒ",
+"biān"
+],
+"pinyinNum": [
+"zuo3",
+"bian1"
+],
+"tones": [
+3,
+1
+],
+"english": "left side",
+"pos": "noun",
+"hsk": 2,
+"chapter": 3
+},
+{
+"id": 218,
+"hanzi": "红色",
+"chars": [
+"红",
+"色"
+],
+"pinyin": "hóng sè",
+"pinyinSyllables": [
+"hóng",
+"sè"
+],
+"pinyinNum": [
+"hong2",
+"se4"
+],
+"tones": [
+2,
+4
+],
+"english": "red",
+"pos": "noun",
+"hsk": 2,
+"chapter": 3
+},
+{
+"id": 219,
+"hanzi": "红",
+"chars": [
+"红"
+],
+"pinyin": "hóng",
+"pinyinSyllables": [
+"hóng"
+],
+"pinyinNum": [
+"hong2"
+],
+"tones": [
+2
+],
+"english": "red",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 3
+},
+{
+"id": 220,
+"hanzi": "生日",
+"chars": [
+"生",
+"日"
+],
+"pinyin": "shēng rì",
+"pinyinSyllables": [
+"shēng",
+"rì"
+],
+"pinyinNum": [
+"sheng1",
+"ri4"
+],
+"tones": [
+1,
+4
+],
+"english": "birthday",
+"pos": "noun",
+"hsk": 2,
+"chapter": 4
+},
+{
+"id": 221,
+"hanzi": "快乐",
+"chars": [
+"快",
+"乐"
+],
+"pinyin": "kuài lè",
+"pinyinSyllables": [
+"kuài",
+"lè"
+],
+"pinyinNum": [
+"kuai4",
+"le4"
+],
+"tones": [
+4,
+4
+],
+"english": "happy, glad",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 4
+},
+{
+"id": 222,
+"hanzi": "给",
+"chars": [
+"给"
+],
+"pinyin": "gěi",
+"pinyinSyllables": [
+"gěi"
+],
+"pinyinNum": [
+"gei3"
+],
+"tones": [
+3
+],
+"english": "to, for (use after a verb)",
+"pos": "preposition",
+"hsk": 2,
+"chapter": 4
+},
+{
+"id": 223,
+"hanzi": "接",
+"chars": [
+"接"
+],
+"pinyin": "jiē",
+"pinyinSyllables": [
+"jiē"
+],
+"pinyinNum": [
+"jie1"
+],
+"tones": [
+1
+],
+"english": "to receive, to take, to accept",
+"pos": "verb",
+"hsk": 2,
+"chapter": 4
+},
+{
+"id": 224,
+"hanzi": "晚上",
+"chars": [
+"晚",
+"上"
+],
+"pinyin": "wǎn shàng",
+"pinyinSyllables": [
+"wǎn",
+"shàng"
+],
+"pinyinNum": [
+"wan3",
+"shang4"
+],
+"tones": [
+3,
+4
+],
+"english": "evening, night",
+"pos": "noun",
+"hsk": 2,
+"chapter": 4
+},
+{
+"id": 225,
+"hanzi": "问",
+"chars": [
+"问"
+],
+"pinyin": "wèn",
+"pinyinSyllables": [
+"wèn"
+],
+"pinyinNum": [
+"wen4"
+],
+"tones": [
+4
+],
+"english": "to ask",
+"pos": "verb",
+"hsk": 2,
+"chapter": 4
+},
+{
+"id": 226,
+"hanzi": "非常",
+"chars": [
+"非",
+"常"
+],
+"pinyin": "fēi cháng",
+"pinyinSyllables": [
+"fēi",
+"cháng"
+],
+"pinyinNum": [
+"fei1",
+"chang2"
+],
+"tones": [
+1,
+2
+],
+"english": "very, extremely",
+"pos": "adverb",
+"hsk": 2,
+"chapter": 4
+},
+{
+"id": 227,
+"hanzi": "开始",
+"chars": [
+"开",
+"始"
+],
+"pinyin": "kāi shǐ",
+"pinyinSyllables": [
+"kāi",
+"shǐ"
+],
+"pinyinNum": [
+"kai1",
+"shi3"
+],
+"tones": [
+1,
+3
+],
+"english": "to begin, to start",
+"pos": "verb",
+"hsk": 2,
+"chapter": 4
+},
+{
+"id": 228,
+"hanzi": "已经",
+"chars": [
+"已",
+"经"
+],
+"pinyin": "yǐ jīng",
+"pinyinSyllables": [
+"yǐ",
+"jīng"
+],
+"pinyinNum": [
+"yi3",
+"jing1"
+],
+"tones": [
+3,
+1
+],
+"english": "already",
+"pos": "adverb",
+"hsk": 2,
+"chapter": 4
+},
+{
+"id": 229,
+"hanzi": "长",
+"chars": [
+"长"
+],
+"pinyin": "zhǎng",
+"pinyinSyllables": [
+"zhǎng"
+],
+"pinyinNum": [
+"zhang3"
+],
+"tones": [
+3
+],
+"english": "long",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 4
+},
+{
+"id": 230,
+"hanzi": "两",
+"chars": [
+"两"
+],
+"pinyin": "liǎng",
+"pinyinSyllables": [
+"liǎng"
+],
+"pinyinNum": [
+"liang3"
+],
+"tones": [
+3
+],
+"english": "two",
+"pos": "number",
+"hsk": 2,
+"chapter": 4
+},
+{
+"id": 231,
+"hanzi": "帮",
+"chars": [
+"帮"
+],
+"pinyin": "bāng",
+"pinyinSyllables": [
+"bāng"
+],
+"pinyinNum": [
+"bang1"
+],
+"tones": [
+1
+],
+"english": "to help, to assist",
+"pos": "verb",
+"hsk": 2,
+"chapter": 4
+},
+{
+"id": 232,
+"hanzi": "介绍",
+"chars": [
+"介",
+"绍"
+],
+"pinyin": "jiè shào",
+"pinyinSyllables": [
+"jiè",
+"shào"
+],
+"pinyinNum": [
+"jie4",
+"shao4"
+],
+"tones": [
+4,
+4
+],
+"english": "to introduce, to recommend",
+"pos": "verb",
+"hsk": 2,
+"chapter": 4
+},
+{
+"id": 233,
+"hanzi": "外面",
+"chars": [
+"外",
+"面"
+],
+"pinyin": "wài miàn",
+"pinyinSyllables": [
+"wài",
+"miàn"
+],
+"pinyinNum": [
+"wai4",
+"mian4"
+],
+"tones": [
+4,
+4
+],
+"english": "outside",
+"pos": "noun",
+"hsk": 2,
+"chapter": 5
+},
+{
+"id": 234,
+"hanzi": "准备",
+"chars": [
+"准",
+"备"
+],
+"pinyin": "zhǔn bèi",
+"pinyinSyllables": [
+"zhǔn",
+"bèi"
+],
+"pinyinNum": [
+"zhun3",
+"bei4"
+],
+"tones": [
+3,
+4
+],
+"english": "to intend to plan",
+"pos": "verb",
+"hsk": 2,
+"chapter": 5
+},
+{
+"id": 235,
+"hanzi": "就",
+"chars": [
+"就"
+],
+"pinyin": "jiù",
+"pinyinSyllables": [
+"jiù"
+],
+"pinyinNum": [
+"jiu4"
+],
+"tones": [
+4
+],
+"english": "used to indicate a conclusion or resolution",
+"pos": "adverb",
+"hsk": 2,
+"chapter": 5
+},
+{
+"id": 236,
+"hanzi": "鱼",
+"chars": [
+"鱼"
+],
+"pinyin": "yú",
+"pinyinSyllables": [
+"yú"
+],
+"pinyinNum": [
+"yu2"
+],
+"tones": [
+2
+],
+"english": "fish",
+"pos": "noun",
+"hsk": 2,
+"chapter": 5
+},
+{
+"id": 237,
+"hanzi": "吧",
+"chars": [
+"吧"
+],
+"pinyin": "ba",
+"pinyinSyllables": [
+"ba"
+],
+"pinyinNum": [
+"ba5"
+],
+"tones": [
+5
+],
+"english": "used at the end of a sentence to indicate consultation, suggestion request or command",
+"pos": "particle",
+"hsk": 2,
+"chapter": 5
+},
+{
+"id": 238,
+"hanzi": "件",
+"chars": [
+"件"
+],
+"pinyin": "jiàn",
+"pinyinSyllables": [
+"jiàn"
+],
+"pinyinNum": [
+"jian4"
+],
+"tones": [
+4
+],
+"english": "piece (used for clothes among other items)",
+"pos": "measure word",
+"hsk": 2,
+"chapter": 5
+},
+{
+"id": 239,
+"hanzi": "还",
+"chars": [
+"还"
+],
+"pinyin": "hái",
+"pinyinSyllables": [
+"hái"
+],
+"pinyinNum": [
+"hai2"
+],
+"tones": [
+2
+],
+"english": "passably, fairly, rather",
+"pos": "adverb",
+"hsk": 2,
+"chapter": 5
+},
+{
+"id": 240,
+"hanzi": "可以",
+"chars": [
+"可",
+"以"
+],
+"pinyin": "kě yǐ",
+"pinyinSyllables": [
+"kě",
+"yǐ"
+],
+"pinyinNum": [
+"ke3",
+"yi3"
+],
+"tones": [
+3,
+3
+],
+"english": "not bad",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 5
+},
+{
+"id": 241,
+"hanzi": "不错",
+"chars": [
+"不",
+"错"
+],
+"pinyin": "bù cuò",
+"pinyinSyllables": [
+"bù",
+"cuò"
+],
+"pinyinNum": [
+"bu4",
+"cuo4"
+],
+"tones": [
+4,
+4
+],
+"english": "pretty good",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 5
+},
+{
+"id": 242,
+"hanzi": "考试",
+"chars": [
+"考",
+"试"
+],
+"pinyin": "kǎo shì",
+"pinyinSyllables": [
+"kǎo",
+"shì"
+],
+"pinyinNum": [
+"kao3",
+"shi4"
+],
+"tones": [
+3,
+4
+],
+"english": "test, exam",
+"pos": "noun",
+"hsk": 2,
+"chapter": 5
+},
+{
+"id": 243,
+"hanzi": "意思",
+"chars": [
+"意",
+"思"
+],
+"pinyin": "yì sī",
+"pinyinSyllables": [
+"yì",
+"sī"
+],
+"pinyinNum": [
+"yi4",
+"si1"
+],
+"tones": [
+4,
+1
+],
+"english": "meaning",
+"pos": "noun",
+"hsk": 2,
+"chapter": 5
+},
+{
+"id": 244,
+"hanzi": "咖啡",
+"chars": [
+"咖",
+"啡"
+],
+"pinyin": "kā fēi",
+"pinyinSyllables": [
+"kā",
+"fēi"
+],
+"pinyinNum": [
+"ka1",
+"fei1"
+],
+"tones": [
+1,
+1
+],
+"english": "coffee",
+"pos": "noun",
+"hsk": 2,
+"chapter": 5
+},
+{
+"id": 245,
+"hanzi": "对",
+"chars": [
+"对"
+],
+"pinyin": "duì",
+"pinyinSyllables": [
+"duì"
+],
+"pinyinNum": [
+"dui4"
+],
+"tones": [
+4
+],
+"english": "to, for (used before a noun or a pronoun)",
+"pos": "preposition",
+"hsk": 2,
+"chapter": 5
+},
+{
+"id": 246,
+"hanzi": "以后",
+"chars": [
+"以",
+"后"
+],
+"pinyin": "yǐ hòu",
+"pinyinSyllables": [
+"yǐ",
+"hòu"
+],
+"pinyinNum": [
+"yi3",
+"hou4"
+],
+"tones": [
+3,
+4
+],
+"english": "after, afterwards, later",
+"pos": "noun",
+"hsk": 2,
+"chapter": 5
+},
+{
+"id": 247,
+"hanzi": "们",
+"chars": [
+"们"
+],
+"pinyin": "men",
+"pinyinSyllables": [
+"men"
+],
+"pinyinNum": [
+"men5"
+],
+"tones": [
+5
+],
+"english": "door, gate",
+"pos": "noun",
+"hsk": 2,
+"chapter": 6
+},
+{
+"id": 248,
+"hanzi": "外",
+"chars": [
+"外"
+],
+"pinyin": "wài",
+"pinyinSyllables": [
+"wài"
+],
+"pinyinNum": [
+"wai4"
+],
+"tones": [
+4
+],
+"english": "outer, outside",
+"pos": "noun",
+"hsk": 2,
+"chapter": 6
+},
+{
+"id": 249,
+"hanzi": "自行车",
+"chars": [
+"自",
+"行",
+"车"
+],
+"pinyin": "zì xíng chē",
+"pinyinSyllables": [
+"zì",
+"xíng",
+"chē"
+],
+"pinyinNum": [
+"zi4",
+"xing2",
+"che1"
+],
+"tones": [
+4,
+2,
+1
+],
+"english": "bike",
+"pos": "noun",
+"hsk": 2,
+"chapter": 6
+},
+{
+"id": 250,
+"hanzi": "羊肉",
+"chars": [
+"羊",
+"肉"
+],
+"pinyin": "yáng ròu",
+"pinyinSyllables": [
+"yáng",
+"ròu"
+],
+"pinyinNum": [
+"yang2",
+"rou4"
+],
+"tones": [
+2,
+4
+],
+"english": "mutton",
+"pos": "noun",
+"hsk": 2,
+"chapter": 6
+},
+{
+"id": 251,
+"hanzi": "好吃",
+"chars": [
+"好",
+"吃"
+],
+"pinyin": "hǎo chī",
+"pinyinSyllables": [
+"hǎo",
+"chī"
+],
+"pinyinNum": [
+"hao3",
+"chi1"
+],
+"tones": [
+3,
+1
+],
+"english": "delicious, yummy",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 6
+},
+{
+"id": 252,
+"hanzi": "面条",
+"chars": [
+"面",
+"条"
+],
+"pinyin": "miàn tiáo",
+"pinyinSyllables": [
+"miàn",
+"tiáo"
+],
+"pinyinNum": [
+"mian4",
+"tiao2"
+],
+"tones": [
+4,
+2
+],
+"english": "noodles",
+"pos": "noun",
+"hsk": 2,
+"chapter": 6
+},
+{
+"id": 253,
+"hanzi": "打篮球",
+"chars": [
+"打",
+"篮",
+"球"
+],
+"pinyin": "dǎ lán qiú",
+"pinyinSyllables": [
+"dǎ",
+"lán",
+"qiú"
+],
+"pinyinNum": [
+"da3",
+"lan2",
+"qiu2"
+],
+"tones": [
+3,
+2,
+2
+],
+"english": "to play basketball",
+"pos": "",
+"hsk": 2,
+"chapter": 6
+},
+{
+"id": 254,
+"hanzi": "因为",
+"chars": [
+"因",
+"为"
+],
+"pinyin": "yīn wèi",
+"pinyinSyllables": [
+"yīn",
+"wèi"
+],
+"pinyinNum": [
+"yin1",
+"wei4"
+],
+"tones": [
+1,
+4
+],
+"english": "because, since",
+"pos": "conjunction",
+"hsk": 2,
+"chapter": 6
+},
+{
+"id": 255,
+"hanzi": "所以",
+"chars": [
+"所",
+"以"
+],
+"pinyin": "suǒ yǐ",
+"pinyinSyllables": [
+"suǒ",
+"yǐ"
+],
+"pinyinNum": [
+"suo3",
+"yi3"
+],
+"tones": [
+3,
+3
+],
+"english": "so, therefore",
+"pos": "conjunction",
+"hsk": 2,
+"chapter": 6
+},
+{
+"id": 256,
+"hanzi": "游泳",
+"chars": [
+"游",
+"泳"
+],
+"pinyin": "yóu yǒng",
+"pinyinSyllables": [
+"yóu",
+"yǒng"
+],
+"pinyinNum": [
+"you2",
+"yong3"
+],
+"tones": [
+2,
+3
+],
+"english": "to swim",
+"pos": "verb",
+"hsk": 2,
+"chapter": 6
+},
+{
+"id": 257,
+"hanzi": "经常",
+"chars": [
+"经",
+"常"
+],
+"pinyin": "jīng cháng",
+"pinyinSyllables": [
+"jīng",
+"cháng"
+],
+"pinyinNum": [
+"jing1",
+"chang2"
+],
+"tones": [
+1,
+2
+],
+"english": "often, frequently",
+"pos": "adverb",
+"hsk": 2,
+"chapter": 6
+},
+{
+"id": 258,
+"hanzi": "公斤",
+"chars": [
+"公",
+"斤"
+],
+"pinyin": "gōng jīn",
+"pinyinSyllables": [
+"gōng",
+"jīn"
+],
+"pinyinNum": [
+"gong1",
+"jin1"
+],
+"tones": [
+1,
+1
+],
+"english": "kilogram",
+"pos": "measure word",
+"hsk": 2,
+"chapter": 6
+},
+{
+"id": 259,
+"hanzi": "姐姐",
+"chars": [
+"姐",
+"姐"
+],
+"pinyin": "jiě jiě",
+"pinyinSyllables": [
+"jiě",
+"jiě"
+],
+"pinyinNum": [
+"jie3",
+"jie3"
+],
+"tones": [
+3,
+3
+],
+"english": "elder sister",
+"pos": "noun",
+"hsk": 2,
+"chapter": 6
+},
+{
+"id": 260,
+"hanzi": "教室",
+"chars": [
+"教",
+"室"
+],
+"pinyin": "jiào shì",
+"pinyinSyllables": [
+"jiào",
+"shì"
+],
+"pinyinNum": [
+"jiao4",
+"shi4"
+],
+"tones": [
+4,
+4
+],
+"english": "classroom",
+"pos": "noun",
+"hsk": 2,
+"chapter": 7
+},
+{
+"id": 261,
+"hanzi": "机场",
+"chars": [
+"机",
+"场"
+],
+"pinyin": "jī chǎng",
+"pinyinSyllables": [
+"jī",
+"chǎng"
+],
+"pinyinNum": [
+"ji1",
+"chang3"
+],
+"tones": [
+1,
+3
+],
+"english": "airport",
+"pos": "noun",
+"hsk": 2,
+"chapter": 7
+},
+{
+"id": 262,
+"hanzi": "路",
+"chars": [
+"路"
+],
+"pinyin": "lù",
+"pinyinSyllables": [
+"lù"
+],
+"pinyinNum": [
+"lu4"
+],
+"tones": [
+4
+],
+"english": "road, path, way",
+"pos": "noun",
+"hsk": 2,
+"chapter": 7
+},
+{
+"id": 263,
+"hanzi": "离",
+"chars": [
+"离"
+],
+"pinyin": "lí",
+"pinyinSyllables": [
+"lí"
+],
+"pinyinNum": [
+"li2"
+],
+"tones": [
+2
+],
+"english": "to be away from",
+"pos": "verb",
+"hsk": 2,
+"chapter": 7
+},
+{
+"id": 264,
+"hanzi": "公司",
+"chars": [
+"公",
+"司"
+],
+"pinyin": "gōng sī",
+"pinyinSyllables": [
+"gōng",
+"sī"
+],
+"pinyinNum": [
+"gong1",
+"si1"
+],
+"tones": [
+1,
+1
+],
+"english": "company, firm",
+"pos": "noun",
+"hsk": 2,
+"chapter": 7
+},
+{
+"id": 265,
+"hanzi": "远",
+"chars": [
+"远"
+],
+"pinyin": "yuǎn",
+"pinyinSyllables": [
+"yuǎn"
+],
+"pinyinNum": [
+"yuan3"
+],
+"tones": [
+3
+],
+"english": "far, distant",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 7
+},
+{
+"id": 266,
+"hanzi": "公共汽车",
+"chars": [
+"公",
+"共",
+"汽",
+"车"
+],
+"pinyin": "gōng gòng qì chē",
+"pinyinSyllables": [
+"gōng",
+"gòng",
+"qì",
+"chē"
+],
+"pinyinNum": [
+"gong1",
+"gong4",
+"qi4",
+"che1"
+],
+"tones": [
+1,
+4,
+4,
+1
+],
+"english": "bus",
+"pos": "noun",
+"hsk": 2,
+"chapter": 7
+},
+{
+"id": 267,
+"hanzi": "小时",
+"chars": [
+"小",
+"时"
+],
+"pinyin": "xiǎo shí",
+"pinyinSyllables": [
+"xiǎo",
+"shí"
+],
+"pinyinNum": [
+"xiao3",
+"shi2"
+],
+"tones": [
+3,
+2
+],
+"english": "hour",
+"pos": "noun",
+"hsk": 2,
+"chapter": 7
+},
+{
+"id": 268,
+"hanzi": "慢",
+"chars": [
+"慢"
+],
+"pinyin": "màn",
+"pinyinSyllables": [
+"màn"
+],
+"pinyinNum": [
+"man4"
+],
+"tones": [
+4
+],
+"english": "slow",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 7
+},
+{
+"id": 269,
+"hanzi": "快",
+"chars": [
+"快"
+],
+"pinyin": "kuài",
+"pinyinSyllables": [
+"kuài"
+],
+"pinyinNum": [
+"kuai4"
+],
+"tones": [
+4
+],
+"english": "quick, fast",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 7
+},
+{
+"id": 270,
+"hanzi": "过",
+"chars": [
+"过"
+],
+"pinyin": "guò",
+"pinyinSyllables": [
+"guò"
+],
+"pinyinNum": [
+"guo4"
+],
+"tones": [
+4
+],
+"english": "to pass (time), to spend (time)",
+"pos": "verb",
+"hsk": 2,
+"chapter": 7
+},
+{
+"id": 271,
+"hanzi": "走",
+"chars": [
+"走"
+],
+"pinyin": "zǒu",
+"pinyinSyllables": [
+"zǒu"
+],
+"pinyinNum": [
+"zou3"
+],
+"tones": [
+3
+],
+"english": "to walk",
+"pos": "verb",
+"hsk": 2,
+"chapter": 7
+},
+{
+"id": 272,
+"hanzi": "到",
+"chars": [
+"到"
+],
+"pinyin": "dào",
+"pinyinSyllables": [
+"dào"
+],
+"pinyinNum": [
+"dao4"
+],
+"tones": [
+4
+],
+"english": "to arrive, to reach",
+"pos": "verb",
+"hsk": 2,
+"chapter": 7
+},
+{
+"id": 273,
+"hanzi": "再",
+"chars": [
+"再"
+],
+"pinyin": "zài",
+"pinyinSyllables": [
+"zài"
+],
+"pinyinNum": [
+"zai4"
+],
+"tones": [
+4
+],
+"english": "again, once more",
+"pos": "adverb",
+"hsk": 2,
+"chapter": 8
+},
+{
+"id": 274,
+"hanzi": "让",
+"chars": [
+"让"
+],
+"pinyin": "ràng",
+"pinyinSyllables": [
+"ràng"
+],
+"pinyinNum": [
+"rang4"
+],
+"tones": [
+4
+],
+"english": "to let, to allow",
+"pos": "verb",
+"hsk": 2,
+"chapter": 8
+},
+{
+"id": 275,
+"hanzi": "告诉",
+"chars": [
+"告",
+"诉"
+],
+"pinyin": "gào sù",
+"pinyinSyllables": [
+"gào",
+"sù"
+],
+"pinyinNum": [
+"gao4",
+"su4"
+],
+"tones": [
+4,
+4
+],
+"english": "to tell",
+"pos": "verb",
+"hsk": 2,
+"chapter": 8
+},
+{
+"id": 276,
+"hanzi": "等",
+"chars": [
+"等"
+],
+"pinyin": "děng",
+"pinyinSyllables": [
+"děng"
+],
+"pinyinNum": [
+"deng3"
+],
+"tones": [
+3
+],
+"english": "to wait, to await",
+"pos": "verb",
+"hsk": 2,
+"chapter": 8
+},
+{
+"id": 277,
+"hanzi": "找",
+"chars": [
+"找"
+],
+"pinyin": "zhǎo",
+"pinyinSyllables": [
+"zhǎo"
+],
+"pinyinNum": [
+"zhao3"
+],
+"tones": [
+3
+],
+"english": "to look for",
+"pos": "verb",
+"hsk": 2,
+"chapter": 8
+},
+{
+"id": 278,
+"hanzi": "事情",
+"chars": [
+"事",
+"情"
+],
+"pinyin": "shì qíng",
+"pinyinSyllables": [
+"shì",
+"qíng"
+],
+"pinyinNum": [
+"shi4",
+"qing2"
+],
+"tones": [
+4,
+2
+],
+"english": "thing, matter, affair",
+"pos": "noun",
+"hsk": 2,
+"chapter": 8
+},
+{
+"id": 279,
+"hanzi": "服务 员",
+"chars": [
+"服",
+"务",
+"员"
+],
+"pinyin": "fú wù yuán",
+"pinyinSyllables": [
+"fú",
+"wù",
+"yuán"
+],
+"pinyinNum": [
+"fu2",
+"wu4",
+"yuan2"
+],
+"tones": [
+2,
+4,
+2
+],
+"english": "attendant, waiter/waitress",
+"pos": "noun",
+"hsk": 2,
+"chapter": 8
+},
+{
+"id": 280,
+"hanzi": "白",
+"chars": [
+"白"
+],
+"pinyin": "bái",
+"pinyinSyllables": [
+"bái"
+],
+"pinyinNum": [
+"bai2"
+],
+"tones": [
+2
+],
+"english": "white",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 8
+},
+{
+"id": 281,
+"hanzi": "黑",
+"chars": [
+"黑"
+],
+"pinyin": "hēi",
+"pinyinSyllables": [
+"hēi"
+],
+"pinyinNum": [
+"hei1"
+],
+"tones": [
+1
+],
+"english": "black",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 8
+},
+{
+"id": 282,
+"hanzi": "贵",
+"chars": [
+"贵"
+],
+"pinyin": "guì",
+"pinyinSyllables": [
+"guì"
+],
+"pinyinNum": [
+"gui4"
+],
+"tones": [
+4
+],
+"english": "expensive",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 8
+},
+{
+"id": 283,
+"hanzi": "错",
+"chars": [
+"错"
+],
+"pinyin": "cuò",
+"pinyinSyllables": [
+"cuò"
+],
+"pinyinNum": [
+"cuo4"
+],
+"tones": [
+4
+],
+"english": "wrong, incorrect",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 9
+},
+{
+"id": 284,
+"hanzi": "从",
+"chars": [
+"从"
+],
+"pinyin": "cóng",
+"pinyinSyllables": [
+"cóng"
+],
+"pinyinNum": [
+"cong2"
+],
+"tones": [
+2
+],
+"english": "from",
+"pos": "preposition",
+"hsk": 2,
+"chapter": 9
+},
+{
+"id": 285,
+"hanzi": "跳 舞",
+"chars": [
+"跳",
+"舞"
+],
+"pinyin": "tiào wǔ",
+"pinyinSyllables": [
+"tiào",
+"wǔ"
+],
+"pinyinNum": [
+"tiao4",
+"wu3"
+],
+"tones": [
+4,
+3
+],
+"english": "to dance",
+"pos": "verb",
+"hsk": 2,
+"chapter": 9
+},
+{
+"id": 286,
+"hanzi": "第一",
+"chars": [
+"第",
+"一"
+],
+"pinyin": "dì yī",
+"pinyinSyllables": [
+"dì",
+"yī"
+],
+"pinyinNum": [
+"di4",
+"yi1"
+],
+"tones": [
+4,
+1
+],
+"english": "first",
+"pos": "number",
+"hsk": 2,
+"chapter": 9
+},
+{
+"id": 287,
+"hanzi": "希望",
+"chars": [
+"希",
+"望"
+],
+"pinyin": "xī wàng",
+"pinyinSyllables": [
+"xī",
+"wàng"
+],
+"pinyinNum": [
+"xi1",
+"wang4"
+],
+"tones": [
+1,
+4
+],
+"english": "to hope, to wish",
+"pos": "verb",
+"hsk": 2,
+"chapter": 9
+},
+{
+"id": 288,
+"hanzi": "非常",
+"chars": [
+"非",
+"常"
+],
+"pinyin": "fēi cháng",
+"pinyinSyllables": [
+"fēi",
+"cháng"
+],
+"pinyinNum": [
+"fei1",
+"chang2"
+],
+"tones": [
+1,
+2
+],
+"english": "question, problem",
+"pos": "noun",
+"hsk": 2,
+"chapter": 9
+},
+{
+"id": 289,
+"hanzi": "欢迎",
+"chars": [
+"欢",
+"迎"
+],
+"pinyin": "huān yíng",
+"pinyinSyllables": [
+"huān",
+"yíng"
+],
+"pinyinNum": [
+"huan1",
+"ying2"
+],
+"tones": [
+1,
+2
+],
+"english": "to welcome",
+"pos": "verb",
+"hsk": 2,
+"chapter": 9
+},
+{
+"id": 290,
+"hanzi": "上班",
+"chars": [
+"上",
+"班"
+],
+"pinyin": "shàng bān",
+"pinyinSyllables": [
+"shàng",
+"bān"
+],
+"pinyinNum": [
+"shang4",
+"ban1"
+],
+"tones": [
+4,
+1
+],
+"english": "to work, to do a job",
+"pos": "verb",
+"hsk": 2,
+"chapter": 9
+},
+{
+"id": 291,
+"hanzi": "懂",
+"chars": [
+"懂"
+],
+"pinyin": "dǒng",
+"pinyinSyllables": [
+"dǒng"
+],
+"pinyinNum": [
+"dong3"
+],
+"tones": [
+3
+],
+"english": "to understand, to know",
+"pos": "verb",
+"hsk": 2,
+"chapter": 9
+},
+{
+"id": 292,
+"hanzi": "完",
+"chars": [
+"完"
+],
+"pinyin": "wán",
+"pinyinSyllables": [
+"wán"
+],
+"pinyinNum": [
+"wan2"
+],
+"tones": [
+2
+],
+"english": "to finish to end",
+"pos": "verb",
+"hsk": 2,
+"chapter": 9
+},
+{
+"id": 293,
+"hanzi": "题",
+"chars": [
+"题"
+],
+"pinyin": "tí",
+"pinyinSyllables": [
+"tí"
+],
+"pinyinNum": [
+"ti2"
+],
+"tones": [
+2
+],
+"english": "question, problem",
+"pos": "noun",
+"hsk": 2,
+"chapter": 9
+},
+{
+"id": 294,
+"hanzi": "课",
+"chars": [
+"课"
+],
+"pinyin": "kè",
+"pinyinSyllables": [
+"kè"
+],
+"pinyinNum": [
+"ke4"
+],
+"tones": [
+4
+],
+"english": "class, lesson",
+"pos": "noun",
+"hsk": 2,
+"chapter": 10
+},
+{
+"id": 295,
+"hanzi": "帮助",
+"chars": [
+"帮",
+"助"
+],
+"pinyin": "bāng zhù",
+"pinyinSyllables": [
+"bāng",
+"zhù"
+],
+"pinyinNum": [
+"bang1",
+"zhu4"
+],
+"tones": [
+1,
+4
+],
+"english": "to help, to assist, to aid",
+"pos": "verb",
+"hsk": 2,
+"chapter": 10
+},
+{
+"id": 296,
+"hanzi": "别",
+"chars": [
+"别"
+],
+"pinyin": "bié",
+"pinyinSyllables": [
+"bié"
+],
+"pinyinNum": [
+"bie2"
+],
+"tones": [
+2
+],
+"english": "stop",
+"pos": "adverb",
+"hsk": 2,
+"chapter": 10
+},
+{
+"id": 297,
+"hanzi": "哥哥",
+"chars": [
+"哥",
+"哥"
+],
+"pinyin": "gē gē",
+"pinyinSyllables": [
+"gē",
+"gē"
+],
+"pinyinNum": [
+"ge1",
+"ge1"
+],
+"tones": [
+1,
+1
+],
+"english": "elder brother",
+"pos": "noun",
+"hsk": 2,
+"chapter": 10
+},
+{
+"id": 298,
+"hanzi": "鸡蛋",
+"chars": [
+"鸡",
+"蛋"
+],
+"pinyin": "jī dàn",
+"pinyinSyllables": [
+"jī",
+"dàn"
+],
+"pinyinNum": [
+"ji1",
+"dan4"
+],
+"tones": [
+1,
+4
+],
+"english": "(hen's) egg",
+"pos": "noun",
+"hsk": 2,
+"chapter": 10
+},
+{
+"id": 299,
+"hanzi": "西瓜",
+"chars": [
+"西",
+"瓜"
+],
+"pinyin": "xī guā",
+"pinyinSyllables": [
+"xī",
+"guā"
+],
+"pinyinNum": [
+"xi1",
+"gua1"
+],
+"tones": [
+1,
+1
+],
+"english": "watermelon",
+"pos": "noun",
+"hsk": 2,
+"chapter": 10
+},
+{
+"id": 300,
+"hanzi": "正在",
+"chars": [
+"正",
+"在"
+],
+"pinyin": "zhèng zài",
+"pinyinSyllables": [
+"zhèng",
+"zài"
+],
+"pinyinNum": [
+"zheng4",
+"zai4"
+],
+"tones": [
+4,
+4
+],
+"english": "in the process of",
+"pos": "adverb",
+"hsk": 2,
+"chapter": 10
+},
+{
+"id": 301,
+"hanzi": "手机",
+"chars": [
+"手",
+"机"
+],
+"pinyin": "shǒu jī",
+"pinyinSyllables": [
+"shǒu",
+"jī"
+],
+"pinyinNum": [
+"shou3",
+"ji1"
+],
+"tones": [
+3,
+1
+],
+"english": "cell phone",
+"pos": "noun",
+"hsk": 2,
+"chapter": 10
+},
+{
+"id": 302,
+"hanzi": "洗",
+"chars": [
+"洗"
+],
+"pinyin": "xǐ",
+"pinyinSyllables": [
+"xǐ"
+],
+"pinyinNum": [
+"xi3"
+],
+"tones": [
+3
+],
+"english": "to wash, to bathe",
+"pos": "verb",
+"hsk": 2,
+"chapter": 10
+},
+{
+"id": 303,
+"hanzi": "唱歌",
+"chars": [
+"唱",
+"歌"
+],
+"pinyin": "chàng gē",
+"pinyinSyllables": [
+"chàng",
+"gē"
+],
+"pinyinNum": [
+"chang4",
+"ge1"
+],
+"tones": [
+4,
+1
+],
+"english": "to sing",
+"pos": "verb",
+"hsk": 2,
+"chapter": 11
+},
+{
+"id": 304,
+"hanzi": "男",
+"chars": [
+"男"
+],
+"pinyin": "nán",
+"pinyinSyllables": [
+"nán"
+],
+"pinyinNum": [
+"nan2"
+],
+"tones": [
+2
+],
+"english": "man, male",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 11
+},
+{
+"id": 305,
+"hanzi": "女",
+"chars": [
+"女"
+],
+"pinyin": "nǚ",
+"pinyinSyllables": [
+"nǚ"
+],
+"pinyinNum": [
+"nv3"
+],
+"tones": [
+3
+],
+"english": "woman, female",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 11
+},
+{
+"id": 306,
+"hanzi": "孩子",
+"chars": [
+"孩",
+"子"
+],
+"pinyin": "hái zi",
+"pinyinSyllables": [
+"hái",
+"zi"
+],
+"pinyinNum": [
+"hai2",
+"zi5"
+],
+"tones": [
+2,
+5
+],
+"english": "child, kid",
+"pos": "noun",
+"hsk": 2,
+"chapter": 11
+},
+{
+"id": 307,
+"hanzi": "右边",
+"chars": [
+"右",
+"边"
+],
+"pinyin": "yòu biān",
+"pinyinSyllables": [
+"yòu",
+"biān"
+],
+"pinyinNum": [
+"you4",
+"bian1"
+],
+"tones": [
+4,
+1
+],
+"english": "right, right side",
+"pos": "noun",
+"hsk": 2,
+"chapter": 11
+},
+{
+"id": 308,
+"hanzi": "比",
+"chars": [
+"比"
+],
+"pinyin": "bǐ",
+"pinyinSyllables": [
+"bǐ"
+],
+"pinyinNum": [
+"bi3"
+],
+"tones": [
+3
+],
+"english": "than, (superior or inferior) to",
+"pos": "preposition",
+"hsk": 2,
+"chapter": 11
+},
+{
+"id": 309,
+"hanzi": "便宜",
+"chars": [
+"便",
+"宜"
+],
+"pinyin": "pián yi",
+"pinyinSyllables": [
+"pián",
+"yi"
+],
+"pinyinNum": [
+"pian2",
+"yi5"
+],
+"tones": [
+2,
+5
+],
+"english": "cheaper, inexpensive",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 11
+},
+{
+"id": 310,
+"hanzi": "说话",
+"chars": [
+"说",
+"话"
+],
+"pinyin": "shuō huà",
+"pinyinSyllables": [
+"shuō",
+"huà"
+],
+"pinyinNum": [
+"shuo1",
+"hua4"
+],
+"tones": [
+1,
+4
+],
+"english": "to speak, to say, to talk",
+"pos": "verb",
+"hsk": 2,
+"chapter": 11
+},
+{
+"id": 311,
+"hanzi": "可能",
+"chars": [
+"可",
+"能"
+],
+"pinyin": "kě néng",
+"pinyinSyllables": [
+"kě",
+"néng"
+],
+"pinyinNum": [
+"ke3",
+"neng2"
+],
+"tones": [
+3,
+2
+],
+"english": "maybe, perhaps, probably",
+"pos": "auxiliary",
+"hsk": 2,
+"chapter": 11
+},
+{
+"id": 312,
+"hanzi": "去年",
+"chars": [
+"去",
+"年"
+],
+"pinyin": "qù nián",
+"pinyinSyllables": [
+"qù",
+"nián"
+],
+"pinyinNum": [
+"qu4",
+"nian2"
+],
+"tones": [
+4,
+2
+],
+"english": "last year",
+"pos": "noun",
+"hsk": 2,
+"chapter": 11
+},
+{
+"id": 313,
+"hanzi": "姓",
+"chars": [
+"姓"
+],
+"pinyin": "xìng",
+"pinyinSyllables": [
+"xìng"
+],
+"pinyinNum": [
+"xing4"
+],
+"tones": [
+4
+],
+"english": "family name, surname",
+"pos": "verb",
+"hsk": 2,
+"chapter": 11
+},
+{
+"id": 314,
+"hanzi": "得",
+"chars": [
+"得"
+],
+"pinyin": "dé",
+"pinyinSyllables": [
+"dé"
+],
+"pinyinNum": [
+"de2"
+],
+"tones": [
+2
+],
+"english": "used after a verb or an adjective to introduce a complement of result or degree",
+"pos": "particle",
+"hsk": 2,
+"chapter": 12
+},
+{
+"id": 315,
+"hanzi": "妻子",
+"chars": [
+"妻",
+"子"
+],
+"pinyin": "qī zǐ",
+"pinyinSyllables": [
+"qī",
+"zǐ"
+],
+"pinyinNum": [
+"qi1",
+"zi3"
+],
+"tones": [
+1,
+3
+],
+"english": "wife",
+"pos": "noun",
+"hsk": 2,
+"chapter": 12
+},
+{
+"id": 316,
+"hanzi": "雪",
+"chars": [
+"雪"
+],
+"pinyin": "xuě",
+"pinyinSyllables": [
+"xuě"
+],
+"pinyinNum": [
+"xue3"
+],
+"tones": [
+3
+],
+"english": "snow",
+"pos": "noun",
+"hsk": 2,
+"chapter": 12
+},
+{
+"id": 317,
+"hanzi": "零",
+"chars": [
+"零"
+],
+"pinyin": "líng",
+"pinyinSyllables": [
+"líng"
+],
+"pinyinNum": [
+"ling2"
+],
+"tones": [
+2
+],
+"english": "zero",
+"pos": "number",
+"hsk": 2,
+"chapter": 12
+},
+{
+"id": 318,
+"hanzi": "度",
+"chars": [
+"度"
+],
+"pinyin": "dù",
+"pinyinSyllables": [
+"dù"
+],
+"pinyinNum": [
+"du4"
+],
+"tones": [
+4
+],
+"english": "degree",
+"pos": "noun",
+"hsk": 2,
+"chapter": 12
+},
+{
+"id": 319,
+"hanzi": "穿",
+"chars": [
+"穿"
+],
+"pinyin": "chuān",
+"pinyinSyllables": [
+"chuān"
+],
+"pinyinNum": [
+"chuan1"
+],
+"tones": [
+1
+],
+"english": "to wear, to put on",
+"pos": "verb",
+"hsk": 2,
+"chapter": 12
+},
+{
+"id": 320,
+"hanzi": "进",
+"chars": [
+"进"
+],
+"pinyin": "jìn",
+"pinyinSyllables": [
+"jìn"
+],
+"pinyinNum": [
+"jin4"
+],
+"tones": [
+4
+],
+"english": "to enter, to come/go in",
+"pos": "verb",
+"hsk": 2,
+"chapter": 12
+},
+{
+"id": 321,
+"hanzi": "弟弟",
+"chars": [
+"弟",
+"弟"
+],
+"pinyin": "dì dì",
+"pinyinSyllables": [
+"dì",
+"dì"
+],
+"pinyinNum": [
+"di4",
+"di4"
+],
+"tones": [
+4,
+4
+],
+"english": "younger brother",
+"pos": "noun",
+"hsk": 2,
+"chapter": 12
+},
+{
+"id": 322,
+"hanzi": "近",
+"chars": [
+"近"
+],
+"pinyin": "jìn",
+"pinyinSyllables": [
+"jìn"
+],
+"pinyinNum": [
+"jin4"
+],
+"tones": [
+4
+],
+"english": "near, close",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 12
+},
+{
+"id": 323,
+"hanzi": "着",
+"chars": [
+"着"
+],
+"pinyin": "zhe",
+"pinyinSyllables": [
+"zhe"
+],
+"pinyinNum": [
+"zhe5"
+],
+"tones": [
+5
+],
+"english": "used to indicate a state",
+"pos": "particle",
+"hsk": 2,
+"chapter": 13
+},
+{
+"id": 324,
+"hanzi": "手",
+"chars": [
+"手"
+],
+"pinyin": "shǒu",
+"pinyinSyllables": [
+"shǒu"
+],
+"pinyinNum": [
+"shou3"
+],
+"tones": [
+3
+],
+"english": "hand",
+"pos": "noun",
+"hsk": 2,
+"chapter": 13
+},
+{
+"id": 325,
+"hanzi": "拿",
+"chars": [
+"拿"
+],
+"pinyin": "ná",
+"pinyinSyllables": [
+"ná"
+],
+"pinyinNum": [
+"na2"
+],
+"tones": [
+2
+],
+"english": "to hold, to take, to bring",
+"pos": "verb",
+"hsk": 2,
+"chapter": 13
+},
+{
+"id": 326,
+"hanzi": "铅笔",
+"chars": [
+"铅",
+"笔"
+],
+"pinyin": "qiān bǐ",
+"pinyinSyllables": [
+"qiān",
+"bǐ"
+],
+"pinyinNum": [
+"qian1",
+"bi3"
+],
+"tones": [
+1,
+3
+],
+"english": "pencil",
+"pos": "noun",
+"hsk": 2,
+"chapter": 13
+},
+{
+"id": 327,
+"hanzi": "杨笑笑",
+"chars": [
+"杨",
+"笑",
+"笑"
+],
+"pinyin": "yáng xiào xiào",
+"pinyinSyllables": [
+"yáng",
+"xiào",
+"xiào"
+],
+"pinyinNum": [
+"yang2",
+"xiao4",
+"xiao4"
+],
+"tones": [
+2,
+4,
+4
+],
+"english": "",
+"pos": "proper noun",
+"hsk": 2,
+"chapter": 13
+},
+{
+"id": 328,
+"hanzi": "班",
+"chars": [
+"班"
+],
+"pinyin": "bān",
+"pinyinSyllables": [
+"bān"
+],
+"pinyinNum": [
+"ban1"
+],
+"tones": [
+1
+],
+"english": "class, grade, team",
+"pos": "noun",
+"hsk": 2,
+"chapter": 13
+},
+{
+"id": 329,
+"hanzi": "长",
+"chars": [
+"长"
+],
+"pinyin": "zhǎng",
+"pinyinSyllables": [
+"zhǎng"
+],
+"pinyinNum": [
+"zhang3"
+],
+"tones": [
+3
+],
+"english": "to grow, to develop",
+"pos": "verb",
+"hsk": 2,
+"chapter": 13
+},
+{
+"id": 330,
+"hanzi": "笑",
+"chars": [
+"笑"
+],
+"pinyin": "xiào",
+"pinyinSyllables": [
+"xiào"
+],
+"pinyinNum": [
+"xiao4"
+],
+"tones": [
+4
+],
+"english": "to smile, to laugh",
+"pos": "verb",
+"hsk": 2,
+"chapter": 13
+},
+{
+"id": 331,
+"hanzi": "宾馆",
+"chars": [
+"宾",
+"馆"
+],
+"pinyin": "bīn guǎn",
+"pinyinSyllables": [
+"bīn",
+"guǎn"
+],
+"pinyinNum": [
+"bin1",
+"guan3"
+],
+"tones": [
+1,
+3
+],
+"english": "hotel",
+"pos": "noun",
+"hsk": 2,
+"chapter": 13
+},
+{
+"id": 332,
+"hanzi": "一直",
+"chars": [
+"一",
+"直"
+],
+"pinyin": "yì zhí",
+"pinyinSyllables": [
+"yì",
+"zhí"
+],
+"pinyinNum": [
+"yi4",
+"zhi2"
+],
+"tones": [
+4,
+2
+],
+"english": "straight, all along",
+"pos": "adverb",
+"hsk": 2,
+"chapter": 13
+},
+{
+"id": 333,
+"hanzi": "往",
+"chars": [
+"往"
+],
+"pinyin": "wǎng",
+"pinyinSyllables": [
+"wǎng"
+],
+"pinyinNum": [
+"wang3"
+],
+"tones": [
+3
+],
+"english": "to, towards",
+"pos": "preposition",
+"hsk": 2,
+"chapter": 13
+},
+{
+"id": 334,
+"hanzi": "路口",
+"chars": [
+"路",
+"口"
+],
+"pinyin": "lù kǒu",
+"pinyinSyllables": [
+"lù",
+"kǒu"
+],
+"pinyinNum": [
+"lu4",
+"kou3"
+],
+"tones": [
+4,
+3
+],
+"english": "crossing, crossroads",
+"pos": "noun",
+"hsk": 2,
+"chapter": 13
+},
+{
+"id": 335,
+"hanzi": "有意思",
+"chars": [
+"有",
+"意",
+"思"
+],
+"pinyin": "yǒu yì sī",
+"pinyinSyllables": [
+"yǒu",
+"yì",
+"sī"
+],
+"pinyinNum": [
+"you3",
+"yi4",
+"si1"
+],
+"tones": [
+3,
+4,
+1
+],
+"english": "interesting, fun",
+"pos": "",
+"hsk": 2,
+"chapter": 14
+},
+{
+"id": 336,
+"hanzi": "但是",
+"chars": [
+"但",
+"是"
+],
+"pinyin": "dàn shì",
+"pinyinSyllables": [
+"dàn",
+"shì"
+],
+"pinyinNum": [
+"dan4",
+"shi4"
+],
+"tones": [
+4,
+4
+],
+"english": "but, still, yet",
+"pos": "conjunction",
+"hsk": 2,
+"chapter": 14
+},
+{
+"id": 337,
+"hanzi": "虽然",
+"chars": [
+"虽",
+"然"
+],
+"pinyin": "suī rán",
+"pinyinSyllables": [
+"suī",
+"rán"
+],
+"pinyinNum": [
+"sui1",
+"ran2"
+],
+"tones": [
+1,
+2
+],
+"english": "although, though",
+"pos": "conjunction",
+"hsk": 2,
+"chapter": 14
+},
+{
+"id": 338,
+"hanzi": "次",
+"chars": [
+"次"
+],
+"pinyin": "cì",
+"pinyinSyllables": [
+"cì"
+],
+"pinyinNum": [
+"ci4"
+],
+"tones": [
+4
+],
+"english": "time",
+"pos": "measure word",
+"hsk": 2,
+"chapter": 14
+},
+{
+"id": 339,
+"hanzi": "玩儿",
+"chars": [
+"玩",
+"儿"
+],
+"pinyin": "wán ér",
+"pinyinSyllables": [
+"wán",
+"ér"
+],
+"pinyinNum": [
+"wan2",
+"er2"
+],
+"tones": [
+2,
+2
+],
+"english": "to play, to have fun",
+"pos": "verb",
+"hsk": 2,
+"chapter": 14
+},
+{
+"id": 340,
+"hanzi": "晴",
+"chars": [
+"晴"
+],
+"pinyin": "qíng",
+"pinyinSyllables": [
+"qíng"
+],
+"pinyinNum": [
+"qing2"
+],
+"tones": [
+2
+],
+"english": "sunny, clear",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 14
+},
+{
+"id": 341,
+"hanzi": "白",
+"chars": [
+"白"
+],
+"pinyin": "bái",
+"pinyinSyllables": [
+"bái"
+],
+"pinyinNum": [
+"bai2"
+],
+"tones": [
+2
+],
+"english": "hundred",
+"pos": "number",
+"hsk": 2,
+"chapter": 14
+},
+{
+"id": 342,
+"hanzi": "日",
+"chars": [
+"日"
+],
+"pinyin": "rì",
+"pinyinSyllables": [
+"rì"
+],
+"pinyinNum": [
+"ri4"
+],
+"tones": [
+4
+],
+"english": "day, date",
+"pos": "noun",
+"hsk": 2,
+"chapter": 15
+},
+{
+"id": 343,
+"hanzi": "新年",
+"chars": [
+"新",
+"年"
+],
+"pinyin": "xīn nián",
+"pinyinSyllables": [
+"xīn",
+"nián"
+],
+"pinyinNum": [
+"xin1",
+"nian2"
+],
+"tones": [
+1,
+2
+],
+"english": "New Year",
+"pos": "noun",
+"hsk": 2,
+"chapter": 15
+},
+{
+"id": 344,
+"hanzi": "票",
+"chars": [
+"票"
+],
+"pinyin": "piào",
+"pinyinSyllables": [
+"piào"
+],
+"pinyinNum": [
+"piao4"
+],
+"tones": [
+4
+],
+"english": "ticket",
+"pos": "noun",
+"hsk": 2,
+"chapter": 15
+},
+{
+"id": 345,
+"hanzi": "火车站",
+"chars": [
+"火",
+"车",
+"站"
+],
+"pinyin": "huǒ chē zhàn",
+"pinyinSyllables": [
+"huǒ",
+"chē",
+"zhàn"
+],
+"pinyinNum": [
+"huo3",
+"che1",
+"zhan4"
+],
+"tones": [
+3,
+1,
+4
+],
+"english": "railway station",
+"pos": "noun",
+"hsk": 2,
+"chapter": 15
+},
+{
+"id": 346,
+"hanzi": "大家",
+"chars": [
+"大",
+"家"
+],
+"pinyin": "dà jiā",
+"pinyinSyllables": [
+"dà",
+"jiā"
+],
+"pinyinNum": [
+"da4",
+"jia1"
+],
+"tones": [
+4,
+1
+],
+"english": "all, everybody",
+"pos": "pronoun",
+"hsk": 2,
+"chapter": 15
+},
+{
+"id": 347,
+"hanzi": "更",
+"chars": [
+"更"
+],
+"pinyin": "gèng",
+"pinyinSyllables": [
+"gèng"
+],
+"pinyinNum": [
+"geng4"
+],
+"tones": [
+4
+],
+"english": "more, to a greater extent",
+"pos": "adverb",
+"hsk": 2,
+"chapter": 15
+},
+{
+"id": 348,
+"hanzi": "妹妹",
+"chars": [
+"妹",
+"妹"
+],
+"pinyin": "mèi mèi",
+"pinyinSyllables": [
+"mèi",
+"mèi"
+],
+"pinyinNum": [
+"mei4",
+"mei4"
+],
+"tones": [
+4,
+4
+],
+"english": "younger sister",
+"pos": "noun",
+"hsk": 2,
+"chapter": 15
+},
+{
+"id": 349,
+"hanzi": "阴",
+"chars": [
+"阴"
+],
+"pinyin": "yīn",
+"pinyinSyllables": [
+"yīn"
+],
+"pinyinNum": [
+"yin1"
+],
+"tones": [
+1
+],
+"english": "overcast, cloudy",
+"pos": "adjective",
+"hsk": 2,
+"chapter": 15
+},
+{
+"id": 350,
+"hanzi": "周末",
+"chars": [
+"周",
+"末"
+],
+"pinyin": "zhōu mò",
+"pinyinSyllables": [
+"zhōu",
+"mò"
+],
+"pinyinNum": [
+"zhou1",
+"mo4"
+],
+"tones": [
+1,
+4
+],
+"english": "weekend",
+"pos": "noun",
+"hsk": 3,
+"chapter": 1
+},
+{
+"id": 351,
+"hanzi": "打算",
+"chars": [
+"打",
+"算"
+],
+"pinyin": "dǎ suàn",
+"pinyinSyllables": [
+"dǎ",
+"suàn"
+],
+"pinyinNum": [
+"da3",
+"suan4"
+],
+"tones": [
+3,
+4
+],
+"english": "plan, to intend",
+"pos": "noun/verb",
+"hsk": 3,
+"chapter": 1
+},
+{
+"id": 352,
+"hanzi": "啊",
+"chars": [
+"啊"
+],
+"pinyin": "a",
+"pinyinSyllables": [
+"a"
+],
+"pinyinNum": [
+"a5"
+],
+"tones": [
+5
+],
+"english": "used at the end of a sentence to indicate confirmation or defense",
+"pos": "particle",
+"hsk": 3,
+"chapter": 1
+},
+{
+"id": 353,
+"hanzi": "跟",
+"chars": [
+"跟"
+],
+"pinyin": "gēn",
+"pinyinSyllables": [
+"gēn"
+],
+"pinyinNum": [
+"gen1"
+],
+"tones": [
+1
+],
+"english": "with",
+"pos": "preposition",
+"hsk": 3,
+"chapter": 1
+},
+{
+"id": 354,
+"hanzi": "小丽",
+"chars": [
+"小",
+"丽"
+],
+"pinyin": "xiǎo lì",
+"pinyinSyllables": [
+"xiǎo",
+"lì"
+],
+"pinyinNum": [
+"xiao3",
+"li4"
+],
+"tones": [
+3,
+4
+],
+"english": "proper noun",
+"pos": "",
+"hsk": 3,
+"chapter": 1
+},
+{
+"id": 355,
+"hanzi": "小刚",
+"chars": [
+"小",
+"刚"
+],
+"pinyin": "xiǎo gāng",
+"pinyinSyllables": [
+"xiǎo",
+"gāng"
+],
+"pinyinNum": [
+"xiao3",
+"gang1"
+],
+"tones": [
+3,
+1
+],
+"english": "proper noun",
+"pos": "",
+"hsk": 3,
+"chapter": 1
+},
+{
+"id": 356,
+"hanzi": "一直",
+"chars": [
+"一",
+"直"
+],
+"pinyin": "yì zhí",
+"pinyinSyllables": [
+"yì",
+"zhí"
+],
+"pinyinNum": [
+"yi4",
+"zhi2"
+],
+"tones": [
+4,
+2
+],
+"english": "all the time",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 1
+},
+{
+"id": 357,
+"hanzi": "游戏",
+"chars": [
+"游",
+"戏"
+],
+"pinyin": "yóu xì",
+"pinyinSyllables": [
+"yóu",
+"xì"
+],
+"pinyinNum": [
+"you2",
+"xi4"
+],
+"tones": [
+2,
+4
+],
+"english": "game",
+"pos": "noun",
+"hsk": 3,
+"chapter": 1
+},
+{
+"id": 358,
+"hanzi": "作业",
+"chars": [
+"作",
+"业"
+],
+"pinyin": "zuò yè",
+"pinyinSyllables": [
+"zuò",
+"yè"
+],
+"pinyinNum": [
+"zuo4",
+"ye4"
+],
+"tones": [
+4,
+4
+],
+"english": "homework",
+"pos": "noun",
+"hsk": 3,
+"chapter": 1
+},
+{
+"id": 359,
+"hanzi": "着急",
+"chars": [
+"着",
+"急"
+],
+"pinyin": "zháo jí",
+"pinyinSyllables": [
+"zháo",
+"jí"
+],
+"pinyinNum": [
+"zhao2",
+"ji2"
+],
+"tones": [
+2,
+2
+],
+"english": "worried, anxious",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 1
+},
+{
+"id": 360,
+"hanzi": "复习",
+"chars": [
+"复",
+"习"
+],
+"pinyin": "fù xí",
+"pinyinSyllables": [
+"fù",
+"xí"
+],
+"pinyinNum": [
+"fu4",
+"xi2"
+],
+"tones": [
+4,
+2
+],
+"english": "to review",
+"pos": "verb",
+"hsk": 3,
+"chapter": 1
+},
+{
+"id": 361,
+"hanzi": "南(方)",
+"chars": [
+"南",
+"方"
+],
+"pinyin": "nán fāng",
+"pinyinSyllables": [
+"nán",
+"fāng"
+],
+"pinyinNum": [
+"nan2",
+"fang1"
+],
+"tones": [
+2,
+1
+],
+"english": "south, southern part",
+"pos": "noun",
+"hsk": 3,
+"chapter": 1
+},
+{
+"id": 362,
+"hanzi": "北(方)",
+"chars": [
+"北",
+"方"
+],
+"pinyin": "běi fāng",
+"pinyinSyllables": [
+"běi",
+"fāng"
+],
+"pinyinNum": [
+"bei3",
+"fang1"
+],
+"tones": [
+3,
+1
+],
+"english": "north, northern part",
+"pos": "noun",
+"hsk": 3,
+"chapter": 1
+},
+{
+"id": 363,
+"hanzi": "面包",
+"chars": [
+"面",
+"包"
+],
+"pinyin": "miàn bāo",
+"pinyinSyllables": [
+"miàn",
+"bāo"
+],
+"pinyinNum": [
+"mian4",
+"bao1"
+],
+"tones": [
+4,
+1
+],
+"english": "bread",
+"pos": "noun",
+"hsk": 3,
+"chapter": 1
+},
+{
+"id": 364,
+"hanzi": "带",
+"chars": [
+"带"
+],
+"pinyin": "dài",
+"pinyinSyllables": [
+"dài"
+],
+"pinyinNum": [
+"dai4"
+],
+"tones": [
+4
+],
+"english": "to take along, to bring",
+"pos": "verb",
+"hsk": 3,
+"chapter": 1
+},
+{
+"id": 365,
+"hanzi": "地图",
+"chars": [
+"地",
+"图"
+],
+"pinyin": "dì tú",
+"pinyinSyllables": [
+"dì",
+"tú"
+],
+"pinyinNum": [
+"di4",
+"tu2"
+],
+"tones": [
+4,
+2
+],
+"english": "map",
+"pos": "noun",
+"hsk": 3,
+"chapter": 1
+},
+{
+"id": 366,
+"hanzi": "搬",
+"chars": [
+"搬"
+],
+"pinyin": "bān",
+"pinyinSyllables": [
+"bān"
+],
+"pinyinNum": [
+"ban1"
+],
+"tones": [
+1
+],
+"english": "to move, to carry",
+"pos": "verb",
+"hsk": 3,
+"chapter": 1
+},
+{
+"id": 367,
+"hanzi": "腿",
+"chars": [
+"腿"
+],
+"pinyin": "tuǐ",
+"pinyinSyllables": [
+"tuǐ"
+],
+"pinyinNum": [
+"tui3"
+],
+"tones": [
+3
+],
+"english": "leg",
+"pos": "noun",
+"hsk": 3,
+"chapter": 2
+},
+{
+"id": 368,
+"hanzi": "疼",
+"chars": [
+"疼"
+],
+"pinyin": "téng",
+"pinyinSyllables": [
+"téng"
+],
+"pinyinNum": [
+"teng2"
+],
+"tones": [
+2
+],
+"english": "hurt, painful",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 2
+},
+{
+"id": 369,
+"hanzi": "脚",
+"chars": [
+"脚"
+],
+"pinyin": "jiǎo",
+"pinyinSyllables": [
+"jiǎo"
+],
+"pinyinNum": [
+"jiao3"
+],
+"tones": [
+3
+],
+"english": "foot",
+"pos": "noun",
+"hsk": 3,
+"chapter": 2
+},
+{
+"id": 370,
+"hanzi": "树",
+"chars": [
+"树"
+],
+"pinyin": "shù",
+"pinyinSyllables": [
+"shù"
+],
+"pinyinNum": [
+"shu4"
+],
+"tones": [
+4
+],
+"english": "tree",
+"pos": "noun",
+"hsk": 3,
+"chapter": 2
+},
+{
+"id": 371,
+"hanzi": "容易",
+"chars": [
+"容",
+"易"
+],
+"pinyin": "róng yì",
+"pinyinSyllables": [
+"róng",
+"yì"
+],
+"pinyinNum": [
+"rong2",
+"yi4"
+],
+"tones": [
+2,
+4
+],
+"english": "easy",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 2
+},
+{
+"id": 372,
+"hanzi": "难",
+"chars": [
+"难"
+],
+"pinyin": "nán",
+"pinyinSyllables": [
+"nán"
+],
+"pinyinNum": [
+"nan2"
+],
+"tones": [
+2
+],
+"english": "difficult",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 2
+},
+{
+"id": 373,
+"hanzi": "太太",
+"chars": [
+"太",
+"太"
+],
+"pinyin": "tài tài",
+"pinyinSyllables": [
+"tài",
+"tài"
+],
+"pinyinNum": [
+"tai4",
+"tai4"
+],
+"tones": [
+4,
+4
+],
+"english": "Mrs., madam",
+"pos": "noun",
+"hsk": 3,
+"chapter": 2
+},
+{
+"id": 374,
+"hanzi": "秘书",
+"chars": [
+"秘",
+"书"
+],
+"pinyin": "mì shū",
+"pinyinSyllables": [
+"mì",
+"shū"
+],
+"pinyinNum": [
+"mi4",
+"shu1"
+],
+"tones": [
+4,
+1
+],
+"english": "secretary",
+"pos": "noun",
+"hsk": 3,
+"chapter": 2
+},
+{
+"id": 375,
+"hanzi": "经理",
+"chars": [
+"经",
+"理"
+],
+"pinyin": "jīng lǐ",
+"pinyinSyllables": [
+"jīng",
+"lǐ"
+],
+"pinyinNum": [
+"jing1",
+"li3"
+],
+"tones": [
+1,
+3
+],
+"english": "manager",
+"pos": "noun",
+"hsk": 3,
+"chapter": 2
+},
+{
+"id": 376,
+"hanzi": "办公室",
+"chars": [
+"办",
+"公",
+"室"
+],
+"pinyin": "bàn gōng shì",
+"pinyinSyllables": [
+"bàn",
+"gōng",
+"shì"
+],
+"pinyinNum": [
+"ban4",
+"gong1",
+"shi4"
+],
+"tones": [
+4,
+1,
+4
+],
+"english": "office",
+"pos": "noun",
+"hsk": 3,
+"chapter": 2
+},
+{
+"id": 377,
+"hanzi": "周",
+"chars": [
+"周"
+],
+"pinyin": "zhōu",
+"pinyinSyllables": [
+"zhōu"
+],
+"pinyinNum": [
+"zhou1"
+],
+"tones": [
+1
+],
+"english": "proper noun",
+"pos": "proper noun",
+"hsk": 3,
+"chapter": 2
+},
+{
+"id": 378,
+"hanzi": "周明",
+"chars": [
+"周",
+"明"
+],
+"pinyin": "zhōu míng",
+"pinyinSyllables": [
+"zhōu",
+"míng"
+],
+"pinyinNum": [
+"zhou1",
+"ming2"
+],
+"tones": [
+1,
+2
+],
+"english": "proper noun",
+"pos": "",
+"hsk": 3,
+"chapter": 2
+},
+{
+"id": 379,
+"hanzi": "辆",
+"chars": [
+"辆"
+],
+"pinyin": "liàng",
+"pinyinSyllables": [
+"liàng"
+],
+"pinyinNum": [
+"liang4"
+],
+"tones": [
+4
+],
+"english": "used for vehicles",
+"pos": "measure word",
+"hsk": 3,
+"chapter": 2
+},
+{
+"id": 380,
+"hanzi": "楼",
+"chars": [
+"楼"
+],
+"pinyin": "lóu",
+"pinyinSyllables": [
+"lóu"
+],
+"pinyinNum": [
+"lou2"
+],
+"tones": [
+2
+],
+"english": "building",
+"pos": "noun",
+"hsk": 3,
+"chapter": 2
+},
+{
+"id": 381,
+"hanzi": "拿",
+"chars": [
+"拿"
+],
+"pinyin": "ná",
+"pinyinSyllables": [
+"ná"
+],
+"pinyinNum": [
+"na2"
+],
+"tones": [
+2
+],
+"english": "to take, to fetch",
+"pos": "verb",
+"hsk": 3,
+"chapter": 2
+},
+{
+"id": 382,
+"hanzi": "把",
+"chars": [
+"把"
+],
+"pinyin": "bǎ",
+"pinyinSyllables": [
+"bǎ"
+],
+"pinyinNum": [
+"ba3"
+],
+"tones": [
+3
+],
+"english": "used for things with a handle",
+"pos": "measure word",
+"hsk": 3,
+"chapter": 2
+},
+{
+"id": 383,
+"hanzi": "伞",
+"chars": [
+"伞"
+],
+"pinyin": "sǎn",
+"pinyinSyllables": [
+"sǎn"
+],
+"pinyinNum": [
+"san3"
+],
+"tones": [
+3
+],
+"english": "umbrella",
+"pos": "noun",
+"hsk": 3,
+"chapter": 2
+},
+{
+"id": 384,
+"hanzi": "胖",
+"chars": [
+"胖"
+],
+"pinyin": "pàng",
+"pinyinSyllables": [
+"pàng"
+],
+"pinyinNum": [
+"pang4"
+],
+"tones": [
+4
+],
+"english": "fat",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 2
+},
+{
+"id": 385,
+"hanzi": "其实",
+"chars": [
+"其",
+"实"
+],
+"pinyin": "qí shí",
+"pinyinSyllables": [
+"qí",
+"shí"
+],
+"pinyinNum": [
+"qi2",
+"shi2"
+],
+"tones": [
+2,
+2
+],
+"english": "actually",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 2
+},
+{
+"id": 386,
+"hanzi": "瘦",
+"chars": [
+"瘦"
+],
+"pinyin": "shòu",
+"pinyinSyllables": [
+"shòu"
+],
+"pinyinNum": [
+"shou4"
+],
+"tones": [
+4
+],
+"english": "thin",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 2
+},
+{
+"id": 387,
+"hanzi": "还是",
+"chars": [
+"还",
+"是"
+],
+"pinyin": "hái shì",
+"pinyinSyllables": [
+"hái",
+"shì"
+],
+"pinyinNum": [
+"hai2",
+"shi4"
+],
+"tones": [
+2,
+4
+],
+"english": "or",
+"pos": "conjunction",
+"hsk": 3,
+"chapter": 3
+},
+{
+"id": 388,
+"hanzi": "爬山",
+"chars": [
+"爬",
+"山"
+],
+"pinyin": "pá shān",
+"pinyinSyllables": [
+"pá",
+"shān"
+],
+"pinyinNum": [
+"pa2",
+"shan1"
+],
+"tones": [
+2,
+1
+],
+"english": "to climb a mountain",
+"pos": "verb",
+"hsk": 3,
+"chapter": 3
+},
+{
+"id": 389,
+"hanzi": "小心",
+"chars": [
+"小",
+"心"
+],
+"pinyin": "xiǎo xīn",
+"pinyinSyllables": [
+"xiǎo",
+"xīn"
+],
+"pinyinNum": [
+"xiao3",
+"xin1"
+],
+"tones": [
+3,
+1
+],
+"english": "careful",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 3
+},
+{
+"id": 390,
+"hanzi": "条",
+"chars": [
+"条"
+],
+"pinyin": "tiáo",
+"pinyinSyllables": [
+"tiáo"
+],
+"pinyinNum": [
+"tiao2"
+],
+"tones": [
+2
+],
+"english": "used for pants, dresses, etc.",
+"pos": "measure word",
+"hsk": 3,
+"chapter": 3
+},
+{
+"id": 391,
+"hanzi": "裤子",
+"chars": [
+"裤",
+"子"
+],
+"pinyin": "kù zi",
+"pinyinSyllables": [
+"kù",
+"zi"
+],
+"pinyinNum": [
+"ku4",
+"zi5"
+],
+"tones": [
+4,
+5
+],
+"english": "pants",
+"pos": "noun",
+"hsk": 3,
+"chapter": 3
+},
+{
+"id": 392,
+"hanzi": "记得",
+"chars": [
+"记",
+"得"
+],
+"pinyin": "jì de",
+"pinyinSyllables": [
+"jì",
+"de"
+],
+"pinyinNum": [
+"ji4",
+"de5"
+],
+"tones": [
+4,
+5
+],
+"english": "to remember",
+"pos": "verb",
+"hsk": 3,
+"chapter": 3
+},
+{
+"id": 393,
+"hanzi": "衬衫",
+"chars": [
+"衬",
+"衫"
+],
+"pinyin": "chèn shān",
+"pinyinSyllables": [
+"chèn",
+"shān"
+],
+"pinyinNum": [
+"chen4",
+"shan1"
+],
+"tones": [
+4,
+1
+],
+"english": "shirt",
+"pos": "noun",
+"hsk": 3,
+"chapter": 3
+},
+{
+"id": 394,
+"hanzi": "元",
+"chars": [
+"元"
+],
+"pinyin": "yuán",
+"pinyinSyllables": [
+"yuán"
+],
+"pinyinNum": [
+"yuan2"
+],
+"tones": [
+2
+],
+"english": "unit of money",
+"pos": "measure word",
+"hsk": 3,
+"chapter": 3
+},
+{
+"id": 395,
+"hanzi": "新鲜",
+"chars": [
+"新",
+"鲜"
+],
+"pinyin": "xīn xiān",
+"pinyinSyllables": [
+"xīn",
+"xiān"
+],
+"pinyinNum": [
+"xin1",
+"xian1"
+],
+"tones": [
+1,
+1
+],
+"english": "fresh",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 3
+},
+{
+"id": 396,
+"hanzi": "甜",
+"chars": [
+"甜"
+],
+"pinyin": "tián",
+"pinyinSyllables": [
+"tián"
+],
+"pinyinNum": [
+"tian2"
+],
+"tones": [
+2
+],
+"english": "sweet",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 3
+},
+{
+"id": 397,
+"hanzi": "只",
+"chars": [
+"只"
+],
+"pinyin": "zhǐ",
+"pinyinSyllables": [
+"zhǐ"
+],
+"pinyinNum": [
+"zhi3"
+],
+"tones": [
+3
+],
+"english": "only, solely",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 3
+},
+{
+"id": 398,
+"hanzi": "放",
+"chars": [
+"放"
+],
+"pinyin": "fàng",
+"pinyinSyllables": [
+"fàng"
+],
+"pinyinNum": [
+"fang4"
+],
+"tones": [
+4
+],
+"english": "to put, to place",
+"pos": "verb",
+"hsk": 3,
+"chapter": 3
+},
+{
+"id": 399,
+"hanzi": "饮料",
+"chars": [
+"饮",
+"料"
+],
+"pinyin": "yǐn liào",
+"pinyinSyllables": [
+"yǐn",
+"liào"
+],
+"pinyinNum": [
+"yin3",
+"liao4"
+],
+"tones": [
+3,
+4
+],
+"english": "drink, beverage",
+"pos": "noun",
+"hsk": 3,
+"chapter": 3
+},
+{
+"id": 400,
+"hanzi": "或者",
+"chars": [
+"或",
+"者"
+],
+"pinyin": "huò zhě",
+"pinyinSyllables": [
+"huò",
+"zhě"
+],
+"pinyinNum": [
+"huo4",
+"zhe3"
+],
+"tones": [
+4,
+3
+],
+"english": "or",
+"pos": "conjunction",
+"hsk": 3,
+"chapter": 3
+},
+{
+"id": 401,
+"hanzi": "舒服",
+"chars": [
+"舒",
+"服"
+],
+"pinyin": "shū fú",
+"pinyinSyllables": [
+"shū",
+"fú"
+],
+"pinyinNum": [
+"shu1",
+"fu2"
+],
+"tones": [
+1,
+2
+],
+"english": "comfortable",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 3
+},
+{
+"id": 402,
+"hanzi": "花",
+"chars": [
+"花"
+],
+"pinyin": "huā",
+"pinyinSyllables": [
+"huā"
+],
+"pinyinNum": [
+"hua1"
+],
+"tones": [
+1
+],
+"english": "flower",
+"pos": "noun",
+"hsk": 3,
+"chapter": 3
+},
+{
+"id": 403,
+"hanzi": "绿",
+"chars": [
+"绿"
+],
+"pinyin": "lǜ",
+"pinyinSyllables": [
+"lǜ"
+],
+"pinyinNum": [
+"lv4"
+],
+"tones": [
+4
+],
+"english": "green",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 3
+},
+{
+"id": 404,
+"hanzi": "比赛",
+"chars": [
+"比",
+"赛"
+],
+"pinyin": "bǐ sài",
+"pinyinSyllables": [
+"bǐ",
+"sài"
+],
+"pinyinNum": [
+"bi3",
+"sai4"
+],
+"tones": [
+3,
+4
+],
+"english": "match, competition",
+"pos": "noun",
+"hsk": 3,
+"chapter": 4
+},
+{
+"id": 405,
+"hanzi": "照片",
+"chars": [
+"照",
+"片"
+],
+"pinyin": "zhào piān",
+"pinyinSyllables": [
+"zhào",
+"piān"
+],
+"pinyinNum": [
+"zhao4",
+"pian1"
+],
+"tones": [
+4,
+1
+],
+"english": "photo",
+"pos": "noun",
+"hsk": 3,
+"chapter": 4
+},
+{
+"id": 406,
+"hanzi": "年级",
+"chars": [
+"年",
+"级"
+],
+"pinyin": "nián jí",
+"pinyinSyllables": [
+"nián",
+"jí"
+],
+"pinyinNum": [
+"nian2",
+"ji2"
+],
+"tones": [
+2,
+2
+],
+"english": "grade",
+"pos": "noun",
+"hsk": 3,
+"chapter": 4
+},
+{
+"id": 407,
+"hanzi": "又",
+"chars": [
+"又"
+],
+"pinyin": "yòu",
+"pinyinSyllables": [
+"yòu"
+],
+"pinyinNum": [
+"you4"
+],
+"tones": [
+4
+],
+"english": "and",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 4
+},
+{
+"id": 408,
+"hanzi": "小明",
+"chars": [
+"小",
+"明"
+],
+"pinyin": "xiǎo míng",
+"pinyinSyllables": [
+"xiǎo",
+"míng"
+],
+"pinyinNum": [
+"xiao3",
+"ming2"
+],
+"tones": [
+3,
+2
+],
+"english": "",
+"pos": "proper noun",
+"hsk": 3,
+"chapter": 4
+},
+{
+"id": 409,
+"hanzi": "马可",
+"chars": [
+"马",
+"可"
+],
+"pinyin": "mǎ kě",
+"pinyinSyllables": [
+"mǎ",
+"kě"
+],
+"pinyinNum": [
+"ma3",
+"ke3"
+],
+"tones": [
+3,
+3
+],
+"english": "Marco",
+"pos": "proper noun",
+"hsk": 3,
+"chapter": 4
+},
+{
+"id": 410,
+"hanzi": "聪明",
+"chars": [
+"聪",
+"明"
+],
+"pinyin": "cōng míng",
+"pinyinSyllables": [
+"cōng",
+"míng"
+],
+"pinyinNum": [
+"cong1",
+"ming2"
+],
+"tones": [
+1,
+2
+],
+"english": "clever, smart",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 4
+},
+{
+"id": 411,
+"hanzi": "热情",
+"chars": [
+"热",
+"情"
+],
+"pinyin": "rè qíng",
+"pinyinSyllables": [
+"rè",
+"qíng"
+],
+"pinyinNum": [
+"re4",
+"qing2"
+],
+"tones": [
+4,
+2
+],
+"english": "warm, enthusiastic",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 4
+},
+{
+"id": 412,
+"hanzi": "努力",
+"chars": [
+"努",
+"力"
+],
+"pinyin": "nǔ lì",
+"pinyinSyllables": [
+"nǔ",
+"lì"
+],
+"pinyinNum": [
+"nu3",
+"li4"
+],
+"tones": [
+3,
+4
+],
+"english": "hard-working",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 4
+},
+{
+"id": 413,
+"hanzi": "总是",
+"chars": [
+"总",
+"是"
+],
+"pinyin": "zǒng shì",
+"pinyinSyllables": [
+"zǒng",
+"shì"
+],
+"pinyinNum": [
+"zong3",
+"shi4"
+],
+"tones": [
+3,
+4
+],
+"english": "always",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 4
+},
+{
+"id": 414,
+"hanzi": "回答",
+"chars": [
+"回",
+"答"
+],
+"pinyin": "huí dá",
+"pinyinSyllables": [
+"huí",
+"dá"
+],
+"pinyinNum": [
+"hui2",
+"da2"
+],
+"tones": [
+2,
+2
+],
+"english": "to answer",
+"pos": "verb",
+"hsk": 3,
+"chapter": 4
+},
+{
+"id": 415,
+"hanzi": "站",
+"chars": [
+"站"
+],
+"pinyin": "zhàn",
+"pinyinSyllables": [
+"zhàn"
+],
+"pinyinNum": [
+"zhan4"
+],
+"tones": [
+4
+],
+"english": "to stand",
+"pos": "verb",
+"hsk": 3,
+"chapter": 4
+},
+{
+"id": 416,
+"hanzi": "饿",
+"chars": [
+"饿"
+],
+"pinyin": "è",
+"pinyinSyllables": [
+"è"
+],
+"pinyinNum": [
+"e4"
+],
+"tones": [
+4
+],
+"english": "hungry",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 4
+},
+{
+"id": 417,
+"hanzi": "超市",
+"chars": [
+"超",
+"市"
+],
+"pinyin": "chāo shì",
+"pinyinSyllables": [
+"chāo",
+"shì"
+],
+"pinyinNum": [
+"chao1",
+"shi4"
+],
+"tones": [
+1,
+4
+],
+"english": "supermarket",
+"pos": "noun",
+"hsk": 3,
+"chapter": 4
+},
+{
+"id": 418,
+"hanzi": "蛋糕",
+"chars": [
+"蛋",
+"糕"
+],
+"pinyin": "dàn gāo",
+"pinyinSyllables": [
+"dàn",
+"gāo"
+],
+"pinyinNum": [
+"dan4",
+"gao1"
+],
+"tones": [
+4,
+1
+],
+"english": "cake",
+"pos": "noun",
+"hsk": 3,
+"chapter": 4
+},
+{
+"id": 419,
+"hanzi": "年轻",
+"chars": [
+"年",
+"轻"
+],
+"pinyin": "nián qīng",
+"pinyinSyllables": [
+"nián",
+"qīng"
+],
+"pinyinNum": [
+"nian2",
+"qing1"
+],
+"tones": [
+2,
+1
+],
+"english": "young",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 4
+},
+{
+"id": 420,
+"hanzi": "认真",
+"chars": [
+"认",
+"真"
+],
+"pinyin": "rèn zhēn",
+"pinyinSyllables": [
+"rèn",
+"zhēn"
+],
+"pinyinNum": [
+"ren4",
+"zhen1"
+],
+"tones": [
+4,
+1
+],
+"english": "serious, earnest",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 4
+},
+{
+"id": 421,
+"hanzi": "客人",
+"chars": [
+"客",
+"人"
+],
+"pinyin": "kè rén",
+"pinyinSyllables": [
+"kè",
+"rén"
+],
+"pinyinNum": [
+"ke4",
+"ren2"
+],
+"tones": [
+4,
+2
+],
+"english": "customer, guest",
+"pos": "noun",
+"hsk": 3,
+"chapter": 4
+},
+{
+"id": 422,
+"hanzi": "李小美",
+"chars": [
+"李",
+"小",
+"美"
+],
+"pinyin": "lǐ xiǎo měi",
+"pinyinSyllables": [
+"lǐ",
+"xiǎo",
+"měi"
+],
+"pinyinNum": [
+"li3",
+"xiao3",
+"mei3"
+],
+"tones": [
+3,
+3,
+3
+],
+"english": "",
+"pos": "proper noun",
+"hsk": 3,
+"chapter": 4
+},
+{
+"id": 423,
+"hanzi": "发烧",
+"chars": [
+"发",
+"烧"
+],
+"pinyin": "fā shāo",
+"pinyinSyllables": [
+"fā",
+"shāo"
+],
+"pinyinNum": [
+"fa1",
+"shao1"
+],
+"tones": [
+1,
+1
+],
+"english": "to have a fever",
+"pos": "verb",
+"hsk": 3,
+"chapter": 5
+},
+{
+"id": 424,
+"hanzi": "为",
+"chars": [
+"为"
+],
+"pinyin": "wèi",
+"pinyinSyllables": [
+"wèi"
+],
+"pinyinNum": [
+"wei4"
+],
+"tones": [
+4
+],
+"english": "for",
+"pos": "preposition",
+"hsk": 3,
+"chapter": 5
+},
+{
+"id": 425,
+"hanzi": "照顾",
+"chars": [
+"照",
+"顾"
+],
+"pinyin": "zhào gù",
+"pinyinSyllables": [
+"zhào",
+"gù"
+],
+"pinyinNum": [
+"zhao4",
+"gu4"
+],
+"tones": [
+4,
+4
+],
+"english": "to take care of",
+"pos": "verb",
+"hsk": 3,
+"chapter": 5
+},
+{
+"id": 426,
+"hanzi": "用",
+"chars": [
+"用"
+],
+"pinyin": "yòng",
+"pinyinSyllables": [
+"yòng"
+],
+"pinyinNum": [
+"yong4"
+],
+"tones": [
+4
+],
+"english": "to need",
+"pos": "verb",
+"hsk": 3,
+"chapter": 5
+},
+{
+"id": 427,
+"hanzi": "感冒",
+"chars": [
+"感",
+"冒"
+],
+"pinyin": "gǎn mào",
+"pinyinSyllables": [
+"gǎn",
+"mào"
+],
+"pinyinNum": [
+"gan3",
+"mao4"
+],
+"tones": [
+3,
+4
+],
+"english": "to catch a cold",
+"pos": "verb",
+"hsk": 3,
+"chapter": 5
+},
+{
+"id": 428,
+"hanzi": "张",
+"chars": [
+"张"
+],
+"pinyin": "zhāng",
+"pinyinSyllables": [
+"zhāng"
+],
+"pinyinNum": [
+"zhang1"
+],
+"tones": [
+1
+],
+"english": "Zhang, a surname",
+"pos": "",
+"hsk": 3,
+"chapter": 5
+},
+{
+"id": 429,
+"hanzi": "季节",
+"chars": [
+"季",
+"节"
+],
+"pinyin": "jì jié",
+"pinyinSyllables": [
+"jì",
+"jié"
+],
+"pinyinNum": [
+"ji4",
+"jie2"
+],
+"tones": [
+4,
+2
+],
+"english": "season",
+"pos": "noun",
+"hsk": 3,
+"chapter": 5
+},
+{
+"id": 430,
+"hanzi": "当然",
+"chars": [
+"当",
+"然"
+],
+"pinyin": "dāng rán",
+"pinyinSyllables": [
+"dāng",
+"rán"
+],
+"pinyinNum": [
+"dang1",
+"ran2"
+],
+"tones": [
+1,
+2
+],
+"english": "of course",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 5
+},
+{
+"id": 431,
+"hanzi": "春(天)",
+"chars": [
+"春",
+"天"
+],
+"pinyin": "chūn tiān",
+"pinyinSyllables": [
+"chūn",
+"tiān"
+],
+"pinyinNum": [
+"chun1",
+"tian1"
+],
+"tones": [
+1,
+1
+],
+"english": "spring",
+"pos": "noun",
+"hsk": 3,
+"chapter": 5
+},
+{
+"id": 432,
+"hanzi": "草",
+"chars": [
+"草"
+],
+"pinyin": "cǎo",
+"pinyinSyllables": [
+"cǎo"
+],
+"pinyinNum": [
+"cao3"
+],
+"tones": [
+3
+],
+"english": "grass",
+"pos": "noun",
+"hsk": 3,
+"chapter": 5
+},
+{
+"id": 433,
+"hanzi": "夏(天)",
+"chars": [
+"夏",
+"天"
+],
+"pinyin": "xià tiān",
+"pinyinSyllables": [
+"xià",
+"tiān"
+],
+"pinyinNum": [
+"xia4",
+"tian1"
+],
+"tones": [
+4,
+1
+],
+"english": "summer",
+"pos": "noun",
+"hsk": 3,
+"chapter": 5
+},
+{
+"id": 434,
+"hanzi": "裙子",
+"chars": [
+"裙",
+"子"
+],
+"pinyin": "qún zi",
+"pinyinSyllables": [
+"qún",
+"zi"
+],
+"pinyinNum": [
+"qun2",
+"zi5"
+],
+"tones": [
+2,
+5
+],
+"english": "dress, skirt",
+"pos": "noun",
+"hsk": 3,
+"chapter": 5
+},
+{
+"id": 435,
+"hanzi": "最近",
+"chars": [
+"最",
+"近"
+],
+"pinyin": "zuì jìn",
+"pinyinSyllables": [
+"zuì",
+"jìn"
+],
+"pinyinNum": [
+"zui4",
+"jin4"
+],
+"tones": [
+4,
+4
+],
+"english": "lately, recently",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 5
+},
+{
+"id": 436,
+"hanzi": "越",
+"chars": [
+"越"
+],
+"pinyin": "yuè",
+"pinyinSyllables": [
+"yuè"
+],
+"pinyinNum": [
+"yue4"
+],
+"tones": [
+4
+],
+"english": "more, to a greater degree",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 5
+},
+{
+"id": 437,
+"hanzi": "眼镜",
+"chars": [
+"眼",
+"镜"
+],
+"pinyin": "yǎn jìng",
+"pinyinSyllables": [
+"yǎn",
+"jìng"
+],
+"pinyinNum": [
+"yan3",
+"jing4"
+],
+"tones": [
+3,
+4
+],
+"english": "glasses, spectacles",
+"pos": "noun",
+"hsk": 3,
+"chapter": 6
+},
+{
+"id": 438,
+"hanzi": "突然",
+"chars": [
+"突",
+"然"
+],
+"pinyin": "tū rán",
+"pinyinSyllables": [
+"tū",
+"rán"
+],
+"pinyinNum": [
+"tu1",
+"ran2"
+],
+"tones": [
+1,
+2
+],
+"english": "suddenly",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 6
+},
+{
+"id": 439,
+"hanzi": "离开",
+"chars": [
+"离",
+"开"
+],
+"pinyin": "lí kāi",
+"pinyinSyllables": [
+"lí",
+"kāi"
+],
+"pinyinNum": [
+"li2",
+"kai1"
+],
+"tones": [
+2,
+1
+],
+"english": "to leave, to part with",
+"pos": "verb",
+"hsk": 3,
+"chapter": 6
+},
+{
+"id": 440,
+"hanzi": "清楚",
+"chars": [
+"清",
+"楚"
+],
+"pinyin": "qīng chǔ",
+"pinyinSyllables": [
+"qīng",
+"chǔ"
+],
+"pinyinNum": [
+"qing1",
+"chu3"
+],
+"tones": [
+1,
+3
+],
+"english": "clear, distinct",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 6
+},
+{
+"id": 441,
+"hanzi": "刚才",
+"chars": [
+"刚",
+"才"
+],
+"pinyin": "gāng cái",
+"pinyinSyllables": [
+"gāng",
+"cái"
+],
+"pinyinNum": [
+"gang1",
+"cai2"
+],
+"tones": [
+1,
+2
+],
+"english": "just now",
+"pos": "noun",
+"hsk": 3,
+"chapter": 6
+},
+{
+"id": 442,
+"hanzi": "帮忙",
+"chars": [
+"帮",
+"忙"
+],
+"pinyin": "bāng máng",
+"pinyinSyllables": [
+"bāng",
+"máng"
+],
+"pinyinNum": [
+"bang1",
+"mang2"
+],
+"tones": [
+1,
+2
+],
+"english": "to help",
+"pos": "verb",
+"hsk": 3,
+"chapter": 6
+},
+{
+"id": 443,
+"hanzi": "特别",
+"chars": [
+"特",
+"别"
+],
+"pinyin": "tè bié",
+"pinyinSyllables": [
+"tè",
+"bié"
+],
+"pinyinNum": [
+"te4",
+"bie2"
+],
+"tones": [
+4,
+2
+],
+"english": "extraordinarily",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 6
+},
+{
+"id": 444,
+"hanzi": "讲",
+"chars": [
+"讲"
+],
+"pinyin": "jiǎng",
+"pinyinSyllables": [
+"jiǎng"
+],
+"pinyinNum": [
+"jiang3"
+],
+"tones": [
+3
+],
+"english": "to explain",
+"pos": "verb",
+"hsk": 3,
+"chapter": 6
+},
+{
+"id": 445,
+"hanzi": "明白",
+"chars": [
+"明",
+"白"
+],
+"pinyin": "míng bái",
+"pinyinSyllables": [
+"míng",
+"bái"
+],
+"pinyinNum": [
+"ming2",
+"bai2"
+],
+"tones": [
+2,
+2
+],
+"english": "clear",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 6
+},
+{
+"id": 446,
+"hanzi": "锻炼",
+"chars": [
+"锻",
+"炼"
+],
+"pinyin": "duàn liàn",
+"pinyinSyllables": [
+"duàn",
+"liàn"
+],
+"pinyinNum": [
+"duan4",
+"lian4"
+],
+"tones": [
+4,
+4
+],
+"english": "to do physical exercise",
+"pos": "verb",
+"hsk": 3,
+"chapter": 6
+},
+{
+"id": 447,
+"hanzi": "音乐",
+"chars": [
+"音",
+"乐"
+],
+"pinyin": "yīn yuè",
+"pinyinSyllables": [
+"yīn",
+"yuè"
+],
+"pinyinNum": [
+"yin1",
+"yue4"
+],
+"tones": [
+1,
+4
+],
+"english": "music",
+"pos": "noun",
+"hsk": 3,
+"chapter": 6
+},
+{
+"id": 448,
+"hanzi": "公园",
+"chars": [
+"公",
+"园"
+],
+"pinyin": "gōng yuán",
+"pinyinSyllables": [
+"gōng",
+"yuán"
+],
+"pinyinNum": [
+"gong1",
+"yuan2"
+],
+"tones": [
+1,
+2
+],
+"english": "park",
+"pos": "noun",
+"hsk": 3,
+"chapter": 6
+},
+{
+"id": 449,
+"hanzi": "聊天(儿)",
+"chars": [
+"聊",
+"天",
+"儿"
+],
+"pinyin": "liáo tiān ér",
+"pinyinSyllables": [
+"liáo",
+"tiān",
+"ér"
+],
+"pinyinNum": [
+"liao2",
+"tian1",
+"er2"
+],
+"tones": [
+2,
+1,
+2
+],
+"english": "to chat",
+"pos": "verb",
+"hsk": 3,
+"chapter": 6
+},
+{
+"id": 450,
+"hanzi": "睡着",
+"chars": [
+"睡",
+"着"
+],
+"pinyin": "shuì zháo",
+"pinyinSyllables": [
+"shuì",
+"zháo"
+],
+"pinyinNum": [
+"shui4",
+"zhao2"
+],
+"tones": [
+4,
+2
+],
+"english": "to fall asleep",
+"pos": "verb",
+"hsk": 3,
+"chapter": 6
+},
+{
+"id": 451,
+"hanzi": "更",
+"chars": [
+"更"
+],
+"pinyin": "gèng",
+"pinyinSyllables": [
+"gèng"
+],
+"pinyinNum": [
+"geng4"
+],
+"tones": [
+4
+],
+"english": "more, even more",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 6
+},
+{
+"id": 452,
+"hanzi": "同事",
+"chars": [
+"同",
+"事"
+],
+"pinyin": "tóng shì",
+"pinyinSyllables": [
+"tóng",
+"shì"
+],
+"pinyinNum": [
+"tong2",
+"shi4"
+],
+"tones": [
+2,
+4
+],
+"english": "colleague",
+"pos": "noun",
+"hsk": 3,
+"chapter": 7
+},
+{
+"id": 453,
+"hanzi": "以前",
+"chars": [
+"以",
+"前"
+],
+"pinyin": "yǐ qián",
+"pinyinSyllables": [
+"yǐ",
+"qián"
+],
+"pinyinNum": [
+"yi3",
+"qian2"
+],
+"tones": [
+3,
+2
+],
+"english": "before, ago",
+"pos": "noun",
+"hsk": 3,
+"chapter": 7
+},
+{
+"id": 454,
+"hanzi": "银行",
+"chars": [
+"银",
+"行"
+],
+"pinyin": "yín háng",
+"pinyinSyllables": [
+"yín",
+"háng"
+],
+"pinyinNum": [
+"yin2",
+"hang2"
+],
+"tones": [
+2,
+2
+],
+"english": "bank",
+"pos": "noun",
+"hsk": 3,
+"chapter": 7
+},
+{
+"id": 455,
+"hanzi": "久",
+"chars": [
+"久"
+],
+"pinyin": "jiǔ",
+"pinyinSyllables": [
+"jiǔ"
+],
+"pinyinNum": [
+"jiu3"
+],
+"tones": [
+3
+],
+"english": "for a long time, long",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 7
+},
+{
+"id": 456,
+"hanzi": "感兴趣",
+"chars": [
+"感",
+"兴",
+"趣"
+],
+"pinyin": "gǎn xìng qù",
+"pinyinSyllables": [
+"gǎn",
+"xìng",
+"qù"
+],
+"pinyinNum": [
+"gan3",
+"xing4",
+"qu4"
+],
+"tones": [
+3,
+4,
+4
+],
+"english": "to be interested in",
+"pos": "",
+"hsk": 3,
+"chapter": 7
+},
+{
+"id": 457,
+"hanzi": "结婚",
+"chars": [
+"结",
+"婚"
+],
+"pinyin": "jié hūn",
+"pinyinSyllables": [
+"jié",
+"hūn"
+],
+"pinyinNum": [
+"jie2",
+"hun1"
+],
+"tones": [
+2,
+1
+],
+"english": "to many, to get married",
+"pos": "verb",
+"hsk": 3,
+"chapter": 7
+},
+{
+"id": 458,
+"hanzi": "欢迎",
+"chars": [
+"欢",
+"迎"
+],
+"pinyin": "huān yíng",
+"pinyinSyllables": [
+"huān",
+"yíng"
+],
+"pinyinNum": [
+"huan1",
+"ying2"
+],
+"tones": [
+1,
+2
+],
+"english": "to welcome",
+"pos": "verb",
+"hsk": 3,
+"chapter": 7
+},
+{
+"id": 459,
+"hanzi": "迟到",
+"chars": [
+"迟",
+"到"
+],
+"pinyin": "chí dào",
+"pinyinSyllables": [
+"chí",
+"dào"
+],
+"pinyinNum": [
+"chi2",
+"dao4"
+],
+"tones": [
+2,
+4
+],
+"english": "to be late",
+"pos": "verb",
+"hsk": 3,
+"chapter": 7
+},
+{
+"id": 460,
+"hanzi": "半",
+"chars": [
+"半"
+],
+"pinyin": "bàn",
+"pinyinSyllables": [
+"bàn"
+],
+"pinyinNum": [
+"ban4"
+],
+"tones": [
+4
+],
+"english": "half",
+"pos": "number",
+"hsk": 3,
+"chapter": 7
+},
+{
+"id": 461,
+"hanzi": "接",
+"chars": [
+"接"
+],
+"pinyin": "jiē",
+"pinyinSyllables": [
+"jiē"
+],
+"pinyinNum": [
+"jie1"
+],
+"tones": [
+1
+],
+"english": "to meet (sb.), to pick up (sb.)",
+"pos": "verb",
+"hsk": 3,
+"chapter": 7
+},
+{
+"id": 462,
+"hanzi": "刻",
+"chars": [
+"刻"
+],
+"pinyin": "kè",
+"pinyinSyllables": [
+"kè"
+],
+"pinyinNum": [
+"ke4"
+],
+"tones": [
+4
+],
+"english": "quarter",
+"pos": "measure word",
+"hsk": 3,
+"chapter": 7
+},
+{
+"id": 463,
+"hanzi": "差",
+"chars": [
+"差"
+],
+"pinyin": "chà",
+"pinyinSyllables": [
+"chà"
+],
+"pinyinNum": [
+"cha4"
+],
+"tones": [
+4
+],
+"english": "to fall short of",
+"pos": "verb",
+"hsk": 3,
+"chapter": 7
+},
+{
+"id": 464,
+"hanzi": "又",
+"chars": [
+"又"
+],
+"pinyin": "yòu",
+"pinyinSyllables": [
+"yòu"
+],
+"pinyinNum": [
+"you4"
+],
+"tones": [
+4
+],
+"english": "again",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 465,
+"hanzi": "满意",
+"chars": [
+"满",
+"意"
+],
+"pinyin": "mǎn yì",
+"pinyinSyllables": [
+"mǎn",
+"yì"
+],
+"pinyinNum": [
+"man3",
+"yi4"
+],
+"tones": [
+3,
+4
+],
+"english": "to be satisfied",
+"pos": "verb",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 466,
+"hanzi": "电梯",
+"chars": [
+"电",
+"梯"
+],
+"pinyin": "diàn tī",
+"pinyinSyllables": [
+"diàn",
+"tī"
+],
+"pinyinNum": [
+"dian4",
+"ti1"
+],
+"tones": [
+4,
+1
+],
+"english": "elevator",
+"pos": "noun",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 467,
+"hanzi": "层",
+"chars": [
+"层"
+],
+"pinyin": "céng",
+"pinyinSyllables": [
+"céng"
+],
+"pinyinNum": [
+"ceng2"
+],
+"tones": [
+2
+],
+"english": "used for floors",
+"pos": "measure word",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 468,
+"hanzi": "害怕",
+"chars": [
+"害",
+"怕"
+],
+"pinyin": "hài pà",
+"pinyinSyllables": [
+"hài",
+"pà"
+],
+"pinyinNum": [
+"hai4",
+"pa4"
+],
+"tones": [
+4,
+4
+],
+"english": "to be afraid of, to be scared",
+"pos": "verb",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 469,
+"hanzi": "熊猫",
+"chars": [
+"熊",
+"猫"
+],
+"pinyin": "xióng māo",
+"pinyinSyllables": [
+"xióng",
+"māo"
+],
+"pinyinNum": [
+"xiong2",
+"mao1"
+],
+"tones": [
+2,
+1
+],
+"english": "panda",
+"pos": "noun",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 470,
+"hanzi": "见面",
+"chars": [
+"见",
+"面"
+],
+"pinyin": "jiàn miàn",
+"pinyinSyllables": [
+"jiàn",
+"miàn"
+],
+"pinyinNum": [
+"jian4",
+"mian4"
+],
+"tones": [
+4,
+4
+],
+"english": "to meet",
+"pos": "verb",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 471,
+"hanzi": "安静",
+"chars": [
+"安",
+"静"
+],
+"pinyin": "ān jìng",
+"pinyinSyllables": [
+"ān",
+"jìng"
+],
+"pinyinNum": [
+"an1",
+"jing4"
+],
+"tones": [
+1,
+4
+],
+"english": "quiet",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 472,
+"hanzi": "可乐",
+"chars": [
+"可",
+"乐"
+],
+"pinyin": "kě lè",
+"pinyinSyllables": [
+"kě",
+"lè"
+],
+"pinyinNum": [
+"ke3",
+"le4"
+],
+"tones": [
+3,
+4
+],
+"english": "cola, Coke",
+"pos": "noun",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 473,
+"hanzi": "一会儿",
+"chars": [
+"一",
+"会",
+"儿"
+],
+"pinyin": "yī huì er",
+"pinyinSyllables": [
+"yī",
+"huì",
+"er"
+],
+"pinyinNum": [
+"yi1",
+"hui4",
+"er5"
+],
+"tones": [
+1,
+4,
+5
+],
+"english": "a moment",
+"pos": "noun",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 474,
+"hanzi": "马上",
+"chars": [
+"马",
+"上"
+],
+"pinyin": "mǎ shàng",
+"pinyinSyllables": [
+"mǎ",
+"shàng"
+],
+"pinyinNum": [
+"ma3",
+"shang4"
+],
+"tones": [
+3,
+4
+],
+"english": "immediately, at once",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 475,
+"hanzi": "洗手间",
+"chars": [
+"洗",
+"手",
+"间"
+],
+"pinyin": "xǐ shǒu jiān",
+"pinyinSyllables": [
+"xǐ",
+"shǒu",
+"jiān"
+],
+"pinyinNum": [
+"xi3",
+"shou3",
+"jian1"
+],
+"tones": [
+3,
+3,
+1
+],
+"english": "bathroom, restroom",
+"pos": "noun",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 476,
+"hanzi": "老",
+"chars": [
+"老"
+],
+"pinyin": "lǎo",
+"pinyinSyllables": [
+"lǎo"
+],
+"pinyinNum": [
+"lao3"
+],
+"tones": [
+3
+],
+"english": "old",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 477,
+"hanzi": "几乎",
+"chars": [
+"几",
+"乎"
+],
+"pinyin": "jī hū",
+"pinyinSyllables": [
+"jī",
+"hū"
+],
+"pinyinNum": [
+"ji1",
+"hu1"
+],
+"tones": [
+1,
+1
+],
+"english": "almost",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 478,
+"hanzi": "变化",
+"chars": [
+"变",
+"化"
+],
+"pinyin": "biàn huà",
+"pinyinSyllables": [
+"biàn",
+"huà"
+],
+"pinyinNum": [
+"bian4",
+"hua4"
+],
+"tones": [
+4,
+4
+],
+"english": "to change",
+"pos": "verb",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 479,
+"hanzi": "健康",
+"chars": [
+"健",
+"康"
+],
+"pinyin": "jiàn kāng",
+"pinyinSyllables": [
+"jiàn",
+"kāng"
+],
+"pinyinNum": [
+"jian4",
+"kang1"
+],
+"tones": [
+4,
+1
+],
+"english": "healthy",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 480,
+"hanzi": "重要",
+"chars": [
+"重",
+"要"
+],
+"pinyin": "zhòng yào",
+"pinyinSyllables": [
+"zhòng",
+"yào"
+],
+"pinyinNum": [
+"zhong4",
+"yao4"
+],
+"tones": [
+4,
+4
+],
+"english": "important",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 481,
+"hanzi": "老",
+"chars": [
+"老"
+],
+"pinyin": "lǎo",
+"pinyinSyllables": [
+"lǎo"
+],
+"pinyinNum": [
+"lao3"
+],
+"tones": [
+3
+],
+"english": "old",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 482,
+"hanzi": "几乎",
+"chars": [
+"几",
+"乎"
+],
+"pinyin": "jī hū",
+"pinyinSyllables": [
+"jī",
+"hū"
+],
+"pinyinNum": [
+"ji1",
+"hu1"
+],
+"tones": [
+1,
+1
+],
+"english": "almost",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 483,
+"hanzi": "变化",
+"chars": [
+"变",
+"化"
+],
+"pinyin": "biàn huà",
+"pinyinSyllables": [
+"biàn",
+"huà"
+],
+"pinyinNum": [
+"bian4",
+"hua4"
+],
+"tones": [
+4,
+4
+],
+"english": "to change",
+"pos": "verb",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 484,
+"hanzi": "健康",
+"chars": [
+"健",
+"康"
+],
+"pinyin": "jiàn kāng",
+"pinyinSyllables": [
+"jiàn",
+"kāng"
+],
+"pinyinNum": [
+"jian4",
+"kang1"
+],
+"tones": [
+4,
+1
+],
+"english": "healthy",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 485,
+"hanzi": "重要",
+"chars": [
+"重",
+"要"
+],
+"pinyin": "zhòng yào",
+"pinyinSyllables": [
+"zhòng",
+"yào"
+],
+"pinyinNum": [
+"zhong4",
+"yao4"
+],
+"tones": [
+4,
+4
+],
+"english": "important",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 8
+},
+{
+"id": 486,
+"hanzi": "中文",
+"chars": [
+"中",
+"文"
+],
+"pinyin": "zhōng wén",
+"pinyinSyllables": [
+"zhōng",
+"wén"
+],
+"pinyinNum": [
+"zhong1",
+"wen2"
+],
+"tones": [
+1,
+2
+],
+"english": "Chinese Language",
+"pos": "noun",
+"hsk": 3,
+"chapter": 9
+},
+{
+"id": 487,
+"hanzi": "班",
+"chars": [
+"班"
+],
+"pinyin": "bān",
+"pinyinSyllables": [
+"bān"
+],
+"pinyinNum": [
+"ban1"
+],
+"tones": [
+1
+],
+"english": "class",
+"pos": "noun",
+"hsk": 3,
+"chapter": 9
+},
+{
+"id": 488,
+"hanzi": "一样",
+"chars": [
+"一",
+"样"
+],
+"pinyin": "yī yàng",
+"pinyinSyllables": [
+"yī",
+"yàng"
+],
+"pinyinNum": [
+"yi1",
+"yang4"
+],
+"tones": [
+1,
+4
+],
+"english": "same, as...as...",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 9
+},
+{
+"id": 489,
+"hanzi": "大山",
+"chars": [
+"大",
+"山"
+],
+"pinyin": "dà shān",
+"pinyinSyllables": [
+"dà",
+"shān"
+],
+"pinyinNum": [
+"da4",
+"shan1"
+],
+"tones": [
+4,
+1
+],
+"english": "",
+"pos": "proper noun",
+"hsk": 3,
+"chapter": 9
+},
+{
+"id": 490,
+"hanzi": "丽静",
+"chars": [
+"丽",
+"静"
+],
+"pinyin": "lì jìng",
+"pinyinSyllables": [
+"lì",
+"jìng"
+],
+"pinyinNum": [
+"li4",
+"jing4"
+],
+"tones": [
+4,
+4
+],
+"english": "",
+"pos": "proper noun",
+"hsk": 3,
+"chapter": 9
+},
+{
+"id": 491,
+"hanzi": "最后",
+"chars": [
+"最",
+"后"
+],
+"pinyin": "zuì hòu",
+"pinyinSyllables": [
+"zuì",
+"hòu"
+],
+"pinyinNum": [
+"zui4",
+"hou4"
+],
+"tones": [
+4,
+4
+],
+"english": "the last one",
+"pos": "noun",
+"hsk": 3,
+"chapter": 9
+},
+{
+"id": 492,
+"hanzi": "放心",
+"chars": [
+"放",
+"心"
+],
+"pinyin": "fàng xīn",
+"pinyinSyllables": [
+"fàng",
+"xīn"
+],
+"pinyinNum": [
+"fang4",
+"xin1"
+],
+"tones": [
+4,
+1
+],
+"english": "to ease one's mind,to rest assured",
+"pos": "verb",
+"hsk": 3,
+"chapter": 9
+},
+{
+"id": 493,
+"hanzi": "一定",
+"chars": [
+"一",
+"定"
+],
+"pinyin": "yí dìng",
+"pinyinSyllables": [
+"yí",
+"dìng"
+],
+"pinyinNum": [
+"yi2",
+"ding4"
+],
+"tones": [
+2,
+4
+],
+"english": "definitely,certainly",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 9
+},
+{
+"id": 494,
+"hanzi": "担心",
+"chars": [
+"担",
+"心"
+],
+"pinyin": "dān xīn",
+"pinyinSyllables": [
+"dān",
+"xīn"
+],
+"pinyinNum": [
+"dan1",
+"xin1"
+],
+"tones": [
+1,
+1
+],
+"english": "to worry",
+"pos": "verb",
+"hsk": 3,
+"chapter": 9
+},
+{
+"id": 495,
+"hanzi": "比较",
+"chars": [
+"比",
+"较"
+],
+"pinyin": "bǐ jiào",
+"pinyinSyllables": [
+"bǐ",
+"jiào"
+],
+"pinyinNum": [
+"bi3",
+"jiao4"
+],
+"tones": [
+3,
+4
+],
+"english": "fairly, rather",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 9
+},
+{
+"id": 496,
+"hanzi": "了解",
+"chars": [
+"了",
+"解"
+],
+"pinyin": "liǎo jiě",
+"pinyinSyllables": [
+"liǎo",
+"jiě"
+],
+"pinyinNum": [
+"liao3",
+"jie3"
+],
+"tones": [
+3,
+3
+],
+"english": "to know",
+"pos": "verb",
+"hsk": 3,
+"chapter": 9
+},
+{
+"id": 497,
+"hanzi": "先",
+"chars": [
+"先"
+],
+"pinyin": "xiān",
+"pinyinSyllables": [
+"xiān"
+],
+"pinyinNum": [
+"xian1"
+],
+"tones": [
+1
+],
+"english": "first, in advance",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 9
+},
+{
+"id": 498,
+"hanzi": "中间",
+"chars": [
+"中",
+"间"
+],
+"pinyin": "zhōng jiān",
+"pinyinSyllables": [
+"zhōng",
+"jiān"
+],
+"pinyinNum": [
+"zhong1",
+"jian1"
+],
+"tones": [
+1,
+1
+],
+"english": "middle",
+"pos": "noun",
+"hsk": 3,
+"chapter": 9
+},
+{
+"id": 499,
+"hanzi": "参加",
+"chars": [
+"参",
+"加"
+],
+"pinyin": "cān jiā",
+"pinyinSyllables": [
+"cān",
+"jiā"
+],
+"pinyinNum": [
+"can1",
+"jia1"
+],
+"tones": [
+1,
+1
+],
+"english": "to participate",
+"pos": "verb",
+"hsk": 3,
+"chapter": 9
+},
+{
+"id": 500,
+"hanzi": "影响",
+"chars": [
+"影",
+"响"
+],
+"pinyin": "yǐng xiǎng",
+"pinyinSyllables": [
+"yǐng",
+"xiǎng"
+],
+"pinyinNum": [
+"ying3",
+"xiang3"
+],
+"tones": [
+3,
+3
+],
+"english": "influence",
+"pos": "noun",
+"hsk": 3,
+"chapter": 9
+},
+{
+"id": 501,
+"hanzi": "个子",
+"chars": [
+"个",
+"子"
+],
+"pinyin": "gè zi",
+"pinyinSyllables": [
+"gè",
+"zi"
+],
+"pinyinNum": [
+"ge4",
+"zi5"
+],
+"tones": [
+4,
+5
+],
+"english": "height, stature",
+"pos": "noun",
+"hsk": 3,
+"chapter": 10
+},
+{
+"id": 502,
+"hanzi": "矮",
+"chars": [
+"矮"
+],
+"pinyin": "ǎi",
+"pinyinSyllables": [
+"ǎi"
+],
+"pinyinNum": [
+"ai3"
+],
+"tones": [
+3
+],
+"english": "short",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 10
+},
+{
+"id": 503,
+"hanzi": "历史",
+"chars": [
+"历",
+"史"
+],
+"pinyin": "lì shǐ",
+"pinyinSyllables": [
+"lì",
+"shǐ"
+],
+"pinyinNum": [
+"li4",
+"shi3"
+],
+"tones": [
+4,
+3
+],
+"english": "History",
+"pos": "noun",
+"hsk": 3,
+"chapter": 10
+},
+{
+"id": 504,
+"hanzi": "体育",
+"chars": [
+"体",
+"育"
+],
+"pinyin": "tǐ yù",
+"pinyinSyllables": [
+"tǐ",
+"yù"
+],
+"pinyinNum": [
+"ti3",
+"yu4"
+],
+"tones": [
+3,
+4
+],
+"english": "P.E., sports",
+"pos": "noun",
+"hsk": 3,
+"chapter": 10
+},
+{
+"id": 505,
+"hanzi": "数学",
+"chars": [
+"数",
+"学"
+],
+"pinyin": "shù xué",
+"pinyinSyllables": [
+"shù",
+"xué"
+],
+"pinyinNum": [
+"shu4",
+"xue2"
+],
+"tones": [
+4,
+2
+],
+"english": "Maths",
+"pos": "noun",
+"hsk": 3,
+"chapter": 10
+},
+{
+"id": 506,
+"hanzi": "方便",
+"chars": [
+"方",
+"便"
+],
+"pinyin": "fāng biàn",
+"pinyinSyllables": [
+"fāng",
+"biàn"
+],
+"pinyinNum": [
+"fang1",
+"bian4"
+],
+"tones": [
+1,
+4
+],
+"english": "convenient",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 10
+},
+{
+"id": 507,
+"hanzi": "自行车",
+"chars": [
+"自",
+"行",
+"车"
+],
+"pinyin": "zì xíng chē",
+"pinyinSyllables": [
+"zì",
+"xíng",
+"chē"
+],
+"pinyinNum": [
+"zi4",
+"xing2",
+"che1"
+],
+"tones": [
+4,
+2,
+1
+],
+"english": "bicycle",
+"pos": "noun",
+"hsk": 3,
+"chapter": 10
+},
+{
+"id": 508,
+"hanzi": "骑",
+"chars": [
+"骑"
+],
+"pinyin": "qí",
+"pinyinSyllables": [
+"qí"
+],
+"pinyinNum": [
+"qi2"
+],
+"tones": [
+2
+],
+"english": "to ride",
+"pos": "verb",
+"hsk": 3,
+"chapter": 10
+},
+{
+"id": 509,
+"hanzi": "旧",
+"chars": [
+"旧"
+],
+"pinyin": "jiù",
+"pinyinSyllables": [
+"jiù"
+],
+"pinyinNum": [
+"jiu4"
+],
+"tones": [
+4
+],
+"english": "old, used, worn",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 10
+},
+{
+"id": 510,
+"hanzi": "换",
+"chars": [
+"换"
+],
+"pinyin": "huàn",
+"pinyinSyllables": [
+"huàn"
+],
+"pinyinNum": [
+"huan4"
+],
+"tones": [
+4
+],
+"english": "to change, to substitute",
+"pos": "verb",
+"hsk": 3,
+"chapter": 10
+},
+{
+"id": 511,
+"hanzi": "地方",
+"chars": [
+"地",
+"方"
+],
+"pinyin": "dì fāng",
+"pinyinSyllables": [
+"dì",
+"fāng"
+],
+"pinyinNum": [
+"di4",
+"fang1"
+],
+"tones": [
+4,
+1
+],
+"english": "place",
+"pos": "noun",
+"hsk": 3,
+"chapter": 10
+},
+{
+"id": 512,
+"hanzi": "中介",
+"chars": [
+"中",
+"介"
+],
+"pinyin": "zhōng jiè",
+"pinyinSyllables": [
+"zhōng",
+"jiè"
+],
+"pinyinNum": [
+"zhong1",
+"jie4"
+],
+"tones": [
+1,
+4
+],
+"english": "intermediary, agent",
+"pos": "noun",
+"hsk": 3,
+"chapter": 10
+},
+{
+"id": 513,
+"hanzi": "主要",
+"chars": [
+"主",
+"要"
+],
+"pinyin": "zhǔ yào",
+"pinyinSyllables": [
+"zhǔ",
+"yào"
+],
+"pinyinNum": [
+"zhu3",
+"yao4"
+],
+"tones": [
+3,
+4
+],
+"english": "main",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 10
+},
+{
+"id": 514,
+"hanzi": "环境",
+"chars": [
+"环",
+"境"
+],
+"pinyin": "huán jìng",
+"pinyinSyllables": [
+"huán",
+"jìng"
+],
+"pinyinNum": [
+"huan2",
+"jing4"
+],
+"tones": [
+2,
+4
+],
+"english": "environment",
+"pos": "noun",
+"hsk": 3,
+"chapter": 10
+},
+{
+"id": 515,
+"hanzi": "附近",
+"chars": [
+"附",
+"近"
+],
+"pinyin": "fù jìn",
+"pinyinSyllables": [
+"fù",
+"jìn"
+],
+"pinyinNum": [
+"fu4",
+"jin4"
+],
+"tones": [
+4,
+4
+],
+"english": "nearby, vicinity",
+"pos": "noun",
+"hsk": 3,
+"chapter": 10
+},
+{
+"id": 516,
+"hanzi": "图书馆",
+"chars": [
+"图",
+"书",
+"馆"
+],
+"pinyin": "tú shū guǎn",
+"pinyinSyllables": [
+"tú",
+"shū",
+"guǎn"
+],
+"pinyinNum": [
+"tu2",
+"shu1",
+"guan3"
+],
+"tones": [
+2,
+1,
+3
+],
+"english": "library",
+"pos": "noun",
+"hsk": 3,
+"chapter": 11
+},
+{
+"id": 517,
+"hanzi": "借",
+"chars": [
+"借"
+],
+"pinyin": "jiè",
+"pinyinSyllables": [
+"jiè"
+],
+"pinyinNum": [
+"jie4"
+],
+"tones": [
+4
+],
+"english": "to borrow, to lend",
+"pos": "verb",
+"hsk": 3,
+"chapter": 11
+},
+{
+"id": 518,
+"hanzi": "词典",
+"chars": [
+"词",
+"典"
+],
+"pinyin": "cí diǎn",
+"pinyinSyllables": [
+"cí",
+"diǎn"
+],
+"pinyinNum": [
+"ci2",
+"dian3"
+],
+"tones": [
+2,
+3
+],
+"english": "dictionary",
+"pos": "noun",
+"hsk": 3,
+"chapter": 11
+},
+{
+"id": 519,
+"hanzi": "还",
+"chars": [
+"还"
+],
+"pinyin": "hái",
+"pinyinSyllables": [
+"hái"
+],
+"pinyinNum": [
+"hai2"
+],
+"tones": [
+2
+],
+"english": "to return",
+"pos": "verb",
+"hsk": 3,
+"chapter": 11
+},
+{
+"id": 520,
+"hanzi": "灯",
+"chars": [
+"灯"
+],
+"pinyin": "dēng",
+"pinyinSyllables": [
+"dēng"
+],
+"pinyinNum": [
+"deng1"
+],
+"tones": [
+1
+],
+"english": "light, lamp",
+"pos": "noun",
+"hsk": 3,
+"chapter": 11
+},
+{
+"id": 521,
+"hanzi": "会议",
+"chars": [
+"会",
+"议"
+],
+"pinyin": "huì yì",
+"pinyinSyllables": [
+"huì",
+"yì"
+],
+"pinyinNum": [
+"hui4",
+"yi4"
+],
+"tones": [
+4,
+4
+],
+"english": "meeting, conference",
+"pos": "noun",
+"hsk": 3,
+"chapter": 11
+},
+{
+"id": 522,
+"hanzi": "结束",
+"chars": [
+"结",
+"束"
+],
+"pinyin": "jié shù",
+"pinyinSyllables": [
+"jié",
+"shù"
+],
+"pinyinNum": [
+"jie2",
+"shu4"
+],
+"tones": [
+2,
+4
+],
+"english": "to end, to finish",
+"pos": "verb",
+"hsk": 3,
+"chapter": 11
+},
+{
+"id": 523,
+"hanzi": "忘记",
+"chars": [
+"忘",
+"记"
+],
+"pinyin": "wàng jì",
+"pinyinSyllables": [
+"wàng",
+"jì"
+],
+"pinyinNum": [
+"wang4",
+"ji4"
+],
+"tones": [
+4,
+4
+],
+"english": "to forget",
+"pos": "verb",
+"hsk": 3,
+"chapter": 11
+},
+{
+"id": 524,
+"hanzi": "空调",
+"chars": [
+"空",
+"调"
+],
+"pinyin": "kōng tiáo",
+"pinyinSyllables": [
+"kōng",
+"tiáo"
+],
+"pinyinNum": [
+"kong1",
+"tiao2"
+],
+"tones": [
+1,
+2
+],
+"english": "air conditioner",
+"pos": "noun",
+"hsk": 3,
+"chapter": 11
+},
+{
+"id": 525,
+"hanzi": "关",
+"chars": [
+"关"
+],
+"pinyin": "guān",
+"pinyinSyllables": [
+"guān"
+],
+"pinyinNum": [
+"guan1"
+],
+"tones": [
+1
+],
+"english": "to turn off, to close",
+"pos": "verb",
+"hsk": 3,
+"chapter": 11
+},
+{
+"id": 526,
+"hanzi": "地铁",
+"chars": [
+"地",
+"铁"
+],
+"pinyin": "dì tiě",
+"pinyinSyllables": [
+"dì",
+"tiě"
+],
+"pinyinNum": [
+"di4",
+"tie3"
+],
+"tones": [
+4,
+3
+],
+"english": "subway",
+"pos": "noun",
+"hsk": 3,
+"chapter": 11
+},
+{
+"id": 527,
+"hanzi": "双",
+"chars": [
+"双"
+],
+"pinyin": "shuāng",
+"pinyinSyllables": [
+"shuāng"
+],
+"pinyinNum": [
+"shuang1"
+],
+"tones": [
+1
+],
+"english": "pair",
+"pos": "measure word",
+"hsk": 3,
+"chapter": 11
+},
+{
+"id": 528,
+"hanzi": "筷子",
+"chars": [
+"筷",
+"子"
+],
+"pinyin": "kuài zi",
+"pinyinSyllables": [
+"kuài",
+"zi"
+],
+"pinyinNum": [
+"kuai4",
+"zi5"
+],
+"tones": [
+4,
+5
+],
+"english": "chopsticks",
+"pos": "noun",
+"hsk": 3,
+"chapter": 11
+},
+{
+"id": 529,
+"hanzi": "啤酒",
+"chars": [
+"啤",
+"酒"
+],
+"pinyin": "pí jiǔ",
+"pinyinSyllables": [
+"pí",
+"jiǔ"
+],
+"pinyinNum": [
+"pi2",
+"jiu3"
+],
+"tones": [
+2,
+3
+],
+"english": "beer",
+"pos": "noun",
+"hsk": 3,
+"chapter": 11
+},
+{
+"id": 530,
+"hanzi": "口",
+"chars": [
+"口"
+],
+"pinyin": "kǒu",
+"pinyinSyllables": [
+"kǒu"
+],
+"pinyinNum": [
+"kou3"
+],
+"tones": [
+3
+],
+"english": "mouthful",
+"pos": "measure word",
+"hsk": 3,
+"chapter": 11
+},
+{
+"id": 531,
+"hanzi": "瓶子",
+"chars": [
+"瓶",
+"子"
+],
+"pinyin": "píng zi",
+"pinyinSyllables": [
+"píng",
+"zi"
+],
+"pinyinNum": [
+"ping2",
+"zi5"
+],
+"tones": [
+2,
+5
+],
+"english": "bottle",
+"pos": "noun",
+"hsk": 3,
+"chapter": 11
+},
+{
+"id": 532,
+"hanzi": "笔记本(电脑)",
+"chars": [
+"笔",
+"记",
+"本",
+"电",
+"脑"
+],
+"pinyin": "bǐ jì běn diàn nǎo",
+"pinyinSyllables": [
+"bǐ",
+"jì",
+"běn",
+"diàn",
+"nǎo"
+],
+"pinyinNum": [
+"bi3",
+"ji4",
+"ben3",
+"dian4",
+"nao3"
+],
+"tones": [
+3,
+4,
+3,
+4,
+3
+],
+"english": "notebook, laptop",
+"pos": "noun",
+"hsk": 3,
+"chapter": 11
+},
+{
+"id": 533,
+"hanzi": "电子邮件",
+"chars": [
+"电",
+"子",
+"邮",
+"件"
+],
+"pinyin": "diàn zi yóu jiàn",
+"pinyinSyllables": [
+"diàn",
+"zi",
+"yóu",
+"jiàn"
+],
+"pinyinNum": [
+"dian4",
+"zi5",
+"you2",
+"jian4"
+],
+"tones": [
+4,
+5,
+2,
+4
+],
+"english": "e-mail",
+"pos": "",
+"hsk": 3,
+"chapter": 11
+},
+{
+"id": 534,
+"hanzi": "习惯",
+"chars": [
+"习",
+"惯"
+],
+"pinyin": "xí guàn",
+"pinyinSyllables": [
+"xí",
+"guàn"
+],
+"pinyinNum": [
+"xi2",
+"guan4"
+],
+"tones": [
+2,
+4
+],
+"english": "be used to, habit; to",
+"pos": "noun/verb",
+"hsk": 3,
+"chapter": 11
+},
+{
+"id": 535,
+"hanzi": "太阳",
+"chars": [
+"太",
+"阳"
+],
+"pinyin": "tài yáng",
+"pinyinSyllables": [
+"tài",
+"yáng"
+],
+"pinyinNum": [
+"tai4",
+"yang2"
+],
+"tones": [
+4,
+2
+],
+"english": "sun",
+"pos": "noun",
+"hsk": 3,
+"chapter": 12
+},
+{
+"id": 536,
+"hanzi": "西",
+"chars": [
+"西"
+],
+"pinyin": "xī",
+"pinyinSyllables": [
+"xī"
+],
+"pinyinNum": [
+"xi1"
+],
+"tones": [
+1
+],
+"english": "west",
+"pos": "noun",
+"hsk": 3,
+"chapter": 12
+},
+{
+"id": 537,
+"hanzi": "生气",
+"chars": [
+"生",
+"气"
+],
+"pinyin": "shēng qì",
+"pinyinSyllables": [
+"shēng",
+"qì"
+],
+"pinyinNum": [
+"sheng1",
+"qi4"
+],
+"tones": [
+1,
+4
+],
+"english": "angry",
+"pos": "verb",
+"hsk": 3,
+"chapter": 12
+},
+{
+"id": 538,
+"hanzi": "行李箱",
+"chars": [
+"行",
+"李",
+"箱"
+],
+"pinyin": "xíng lǐ xiāng",
+"pinyinSyllables": [
+"xíng",
+"lǐ",
+"xiāng"
+],
+"pinyinNum": [
+"xing2",
+"li3",
+"xiang1"
+],
+"tones": [
+2,
+3,
+1
+],
+"english": "luggage, suitcase",
+"pos": "noun",
+"hsk": 3,
+"chapter": 12
+},
+{
+"id": 539,
+"hanzi": "自己",
+"chars": [
+"自",
+"己"
+],
+"pinyin": "zì jǐ",
+"pinyinSyllables": [
+"zì",
+"jǐ"
+],
+"pinyinNum": [
+"zi4",
+"ji3"
+],
+"tones": [
+4,
+3
+],
+"english": "self",
+"pos": "pronoun",
+"hsk": 3,
+"chapter": 12
+},
+{
+"id": 540,
+"hanzi": "包",
+"chars": [
+"包"
+],
+"pinyin": "bāo",
+"pinyinSyllables": [
+"bāo"
+],
+"pinyinNum": [
+"bao1"
+],
+"tones": [
+1
+],
+"english": "bag, sack",
+"pos": "noun",
+"hsk": 3,
+"chapter": 12
+},
+{
+"id": 541,
+"hanzi": "发现",
+"chars": [
+"发",
+"现"
+],
+"pinyin": "fā xiàn",
+"pinyinSyllables": [
+"fā",
+"xiàn"
+],
+"pinyinNum": [
+"fa1",
+"xian4"
+],
+"tones": [
+1,
+4
+],
+"english": "to discover",
+"pos": "verb",
+"hsk": 3,
+"chapter": 12
+},
+{
+"id": 542,
+"hanzi": "护照",
+"chars": [
+"护",
+"照"
+],
+"pinyin": "hù zhào",
+"pinyinSyllables": [
+"hù",
+"zhào"
+],
+"pinyinNum": [
+"hu4",
+"zhao4"
+],
+"tones": [
+4,
+4
+],
+"english": "passport",
+"pos": "noun",
+"hsk": 3,
+"chapter": 12
+},
+{
+"id": 543,
+"hanzi": "起飞",
+"chars": [
+"起",
+"飞"
+],
+"pinyin": "qǐ fēi",
+"pinyinSyllables": [
+"qǐ",
+"fēi"
+],
+"pinyinNum": [
+"qi3",
+"fei1"
+],
+"tones": [
+3,
+1
+],
+"english": "(of an aircraft) to take off",
+"pos": "verb",
+"hsk": 3,
+"chapter": 12
+},
+{
+"id": 544,
+"hanzi": "司机",
+"chars": [
+"司",
+"机"
+],
+"pinyin": "sī jī",
+"pinyinSyllables": [
+"sī",
+"jī"
+],
+"pinyinNum": [
+"si1",
+"ji1"
+],
+"tones": [
+1,
+1
+],
+"english": "driver",
+"pos": "noun",
+"hsk": 3,
+"chapter": 12
+},
+{
+"id": 545,
+"hanzi": "教",
+"chars": [
+"教"
+],
+"pinyin": "jiào",
+"pinyinSyllables": [
+"jiào"
+],
+"pinyinNum": [
+"jiao4"
+],
+"tones": [
+4
+],
+"english": "to teach",
+"pos": "verb",
+"hsk": 3,
+"chapter": 12
+},
+{
+"id": 546,
+"hanzi": "画",
+"chars": [
+"画"
+],
+"pinyin": "huà",
+"pinyinSyllables": [
+"huà"
+],
+"pinyinNum": [
+"hua4"
+],
+"tones": [
+4
+],
+"english": "to draw, to paint, drawing, painting",
+"pos": "noun/verb",
+"hsk": 3,
+"chapter": 12
+},
+{
+"id": 547,
+"hanzi": "需要",
+"chars": [
+"需",
+"要"
+],
+"pinyin": "xū yào",
+"pinyinSyllables": [
+"xū",
+"yào"
+],
+"pinyinNum": [
+"xu1",
+"yao4"
+],
+"tones": [
+1,
+4
+],
+"english": "to need",
+"pos": "verb",
+"hsk": 3,
+"chapter": 12
+},
+{
+"id": 548,
+"hanzi": "黑板",
+"chars": [
+"黑",
+"板"
+],
+"pinyin": "hēi bǎn",
+"pinyinSyllables": [
+"hēi",
+"bǎn"
+],
+"pinyinNum": [
+"hei1",
+"ban3"
+],
+"tones": [
+1,
+3
+],
+"english": "blackboard",
+"pos": "noun",
+"hsk": 3,
+"chapter": 12
+},
+{
+"id": 549,
+"hanzi": "终于",
+"chars": [
+"终",
+"于"
+],
+"pinyin": "zhōng yú",
+"pinyinSyllables": [
+"zhōng",
+"yú"
+],
+"pinyinNum": [
+"zhong1",
+"yu2"
+],
+"tones": [
+1,
+2
+],
+"english": "finally",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 13
+},
+{
+"id": 550,
+"hanzi": "爷爷",
+"chars": [
+"爷",
+"爷"
+],
+"pinyin": "yé yé",
+"pinyinSyllables": [
+"yé",
+"yé"
+],
+"pinyinNum": [
+"ye2",
+"ye2"
+],
+"tones": [
+2,
+2
+],
+"english": "grandfather",
+"pos": "noun",
+"hsk": 3,
+"chapter": 13
+},
+{
+"id": 551,
+"hanzi": "礼物",
+"chars": [
+"礼",
+"物"
+],
+"pinyin": "lǐ wù",
+"pinyinSyllables": [
+"lǐ",
+"wù"
+],
+"pinyinNum": [
+"li3",
+"wu4"
+],
+"tones": [
+3,
+4
+],
+"english": "gift, present",
+"pos": "noun",
+"hsk": 3,
+"chapter": 13
+},
+{
+"id": 552,
+"hanzi": "奶奶",
+"chars": [
+"奶",
+"奶"
+],
+"pinyin": "nǎi nǎi",
+"pinyinSyllables": [
+"nǎi",
+"nǎi"
+],
+"pinyinNum": [
+"nai3",
+"nai3"
+],
+"tones": [
+3,
+3
+],
+"english": "grandmother",
+"pos": "noun",
+"hsk": 3,
+"chapter": 13
+},
+{
+"id": 553,
+"hanzi": "遇到",
+"chars": [
+"遇",
+"到"
+],
+"pinyin": "yù dào",
+"pinyinSyllables": [
+"yù",
+"dào"
+],
+"pinyinNum": [
+"yu4",
+"dao4"
+],
+"tones": [
+4,
+4
+],
+"english": "to come across, to run into",
+"pos": "verb",
+"hsk": 3,
+"chapter": 13
+},
+{
+"id": 554,
+"hanzi": "一边",
+"chars": [
+"一",
+"边"
+],
+"pinyin": "yī biān",
+"pinyinSyllables": [
+"yī",
+"biān"
+],
+"pinyinNum": [
+"yi1",
+"bian1"
+],
+"tones": [
+1,
+1
+],
+"english": "indicating two actions taking place at the same time",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 13
+},
+{
+"id": 555,
+"hanzi": "过去",
+"chars": [
+"过",
+"去"
+],
+"pinyin": "guò qù",
+"pinyinSyllables": [
+"guò",
+"qù"
+],
+"pinyinNum": [
+"guo4",
+"qu4"
+],
+"tones": [
+4,
+4
+],
+"english": "past",
+"pos": "noun",
+"hsk": 3,
+"chapter": 13
+},
+{
+"id": 556,
+"hanzi": "一般",
+"chars": [
+"一",
+"般"
+],
+"pinyin": "yì bān",
+"pinyinSyllables": [
+"yì",
+"bān"
+],
+"pinyinNum": [
+"yi4",
+"ban1"
+],
+"tones": [
+4,
+1
+],
+"english": "general, usual",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 13
+},
+{
+"id": 557,
+"hanzi": "愿意",
+"chars": [
+"愿",
+"意"
+],
+"pinyin": "yuàn yì",
+"pinyinSyllables": [
+"yuàn",
+"yì"
+],
+"pinyinNum": [
+"yuan4",
+"yi4"
+],
+"tones": [
+4,
+4
+],
+"english": "would like to",
+"pos": "verb",
+"hsk": 3,
+"chapter": 13
+},
+{
+"id": 558,
+"hanzi": "起来",
+"chars": [
+"起",
+"来"
+],
+"pinyin": "qǐ lái",
+"pinyinSyllables": [
+"qǐ",
+"lái"
+],
+"pinyinNum": [
+"qi3",
+"lai2"
+],
+"tones": [
+3,
+2
+],
+"english": "(indicating an upward movement) to rise",
+"pos": "verb",
+"hsk": 3,
+"chapter": 13
+},
+{
+"id": 559,
+"hanzi": "应该",
+"chars": [
+"应",
+"该"
+],
+"pinyin": "yīng gāi",
+"pinyinSyllables": [
+"yīng",
+"gāi"
+],
+"pinyinNum": [
+"ying1",
+"gai1"
+],
+"tones": [
+1,
+1
+],
+"english": "should",
+"pos": "verb",
+"hsk": 3,
+"chapter": 13
+},
+{
+"id": 560,
+"hanzi": "生活",
+"chars": [
+"生",
+"活"
+],
+"pinyin": "shēng huó",
+"pinyinSyllables": [
+"shēng",
+"huó"
+],
+"pinyinNum": [
+"sheng1",
+"huo2"
+],
+"tones": [
+1,
+2
+],
+"english": "life",
+"pos": "noun",
+"hsk": 3,
+"chapter": 13
+},
+{
+"id": 561,
+"hanzi": "校长",
+"chars": [
+"校",
+"长"
+],
+"pinyin": "xiào zhǎng",
+"pinyinSyllables": [
+"xiào",
+"zhǎng"
+],
+"pinyinNum": [
+"xiao4",
+"zhang3"
+],
+"tones": [
+4,
+3
+],
+"english": "headmaster",
+"pos": "noun",
+"hsk": 3,
+"chapter": 13
+},
+{
+"id": 562,
+"hanzi": "坏",
+"chars": [
+"坏"
+],
+"pinyin": "huài",
+"pinyinSyllables": [
+"huài"
+],
+"pinyinNum": [
+"huai4"
+],
+"tones": [
+4
+],
+"english": "broken, ruined",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 13
+},
+{
+"id": 563,
+"hanzi": "经常",
+"chars": [
+"经",
+"常"
+],
+"pinyin": "jīng cháng",
+"pinyinSyllables": [
+"jīng",
+"cháng"
+],
+"pinyinNum": [
+"jing1",
+"chang2"
+],
+"tones": [
+1,
+2
+],
+"english": "often",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 13
+},
+{
+"id": 564,
+"hanzi": "打扫",
+"chars": [
+"打",
+"扫"
+],
+"pinyin": "dǎ sǎo",
+"pinyinSyllables": [
+"dǎ",
+"sǎo"
+],
+"pinyinNum": [
+"da3",
+"sao3"
+],
+"tones": [
+3,
+3
+],
+"english": "to clean, to sweep",
+"pos": "verb",
+"hsk": 3,
+"chapter": 14
+},
+{
+"id": 565,
+"hanzi": "干净",
+"chars": [
+"干",
+"净"
+],
+"pinyin": "gān jìng",
+"pinyinSyllables": [
+"gān",
+"jìng"
+],
+"pinyinNum": [
+"gan1",
+"jing4"
+],
+"tones": [
+1,
+4
+],
+"english": "clean",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 14
+},
+{
+"id": 566,
+"hanzi": "然后",
+"chars": [
+"然",
+"后"
+],
+"pinyin": "rán hòu",
+"pinyinSyllables": [
+"rán",
+"hòu"
+],
+"pinyinNum": [
+"ran2",
+"hou4"
+],
+"tones": [
+2,
+4
+],
+"english": "then, after that",
+"pos": "conjunction",
+"hsk": 3,
+"chapter": 14
+},
+{
+"id": 567,
+"hanzi": "冰箱",
+"chars": [
+"冰",
+"箱"
+],
+"pinyin": "bīng xiāng",
+"pinyinSyllables": [
+"bīng",
+"xiāng"
+],
+"pinyinNum": [
+"bing1",
+"xiang1"
+],
+"tones": [
+1,
+1
+],
+"english": "refrigerator",
+"pos": "noun",
+"hsk": 3,
+"chapter": 14
+},
+{
+"id": 568,
+"hanzi": "洗澡",
+"chars": [
+"洗",
+"澡"
+],
+"pinyin": "xǐ zǎo",
+"pinyinSyllables": [
+"xǐ",
+"zǎo"
+],
+"pinyinNum": [
+"xi3",
+"zao3"
+],
+"tones": [
+3,
+3
+],
+"english": "to take a bath/shower",
+"pos": "verb",
+"hsk": 3,
+"chapter": 14
+},
+{
+"id": 569,
+"hanzi": "节目",
+"chars": [
+"节",
+"目"
+],
+"pinyin": "jié mù",
+"pinyinSyllables": [
+"jié",
+"mù"
+],
+"pinyinNum": [
+"jie2",
+"mu4"
+],
+"tones": [
+2,
+4
+],
+"english": "programme",
+"pos": "noun",
+"hsk": 3,
+"chapter": 14
+},
+{
+"id": 570,
+"hanzi": "月亮",
+"chars": [
+"月",
+"亮"
+],
+"pinyin": "yuè liàng",
+"pinyinSyllables": [
+"yuè",
+"liàng"
+],
+"pinyinNum": [
+"yue4",
+"liang4"
+],
+"tones": [
+4,
+4
+],
+"english": "moon",
+"pos": "noun",
+"hsk": 3,
+"chapter": 14
+},
+{
+"id": 571,
+"hanzi": "像",
+"chars": [
+"像"
+],
+"pinyin": "xiàng",
+"pinyinSyllables": [
+"xiàng"
+],
+"pinyinNum": [
+"xiang4"
+],
+"tones": [
+4
+],
+"english": "to be like",
+"pos": "verb",
+"hsk": 3,
+"chapter": 14
+},
+{
+"id": 572,
+"hanzi": "盘子",
+"chars": [
+"盘",
+"子"
+],
+"pinyin": "pán zi",
+"pinyinSyllables": [
+"pán",
+"zi"
+],
+"pinyinNum": [
+"pan2",
+"zi5"
+],
+"tones": [
+2,
+5
+],
+"english": "plate",
+"pos": "noun",
+"hsk": 3,
+"chapter": 14
+},
+{
+"id": 573,
+"hanzi": "刮风",
+"chars": [
+"刮",
+"风"
+],
+"pinyin": "guā fēng",
+"pinyinSyllables": [
+"guā",
+"fēng"
+],
+"pinyinNum": [
+"gua1",
+"feng1"
+],
+"tones": [
+1,
+1
+],
+"english": "to be windy",
+"pos": "verb",
+"hsk": 3,
+"chapter": 14
+},
+{
+"id": 574,
+"hanzi": "叔叔",
+"chars": [
+"叔",
+"叔"
+],
+"pinyin": "shū shū",
+"pinyinSyllables": [
+"shū",
+"shū"
+],
+"pinyinNum": [
+"shu1",
+"shu1"
+],
+"tones": [
+1,
+1
+],
+"english": "uncle",
+"pos": "noun",
+"hsk": 3,
+"chapter": 14
+},
+{
+"id": 575,
+"hanzi": "阿姨",
+"chars": [
+"阿",
+"姨"
+],
+"pinyin": "ā yí",
+"pinyinSyllables": [
+"ā",
+"yí"
+],
+"pinyinNum": [
+"a1",
+"yi2"
+],
+"tones": [
+1,
+2
+],
+"english": "aunt",
+"pos": "noun",
+"hsk": 3,
+"chapter": 14
+},
+{
+"id": 576,
+"hanzi": "故事",
+"chars": [
+"故",
+"事"
+],
+"pinyin": "gù shì",
+"pinyinSyllables": [
+"gù",
+"shì"
+],
+"pinyinNum": [
+"gu4",
+"shi4"
+],
+"tones": [
+4,
+4
+],
+"english": "story",
+"pos": "noun",
+"hsk": 3,
+"chapter": 14
+},
+{
+"id": 577,
+"hanzi": "声音",
+"chars": [
+"声",
+"音"
+],
+"pinyin": "shēng yīn",
+"pinyinSyllables": [
+"shēng",
+"yīn"
+],
+"pinyinNum": [
+"sheng1",
+"yin1"
+],
+"tones": [
+1,
+1
+],
+"english": "sound, voice",
+"pos": "noun",
+"hsk": 3,
+"chapter": 14
+},
+{
+"id": 578,
+"hanzi": "菜单",
+"chars": [
+"菜",
+"单"
+],
+"pinyin": "cài dān",
+"pinyinSyllables": [
+"cài",
+"dān"
+],
+"pinyinNum": [
+"cai4",
+"dan1"
+],
+"tones": [
+4,
+1
+],
+"english": "menu",
+"pos": "noun",
+"hsk": 3,
+"chapter": 14
+},
+{
+"id": 579,
+"hanzi": "简单",
+"chars": [
+"简",
+"单"
+],
+"pinyin": "jiǎn dān",
+"pinyinSyllables": [
+"jiǎn",
+"dān"
+],
+"pinyinNum": [
+"jian3",
+"dan1"
+],
+"tones": [
+3,
+1
+],
+"english": "simple",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 14
+},
+{
+"id": 580,
+"hanzi": "香蕉",
+"chars": [
+"香",
+"蕉"
+],
+"pinyin": "xiāng jiāo",
+"pinyinSyllables": [
+"xiāng",
+"jiāo"
+],
+"pinyinNum": [
+"xiang1",
+"jiao1"
+],
+"tones": [
+1,
+1
+],
+"english": "banana",
+"pos": "noun",
+"hsk": 3,
+"chapter": 14
+},
+{
+"id": 581,
+"hanzi": "留学",
+"chars": [
+"留",
+"学"
+],
+"pinyin": "liú xué",
+"pinyinSyllables": [
+"liú",
+"xué"
+],
+"pinyinNum": [
+"liu2",
+"xue2"
+],
+"tones": [
+2,
+2
+],
+"english": "to study abroad",
+"pos": "verb",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 582,
+"hanzi": "水平",
+"chars": [
+"水",
+"平"
+],
+"pinyin": "shuǐ píng",
+"pinyinSyllables": [
+"shuǐ",
+"píng"
+],
+"pinyinNum": [
+"shui3",
+"ping2"
+],
+"tones": [
+3,
+2
+],
+"english": "level, standard",
+"pos": "noun",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 583,
+"hanzi": "提高",
+"chars": [
+"提",
+"高"
+],
+"pinyin": "tí gāo",
+"pinyinSyllables": [
+"tí",
+"gāo"
+],
+"pinyinNum": [
+"ti2",
+"gao1"
+],
+"tones": [
+2,
+1
+],
+"english": "to improve",
+"pos": "verb",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 584,
+"hanzi": "练习",
+"chars": [
+"练",
+"习"
+],
+"pinyin": "liàn xí",
+"pinyinSyllables": [
+"liàn",
+"xí"
+],
+"pinyinNum": [
+"lian4",
+"xi2"
+],
+"tones": [
+4,
+2
+],
+"english": "exercise",
+"pos": "noun",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 585,
+"hanzi": "完成",
+"chars": [
+"完",
+"成"
+],
+"pinyin": "wán chéng",
+"pinyinSyllables": [
+"wán",
+"chéng"
+],
+"pinyinNum": [
+"wan2",
+"cheng2"
+],
+"tones": [
+2,
+2
+],
+"english": "to complete",
+"pos": "verb",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 586,
+"hanzi": "句子",
+"chars": [
+"句",
+"子"
+],
+"pinyin": "jù zi",
+"pinyinSyllables": [
+"jù",
+"zi"
+],
+"pinyinNum": [
+"ju4",
+"zi5"
+],
+"tones": [
+4,
+5
+],
+"english": "sentence",
+"pos": "noun",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 587,
+"hanzi": "其他",
+"chars": [
+"其",
+"他"
+],
+"pinyin": "qí tā",
+"pinyinSyllables": [
+"qí",
+"tā"
+],
+"pinyinNum": [
+"qi2",
+"ta1"
+],
+"tones": [
+2,
+1
+],
+"english": "the rest",
+"pos": "pronoun",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 588,
+"hanzi": "发",
+"chars": [
+"发"
+],
+"pinyin": "fā",
+"pinyinSyllables": [
+"fā"
+],
+"pinyinNum": [
+"fa1"
+],
+"tones": [
+1
+],
+"english": "to send",
+"pos": "verb",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 589,
+"hanzi": "要求",
+"chars": [
+"要",
+"求"
+],
+"pinyin": "yāo qiú",
+"pinyinSyllables": [
+"yāo",
+"qiú"
+],
+"pinyinNum": [
+"yao1",
+"qiu2"
+],
+"tones": [
+1,
+2
+],
+"english": "requirement",
+"pos": "noun",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 590,
+"hanzi": "注意",
+"chars": [
+"注",
+"意"
+],
+"pinyin": "zhù yì",
+"pinyinSyllables": [
+"zhù",
+"yì"
+],
+"pinyinNum": [
+"zhu4",
+"yi4"
+],
+"tones": [
+4,
+4
+],
+"english": "to pay attention to",
+"pos": "verb",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 591,
+"hanzi": "小云",
+"chars": [
+"小",
+"云"
+],
+"pinyin": "xiǎo yún",
+"pinyinSyllables": [
+"xiǎo",
+"yún"
+],
+"pinyinNum": [
+"xiao3",
+"yun2"
+],
+"tones": [
+3,
+2
+],
+"english": "",
+"pos": "proper noun",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 592,
+"hanzi": "上网",
+"chars": [
+"上",
+"网"
+],
+"pinyin": "shàng wǎng",
+"pinyinSyllables": [
+"shàng",
+"wǎng"
+],
+"pinyinNum": [
+"shang4",
+"wang3"
+],
+"tones": [
+4,
+3
+],
+"english": "to surf the internet",
+"pos": "verb",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 593,
+"hanzi": "除了",
+"chars": [
+"除",
+"了"
+],
+"pinyin": "chú le",
+"pinyinSyllables": [
+"chú",
+"le"
+],
+"pinyinNum": [
+"chu2",
+"le5"
+],
+"tones": [
+2,
+5
+],
+"english": "other than",
+"pos": "preposition",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 594,
+"hanzi": "新闻",
+"chars": [
+"新",
+"闻"
+],
+"pinyin": "xīn wén",
+"pinyinSyllables": [
+"xīn",
+"wén"
+],
+"pinyinNum": [
+"xin1",
+"wen2"
+],
+"tones": [
+1,
+2
+],
+"english": "news",
+"pos": "noun",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 595,
+"hanzi": "花",
+"chars": [
+"花"
+],
+"pinyin": "huā",
+"pinyinSyllables": [
+"huā"
+],
+"pinyinNum": [
+"hua1"
+],
+"tones": [
+1
+],
+"english": "to spend",
+"pos": "verb",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 596,
+"hanzi": "极(了)",
+"chars": [
+"极",
+"了"
+],
+"pinyin": "jí le",
+"pinyinSyllables": [
+"jí",
+"le"
+],
+"pinyinNum": [
+"ji2",
+"le5"
+],
+"tones": [
+2,
+5
+],
+"english": "extremely",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 597,
+"hanzi": "节日",
+"chars": [
+"节",
+"日"
+],
+"pinyin": "jié rì",
+"pinyinSyllables": [
+"jié",
+"rì"
+],
+"pinyinNum": [
+"jie2",
+"ri4"
+],
+"tones": [
+2,
+4
+],
+"english": "festival",
+"pos": "noun",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 598,
+"hanzi": "举行",
+"chars": [
+"举",
+"行"
+],
+"pinyin": "jǔ xíng",
+"pinyinSyllables": [
+"jǔ",
+"xíng"
+],
+"pinyinNum": [
+"ju3",
+"xing2"
+],
+"tones": [
+3,
+2
+],
+"english": "to hold (a meeting, an event, etc.)",
+"pos": "verb",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 599,
+"hanzi": "世界",
+"chars": [
+"世",
+"界"
+],
+"pinyin": "shì jiè",
+"pinyinSyllables": [
+"shì",
+"jiè"
+],
+"pinyinNum": [
+"shi4",
+"jie4"
+],
+"tones": [
+4,
+4
+],
+"english": "world",
+"pos": "noun",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 600,
+"hanzi": "街道",
+"chars": [
+"街",
+"道"
+],
+"pinyin": "jiē dào",
+"pinyinSyllables": [
+"jiē",
+"dào"
+],
+"pinyinNum": [
+"jie1",
+"dao4"
+],
+"tones": [
+1,
+4
+],
+"english": "street",
+"pos": "noun",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 601,
+"hanzi": "各",
+"chars": [
+"各"
+],
+"pinyin": "gè",
+"pinyinSyllables": [
+"gè"
+],
+"pinyinNum": [
+"ge4"
+],
+"tones": [
+4
+],
+"english": "each",
+"pos": "pronoun",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 602,
+"hanzi": "文化",
+"chars": [
+"文",
+"化"
+],
+"pinyin": "wén huà",
+"pinyinSyllables": [
+"wén",
+"huà"
+],
+"pinyinNum": [
+"wen2",
+"hua4"
+],
+"tones": [
+2,
+4
+],
+"english": "culture",
+"pos": "noun",
+"hsk": 3,
+"chapter": 15
+},
+{
+"id": 603,
+"hanzi": "城市",
+"chars": [
+"城",
+"市"
+],
+"pinyin": "chéng shì",
+"pinyinSyllables": [
+"chéng",
+"shì"
+],
+"pinyinNum": [
+"cheng2",
+"shi4"
+],
+"tones": [
+2,
+4
+],
+"english": "city",
+"pos": "noun",
+"hsk": 3,
+"chapter": 16
+},
+{
+"id": 604,
+"hanzi": "如果",
+"chars": [
+"如",
+"果"
+],
+"pinyin": "rú guǒ",
+"pinyinSyllables": [
+"rú",
+"guǒ"
+],
+"pinyinNum": [
+"ru2",
+"guo3"
+],
+"tones": [
+2,
+3
+],
+"english": "if, in case",
+"pos": "conjunction",
+"hsk": 3,
+"chapter": 16
+},
+{
+"id": 605,
+"hanzi": "认为",
+"chars": [
+"认",
+"为"
+],
+"pinyin": "rèn wéi",
+"pinyinSyllables": [
+"rèn",
+"wéi"
+],
+"pinyinNum": [
+"ren4",
+"wei2"
+],
+"tones": [
+4,
+2
+],
+"english": "to think, to believe",
+"pos": "verb",
+"hsk": 3,
+"chapter": 16
+},
+{
+"id": 606,
+"hanzi": "皮鞋",
+"chars": [
+"皮",
+"鞋"
+],
+"pinyin": "pí xié",
+"pinyinSyllables": [
+"pí",
+"xié"
+],
+"pinyinNum": [
+"pi2",
+"xie2"
+],
+"tones": [
+2,
+2
+],
+"english": "leather shoes",
+"pos": "noun",
+"hsk": 3,
+"chapter": 16
+},
+{
+"id": 607,
+"hanzi": "帽子",
+"chars": [
+"帽",
+"子"
+],
+"pinyin": "mào zi",
+"pinyinSyllables": [
+"mào",
+"zi"
+],
+"pinyinNum": [
+"mao4",
+"zi5"
+],
+"tones": [
+4,
+5
+],
+"english": "hat, cap",
+"pos": "noun",
+"hsk": 3,
+"chapter": 16
+},
+{
+"id": 608,
+"hanzi": "长",
+"chars": [
+"长"
+],
+"pinyin": "zhǎng",
+"pinyinSyllables": [
+"zhǎng"
+],
+"pinyinNum": [
+"zhang3"
+],
+"tones": [
+3
+],
+"english": "to grow, to develop",
+"pos": "verb",
+"hsk": 3,
+"chapter": 16
+},
+{
+"id": 609,
+"hanzi": "可爱",
+"chars": [
+"可",
+"爱"
+],
+"pinyin": "kě ài",
+"pinyinSyllables": [
+"kě",
+"ài"
+],
+"pinyinNum": [
+"ke3",
+"ai4"
+],
+"tones": [
+3,
+4
+],
+"english": "lovely, adorable",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 16
+},
+{
+"id": 610,
+"hanzi": "米",
+"chars": [
+"米"
+],
+"pinyin": "mǐ",
+"pinyinSyllables": [
+"mǐ"
+],
+"pinyinNum": [
+"mi3"
+],
+"tones": [
+3
+],
+"english": "metre",
+"pos": "noun",
+"hsk": 3,
+"chapter": 16
+},
+{
+"id": 611,
+"hanzi": "公斤",
+"chars": [
+"公",
+"斤"
+],
+"pinyin": "gōng jīn",
+"pinyinSyllables": [
+"gōng",
+"jīn"
+],
+"pinyinNum": [
+"gong1",
+"jin1"
+],
+"tones": [
+1,
+1
+],
+"english": "kilogramme",
+"pos": "noun",
+"hsk": 3,
+"chapter": 16
+},
+{
+"id": 612,
+"hanzi": "鼻子",
+"chars": [
+"鼻",
+"子"
+],
+"pinyin": "bí zi",
+"pinyinSyllables": [
+"bí",
+"zi"
+],
+"pinyinNum": [
+"bi2",
+"zi5"
+],
+"tones": [
+2,
+5
+],
+"english": "nose",
+"pos": "noun",
+"hsk": 3,
+"chapter": 16
+},
+{
+"id": 613,
+"hanzi": "头发",
+"chars": [
+"头",
+"发"
+],
+"pinyin": "tóu fà",
+"pinyinSyllables": [
+"tóu",
+"fà"
+],
+"pinyinNum": [
+"tou2",
+"fa4"
+],
+"tones": [
+2,
+4
+],
+"english": "hair",
+"pos": "noun",
+"hsk": 3,
+"chapter": 16
+},
+{
+"id": 614,
+"hanzi": "检查",
+"chars": [
+"检",
+"查"
+],
+"pinyin": "jiǎn chá",
+"pinyinSyllables": [
+"jiǎn",
+"chá"
+],
+"pinyinNum": [
+"jian3",
+"cha2"
+],
+"tones": [
+3,
+2
+],
+"english": "to check, to examine",
+"pos": "verb",
+"hsk": 3,
+"chapter": 16
+},
+{
+"id": 615,
+"hanzi": "刷牙",
+"chars": [
+"刷",
+"牙"
+],
+"pinyin": "shuā yá",
+"pinyinSyllables": [
+"shuā",
+"yá"
+],
+"pinyinNum": [
+"shua1",
+"ya2"
+],
+"tones": [
+1,
+2
+],
+"english": "to brush teeth",
+"pos": "verb",
+"hsk": 3,
+"chapter": 16
+},
+{
+"id": 616,
+"hanzi": "关系",
+"chars": [
+"关",
+"系"
+],
+"pinyin": "guān xì",
+"pinyinSyllables": [
+"guān",
+"xì"
+],
+"pinyinNum": [
+"guan1",
+"xi4"
+],
+"tones": [
+1,
+4
+],
+"english": "relationship",
+"pos": "noun",
+"hsk": 3,
+"chapter": 16
+},
+{
+"id": 617,
+"hanzi": "别人",
+"chars": [
+"别",
+"人"
+],
+"pinyin": "bié rén",
+"pinyinSyllables": [
+"bié",
+"rén"
+],
+"pinyinNum": [
+"bie2",
+"ren2"
+],
+"tones": [
+2,
+2
+],
+"english": "other people",
+"pos": "noun",
+"hsk": 3,
+"chapter": 16
+},
+{
+"id": 618,
+"hanzi": "词语",
+"chars": [
+"词",
+"语"
+],
+"pinyin": "cí yǔ",
+"pinyinSyllables": [
+"cí",
+"yǔ"
+],
+"pinyinNum": [
+"ci2",
+"yu3"
+],
+"tones": [
+2,
+3
+],
+"english": "word, expression",
+"pos": "noun",
+"hsk": 3,
+"chapter": 16
+},
+{
+"id": 619,
+"hanzi": "请假",
+"chars": [
+"请",
+"假"
+],
+"pinyin": "qǐng jià",
+"pinyinSyllables": [
+"qǐng",
+"jià"
+],
+"pinyinNum": [
+"qing3",
+"jia4"
+],
+"tones": [
+3,
+4
+],
+"english": "to ask for leave",
+"pos": "verb",
+"hsk": 3,
+"chapter": 17
+},
+{
+"id": 620,
+"hanzi": "一共",
+"chars": [
+"一",
+"共"
+],
+"pinyin": "yī gòng",
+"pinyinSyllables": [
+"yī",
+"gòng"
+],
+"pinyinNum": [
+"yi1",
+"gong4"
+],
+"tones": [
+1,
+4
+],
+"english": "in total",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 17
+},
+{
+"id": 621,
+"hanzi": "邻居",
+"chars": [
+"邻",
+"居"
+],
+"pinyin": "lín jū",
+"pinyinSyllables": [
+"lín",
+"jū"
+],
+"pinyinNum": [
+"lin2",
+"ju1"
+],
+"tones": [
+2,
+1
+],
+"english": "neighbour",
+"pos": "noun",
+"hsk": 3,
+"chapter": 17
+},
+{
+"id": 622,
+"hanzi": "后来",
+"chars": [
+"后",
+"来"
+],
+"pinyin": "hòu lái",
+"pinyinSyllables": [
+"hòu",
+"lái"
+],
+"pinyinNum": [
+"hou4",
+"lai2"
+],
+"tones": [
+4,
+2
+],
+"english": "later, afterwards",
+"pos": "noun",
+"hsk": 3,
+"chapter": 17
+},
+{
+"id": 623,
+"hanzi": "爱好",
+"chars": [
+"爱",
+"好"
+],
+"pinyin": "ài hào",
+"pinyinSyllables": [
+"ài",
+"hào"
+],
+"pinyinNum": [
+"ai4",
+"hao4"
+],
+"tones": [
+4,
+4
+],
+"english": "hobby，interest",
+"pos": "noun",
+"hsk": 3,
+"chapter": 17
+},
+{
+"id": 624,
+"hanzi": "办法",
+"chars": [
+"办",
+"法"
+],
+"pinyin": "bàn fǎ",
+"pinyinSyllables": [
+"bàn",
+"fǎ"
+],
+"pinyinNum": [
+"ban4",
+"fa3"
+],
+"tones": [
+4,
+3
+],
+"english": "way, approach",
+"pos": "noun",
+"hsk": 3,
+"chapter": 17
+},
+{
+"id": 625,
+"hanzi": "饱",
+"chars": [
+"饱"
+],
+"pinyin": "bǎo",
+"pinyinSyllables": [
+"bǎo"
+],
+"pinyinNum": [
+"bao3"
+],
+"tones": [
+3
+],
+"english": "full, having eaten one's fill",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 17
+},
+{
+"id": 626,
+"hanzi": "为了",
+"chars": [
+"为",
+"了"
+],
+"pinyin": "wèi le",
+"pinyinSyllables": [
+"wèi",
+"le"
+],
+"pinyinNum": [
+"wei4",
+"le5"
+],
+"tones": [
+4,
+5
+],
+"english": "for the sake of",
+"pos": "preposition",
+"hsk": 3,
+"chapter": 17
+},
+{
+"id": 627,
+"hanzi": "决定",
+"chars": [
+"决",
+"定"
+],
+"pinyin": "jué dìng",
+"pinyinSyllables": [
+"jué",
+"dìng"
+],
+"pinyinNum": [
+"jue2",
+"ding4"
+],
+"tones": [
+2,
+4
+],
+"english": "to decide",
+"pos": "verb",
+"hsk": 3,
+"chapter": 17
+},
+{
+"id": 628,
+"hanzi": "选择",
+"chars": [
+"选",
+"择"
+],
+"pinyin": "xuǎn zé",
+"pinyinSyllables": [
+"xuǎn",
+"zé"
+],
+"pinyinNum": [
+"xuan3",
+"ze2"
+],
+"tones": [
+3,
+2
+],
+"english": "to choose",
+"pos": "verb",
+"hsk": 3,
+"chapter": 17
+},
+{
+"id": 629,
+"hanzi": "冬(天)",
+"chars": [
+"冬",
+"天"
+],
+"pinyin": "dōng tiān",
+"pinyinSyllables": [
+"dōng",
+"tiān"
+],
+"pinyinNum": [
+"dong1",
+"tian1"
+],
+"tones": [
+1,
+1
+],
+"english": "winter",
+"pos": "noun",
+"hsk": 3,
+"chapter": 17
+},
+{
+"id": 630,
+"hanzi": "必须",
+"chars": [
+"必",
+"须"
+],
+"pinyin": "bì xū",
+"pinyinSyllables": [
+"bì",
+"xū"
+],
+"pinyinNum": [
+"bi4",
+"xu1"
+],
+"tones": [
+4,
+1
+],
+"english": "must",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 17
+},
+{
+"id": 631,
+"hanzi": "根据",
+"chars": [
+"根",
+"据"
+],
+"pinyin": "gēn jù",
+"pinyinSyllables": [
+"gēn",
+"jù"
+],
+"pinyinNum": [
+"gen1",
+"ju4"
+],
+"tones": [
+1,
+4
+],
+"english": "according to, based on",
+"pos": "preposition",
+"hsk": 3,
+"chapter": 17
+},
+{
+"id": 632,
+"hanzi": "情况",
+"chars": [
+"情",
+"况"
+],
+"pinyin": "qíng kuàng",
+"pinyinSyllables": [
+"qíng",
+"kuàng"
+],
+"pinyinNum": [
+"qing2",
+"kuang4"
+],
+"tones": [
+2,
+4
+],
+"english": "condition, situation",
+"pos": "noun",
+"hsk": 3,
+"chapter": 17
+},
+{
+"id": 633,
+"hanzi": "口",
+"chars": [
+"口"
+],
+"pinyin": "kǒu",
+"pinyinSyllables": [
+"kǒu"
+],
+"pinyinNum": [
+"kou3"
+],
+"tones": [
+3
+],
+"english": "mouth",
+"pos": "noun",
+"hsk": 3,
+"chapter": 17
+},
+{
+"id": 634,
+"hanzi": "渴",
+"chars": [
+"渴"
+],
+"pinyin": "kě",
+"pinyinSyllables": [
+"kě"
+],
+"pinyinNum": [
+"ke3"
+],
+"tones": [
+3
+],
+"english": "thirsty",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 17
+},
+{
+"id": 635,
+"hanzi": "向",
+"chars": [
+"向"
+],
+"pinyin": "xiàng",
+"pinyinSyllables": [
+"xiàng"
+],
+"pinyinNum": [
+"xiang4"
+],
+"tones": [
+4
+],
+"english": "towards",
+"pos": "preposition",
+"hsk": 3,
+"chapter": 18
+},
+{
+"id": 636,
+"hanzi": "万",
+"chars": [
+"万"
+],
+"pinyin": "wàn",
+"pinyinSyllables": [
+"wàn"
+],
+"pinyinNum": [
+"wan4"
+],
+"tones": [
+4
+],
+"english": "ten thousand",
+"pos": "number",
+"hsk": 3,
+"chapter": 18
+},
+{
+"id": 637,
+"hanzi": "只",
+"chars": [
+"只"
+],
+"pinyin": "zhǐ",
+"pinyinSyllables": [
+"zhǐ"
+],
+"pinyinNum": [
+"zhi3"
+],
+"tones": [
+3
+],
+"english": "used for certain animals",
+"pos": "measure word",
+"hsk": 3,
+"chapter": 18
+},
+{
+"id": 638,
+"hanzi": "嘴",
+"chars": [
+"嘴"
+],
+"pinyin": "zuǐ",
+"pinyinSyllables": [
+"zuǐ"
+],
+"pinyinNum": [
+"zui3"
+],
+"tones": [
+3
+],
+"english": "mouth",
+"pos": "noun",
+"hsk": 3,
+"chapter": 18
+},
+{
+"id": 639,
+"hanzi": "动物",
+"chars": [
+"动",
+"物"
+],
+"pinyin": "dòng wù",
+"pinyinSyllables": [
+"dòng",
+"wù"
+],
+"pinyinNum": [
+"dong4",
+"wu4"
+],
+"tones": [
+4,
+4
+],
+"english": "animal",
+"pos": "noun",
+"hsk": 3,
+"chapter": 18
+},
+{
+"id": 640,
+"hanzi": "段",
+"chars": [
+"段"
+],
+"pinyin": "duàn",
+"pinyinSyllables": [
+"duàn"
+],
+"pinyinNum": [
+"duan4"
+],
+"tones": [
+4
+],
+"english": "used for sections or periods",
+"pos": "measure word",
+"hsk": 3,
+"chapter": 18
+},
+{
+"id": 641,
+"hanzi": "不但……而且……",
+"chars": [
+"不",
+"但",
+"而",
+"且"
+],
+"pinyin": "bù dàn ér qiě",
+"pinyinSyllables": [
+"bù",
+"dàn",
+"ér",
+"qiě"
+],
+"pinyinNum": [
+"bu4",
+"dan4",
+"er2",
+"qie3"
+],
+"tones": [
+4,
+4,
+2,
+3
+],
+"english": "not only…… but also……",
+"pos": "conjunction",
+"hsk": 3,
+"chapter": 18
+},
+{
+"id": 642,
+"hanzi": "有名",
+"chars": [
+"有",
+"名"
+],
+"pinyin": "yǒu míng",
+"pinyinSyllables": [
+"yǒu",
+"míng"
+],
+"pinyinNum": [
+"you3",
+"ming2"
+],
+"tones": [
+3,
+2
+],
+"english": "famous",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 18
+},
+{
+"id": 643,
+"hanzi": "同意",
+"chars": [
+"同",
+"意"
+],
+"pinyin": "tóng yì",
+"pinyinSyllables": [
+"tóng",
+"yì"
+],
+"pinyinNum": [
+"tong2",
+"yi4"
+],
+"tones": [
+2,
+4
+],
+"english": "to agree",
+"pos": "verb",
+"hsk": 3,
+"chapter": 18
+},
+{
+"id": 644,
+"hanzi": "相信",
+"chars": [
+"相",
+"信"
+],
+"pinyin": "xiāng xìn",
+"pinyinSyllables": [
+"xiāng",
+"xìn"
+],
+"pinyinNum": [
+"xiang1",
+"xin4"
+],
+"tones": [
+1,
+4
+],
+"english": "to believe",
+"pos": "verb",
+"hsk": 3,
+"chapter": 18
+},
+{
+"id": 645,
+"hanzi": "关于",
+"chars": [
+"关",
+"于"
+],
+"pinyin": "guān yú",
+"pinyinSyllables": [
+"guān",
+"yú"
+],
+"pinyinNum": [
+"guan1",
+"yu2"
+],
+"tones": [
+1,
+2
+],
+"english": "about, regarding",
+"pos": "preposition",
+"hsk": 3,
+"chapter": 18
+},
+{
+"id": 646,
+"hanzi": "机会",
+"chars": [
+"机",
+"会"
+],
+"pinyin": "jī huì",
+"pinyinSyllables": [
+"jī",
+"huì"
+],
+"pinyinNum": [
+"ji1",
+"hui4"
+],
+"tones": [
+1,
+4
+],
+"english": "opportunity",
+"pos": "noun",
+"hsk": 3,
+"chapter": 18
+},
+{
+"id": 647,
+"hanzi": "国家",
+"chars": [
+"国",
+"家"
+],
+"pinyin": "guó jiā",
+"pinyinSyllables": [
+"guó",
+"jiā"
+],
+"pinyinNum": [
+"guo2",
+"jia1"
+],
+"tones": [
+2,
+1
+],
+"english": "country, nation",
+"pos": "noun",
+"hsk": 3,
+"chapter": 18
+},
+{
+"id": 648,
+"hanzi": "种",
+"chars": [
+"种"
+],
+"pinyin": "zhǒng",
+"pinyinSyllables": [
+"zhǒng"
+],
+"pinyinNum": [
+"zhong3"
+],
+"tones": [
+3
+],
+"english": "kind, type",
+"pos": "modal verb",
+"hsk": 3,
+"chapter": 18
+},
+{
+"id": 649,
+"hanzi": "特点",
+"chars": [
+"特",
+"点"
+],
+"pinyin": "tè diǎn",
+"pinyinSyllables": [
+"tè",
+"diǎn"
+],
+"pinyinNum": [
+"te4",
+"dian3"
+],
+"tones": [
+4,
+3
+],
+"english": "feature",
+"pos": "noun",
+"hsk": 3,
+"chapter": 18
+},
+{
+"id": 650,
+"hanzi": "奇怪",
+"chars": [
+"奇",
+"怪"
+],
+"pinyin": "qí guài",
+"pinyinSyllables": [
+"qí",
+"guài"
+],
+"pinyinNum": [
+"qi2",
+"guai4"
+],
+"tones": [
+2,
+4
+],
+"english": "strange, odd",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 18
+},
+{
+"id": 651,
+"hanzi": "地",
+"chars": [
+"地"
+],
+"pinyin": "dì",
+"pinyinSyllables": [
+"dì"
+],
+"pinyinNum": [
+"di4"
+],
+"tones": [
+4
+],
+"english": "used to connect an adverbial modifier and the verb it modifies",
+"pos": "particle",
+"hsk": 3,
+"chapter": 18
+},
+{
+"id": 652,
+"hanzi": "耳朵",
+"chars": [
+"耳",
+"朵"
+],
+"pinyin": "ěr duǒ",
+"pinyinSyllables": [
+"ěr",
+"duǒ"
+],
+"pinyinNum": [
+"er3",
+"duo3"
+],
+"tones": [
+3,
+3
+],
+"english": "ear",
+"pos": "noun",
+"hsk": 3,
+"chapter": 19
+},
+{
+"id": 653,
+"hanzi": "脸",
+"chars": [
+"脸"
+],
+"pinyin": "liǎn",
+"pinyinSyllables": [
+"liǎn"
+],
+"pinyinNum": [
+"lian3"
+],
+"tones": [
+3
+],
+"english": "face",
+"pos": "noun",
+"hsk": 3,
+"chapter": 19
+},
+{
+"id": 654,
+"hanzi": "短",
+"chars": [
+"短"
+],
+"pinyin": "duǎn",
+"pinyinSyllables": [
+"duǎn"
+],
+"pinyinNum": [
+"duan3"
+],
+"tones": [
+3
+],
+"english": "short",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 19
+},
+{
+"id": 655,
+"hanzi": "马",
+"chars": [
+"马"
+],
+"pinyin": "mǎ",
+"pinyinSyllables": [
+"mǎ"
+],
+"pinyinNum": [
+"ma3"
+],
+"tones": [
+3
+],
+"english": "horse",
+"pos": "noun",
+"hsk": 3,
+"chapter": 19
+},
+{
+"id": 656,
+"hanzi": "张",
+"chars": [
+"张"
+],
+"pinyin": "zhāng",
+"pinyinSyllables": [
+"zhāng"
+],
+"pinyinNum": [
+"zhang1"
+],
+"tones": [
+1
+],
+"english": "used for flat objects such as paper，photos, etc.",
+"pos": "measure word",
+"hsk": 3,
+"chapter": 19
+},
+{
+"id": 657,
+"hanzi": "位",
+"chars": [
+"位"
+],
+"pinyin": "wèi",
+"pinyinSyllables": [
+"wèi"
+],
+"pinyinNum": [
+"wei4"
+],
+"tones": [
+4
+],
+"english": "a respectful measure word for people",
+"pos": "measure word",
+"hsk": 3,
+"chapter": 19
+},
+{
+"id": 658,
+"hanzi": "蓝",
+"chars": [
+"蓝"
+],
+"pinyin": "lán",
+"pinyinSyllables": [
+"lán"
+],
+"pinyinNum": [
+"lan2"
+],
+"tones": [
+2
+],
+"english": "blue",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 19
+},
+{
+"id": 659,
+"hanzi": "秋天",
+"chars": [
+"秋",
+"天"
+],
+"pinyin": "qiū tiān",
+"pinyinSyllables": [
+"qiū",
+"tiān"
+],
+"pinyinNum": [
+"qiu1",
+"tian1"
+],
+"tones": [
+1,
+1
+],
+"english": "autumn,fall",
+"pos": "noun",
+"hsk": 3,
+"chapter": 19
+},
+{
+"id": 660,
+"hanzi": "过",
+"chars": [
+"过"
+],
+"pinyin": "guò",
+"pinyinSyllables": [
+"guò"
+],
+"pinyinNum": [
+"guo4"
+],
+"tones": [
+4
+],
+"english": "to spend, to pass",
+"pos": "verb",
+"hsk": 3,
+"chapter": 19
+},
+{
+"id": 661,
+"hanzi": "鸟",
+"chars": [
+"鸟"
+],
+"pinyin": "niǎo",
+"pinyinSyllables": [
+"niǎo"
+],
+"pinyinNum": [
+"niao3"
+],
+"tones": [
+3
+],
+"english": "bird",
+"pos": "noun",
+"hsk": 3,
+"chapter": 19
+},
+{
+"id": 662,
+"hanzi": "哭",
+"chars": [
+"哭"
+],
+"pinyin": "kū",
+"pinyinSyllables": [
+"kū"
+],
+"pinyinNum": [
+"ku1"
+],
+"tones": [
+1
+],
+"english": "to cry",
+"pos": "verb",
+"hsk": 3,
+"chapter": 19
+},
+{
+"id": 663,
+"hanzi": "黄河",
+"chars": [
+"黄",
+"河"
+],
+"pinyin": "huáng hé",
+"pinyinSyllables": [
+"huáng",
+"hé"
+],
+"pinyinNum": [
+"huang2",
+"he2"
+],
+"tones": [
+2,
+2
+],
+"english": "Yellow River. The second longest river in China",
+"pos": "noun",
+"hsk": 3,
+"chapter": 19
+},
+{
+"id": 664,
+"hanzi": "船",
+"chars": [
+"船"
+],
+"pinyin": "chuán",
+"pinyinSyllables": [
+"chuán"
+],
+"pinyinNum": [
+"chuan2"
+],
+"tones": [
+2
+],
+"english": "boat, ship",
+"pos": "noun",
+"hsk": 3,
+"chapter": 19
+},
+{
+"id": 665,
+"hanzi": "经过",
+"chars": [
+"经",
+"过"
+],
+"pinyin": "jīng guò",
+"pinyinSyllables": [
+"jīng",
+"guò"
+],
+"pinyinNum": [
+"jing1",
+"guo4"
+],
+"tones": [
+1,
+4
+],
+"english": "to pass by",
+"pos": "verb",
+"hsk": 3,
+"chapter": 19
+},
+{
+"id": 666,
+"hanzi": "照相机",
+"chars": [
+"照",
+"相",
+"机"
+],
+"pinyin": "zhào xiàng jī",
+"pinyinSyllables": [
+"zhào",
+"xiàng",
+"jī"
+],
+"pinyinNum": [
+"zhao4",
+"xiang4",
+"ji1"
+],
+"tones": [
+4,
+4,
+1
+],
+"english": "camera",
+"pos": "noun",
+"hsk": 3,
+"chapter": 20
+},
+{
+"id": 667,
+"hanzi": "被",
+"chars": [
+"被"
+],
+"pinyin": "bèi",
+"pinyinSyllables": [
+"bèi"
+],
+"pinyinNum": [
+"bei4"
+],
+"tones": [
+4
+],
+"english": "used to indicate the passive voice",
+"pos": "preposition",
+"hsk": 3,
+"chapter": 20
+},
+{
+"id": 668,
+"hanzi": "难过",
+"chars": [
+"难",
+"过"
+],
+"pinyin": "nán guò",
+"pinyinSyllables": [
+"nán",
+"guò"
+],
+"pinyinNum": [
+"nan2",
+"guo4"
+],
+"tones": [
+2,
+4
+],
+"english": "sad",
+"pos": "adjective",
+"hsk": 3,
+"chapter": 20
+},
+{
+"id": 669,
+"hanzi": "东",
+"chars": [
+"东"
+],
+"pinyin": "dōng",
+"pinyinSyllables": [
+"dōng"
+],
+"pinyinNum": [
+"dong1"
+],
+"tones": [
+1
+],
+"english": "east",
+"pos": "noun",
+"hsk": 3,
+"chapter": 20
+},
+{
+"id": 670,
+"hanzi": "信用卡",
+"chars": [
+"信",
+"用",
+"卡"
+],
+"pinyin": "xìn yòng kǎ",
+"pinyinSyllables": [
+"xìn",
+"yòng",
+"kǎ"
+],
+"pinyinNum": [
+"xin4",
+"yong4",
+"ka3"
+],
+"tones": [
+4,
+4,
+3
+],
+"english": "credit card",
+"pos": "noun",
+"hsk": 3,
+"chapter": 20
+},
+{
+"id": 671,
+"hanzi": "关心",
+"chars": [
+"关",
+"心"
+],
+"pinyin": "guān xīn",
+"pinyinSyllables": [
+"guān",
+"xīn"
+],
+"pinyinNum": [
+"guan1",
+"xin1"
+],
+"tones": [
+1,
+1
+],
+"english": "to care for, to be interested in",
+"pos": "verb",
+"hsk": 3,
+"chapter": 20
+},
+{
+"id": 672,
+"hanzi": "只有……才………",
+"chars": [
+"只",
+"有",
+"才"
+],
+"pinyin": "zhǐ yǒu cái",
+"pinyinSyllables": [
+"zhǐ",
+"yǒu",
+"cái"
+],
+"pinyinNum": [
+"zhi3",
+"you3",
+"cai2"
+],
+"tones": [
+3,
+3,
+2
+],
+"english": "only... (that cán...)",
+"pos": "conjunction",
+"hsk": 3,
+"chapter": 20
+},
+{
+"id": 673,
+"hanzi": "成绩",
+"chars": [
+"成",
+"绩"
+],
+"pinyin": "chéng jì",
+"pinyinSyllables": [
+"chéng",
+"jì"
+],
+"pinyinNum": [
+"cheng2",
+"ji4"
+],
+"tones": [
+2,
+4
+],
+"english": "grade, performance, achievement",
+"pos": "noun",
+"hsk": 3,
+"chapter": 20
+},
+{
+"id": 674,
+"hanzi": "碗",
+"chars": [
+"碗"
+],
+"pinyin": "wǎn",
+"pinyinSyllables": [
+"wǎn"
+],
+"pinyinNum": [
+"wan3"
+],
+"tones": [
+3
+],
+"english": "bowl",
+"pos": "noun",
+"hsk": 3,
+"chapter": 20
+},
+{
+"id": 675,
+"hanzi": "分",
+"chars": [
+"分"
+],
+"pinyin": "fēn",
+"pinyinSyllables": [
+"fēn"
+],
+"pinyinNum": [
+"fen1"
+],
+"tones": [
+1
+],
+"english": "to distinguish",
+"pos": "verb",
+"hsk": 3,
+"chapter": 20
+},
+{
+"id": 676,
+"hanzi": "解决",
+"chars": [
+"解",
+"决"
+],
+"pinyin": "jiě jué",
+"pinyinSyllables": [
+"jiě",
+"jué"
+],
+"pinyinNum": [
+"jie3",
+"jue2"
+],
+"tones": [
+3,
+2
+],
+"english": "to solve",
+"pos": "verb",
+"hsk": 3,
+"chapter": 20
+},
+{
+"id": 677,
+"hanzi": "试",
+"chars": [
+"试"
+],
+"pinyin": "shì",
+"pinyinSyllables": [
+"shì"
+],
+"pinyinNum": [
+"shi4"
+],
+"tones": [
+4
+],
+"english": "to try",
+"pos": "verb",
+"hsk": 3,
+"chapter": 20
+},
+{
+"id": 678,
+"hanzi": "真正",
+"chars": [
+"真",
+"正"
+],
+"pinyin": "zhēn zhèng",
+"pinyinSyllables": [
+"zhēn",
+"zhèng"
+],
+"pinyinNum": [
+"zhen1",
+"zheng4"
+],
+"tones": [
+1,
+4
+],
+"english": "really, truly",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 20
+},
+{
+"id": 679,
+"hanzi": "多么",
+"chars": [
+"多",
+"么"
+],
+"pinyin": "duō me",
+"pinyinSyllables": [
+"duō",
+"me"
+],
+"pinyinNum": [
+"duo1",
+"me5"
+],
+"tones": [
+1,
+5
+],
+"english": "very, to a great extent",
+"pos": "adverb",
+"hsk": 3,
+"chapter": 20
+}
+]
